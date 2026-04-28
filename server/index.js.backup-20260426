@@ -1,0 +1,586 @@
+import express from 'express';
+import cors from 'cors';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
+import fs from 'fs';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const app = express();
+const PORT = 3001;
+
+// Middleware
+app.use(cors());
+app.use(express.json({ limit: '10mb' }));
+
+// ============================================
+// 美国大学数据库（含真实录取率/学费/排名）
+// 数据来源：USNEWS 2024 + 官网数据
+// ============================================
+const US_UNIVERSITIES_DB = [
+  // ==================== 常青藤 + 顶尖私立 ====================
+  { name: "Harvard University", shortName: "Harvard", type: "私立", rank: 3, admissionRate: 3.4, tuition: 54720, location: "Cambridge, MA", major: "综合", description: "全美最顶尖学府，历史悠久" },
+  { name: "Yale University", shortName: "Yale", type: "私立", rank: 5, admissionRate: 4.4, tuition: 57254, location: "New Haven, CT", major: "综合", description: "法学、人文社科顶尖" },
+  { name: "Princeton University", shortName: "Princeton", type: "私立", rank: 1, admissionRate: 4.4, tuition: 54894, location: "Princeton, NJ", major: "综合", description: "本科教育全美第一" },
+  { name: "Columbia University", shortName: "Columbia", type: "私立", rank: 7, admissionRate: 4.1, tuition: 61410, location: "New York, NY", major: "综合", description: "地理位置优越，曼哈顿核心" },
+  { name: "University of Pennsylvania", shortName: "UPenn", type: "私立", rank: 6, admissionRate: 5.8, tuition: 58750, location: "Philadelphia, PA", major: "综合", description: "沃顿商学院闻名" },
+  { name: "Brown University", shortName: "Brown", type: "私立", rank: 9, admissionRate: 5.1, tuition: 58312, location: "Providence, RI", major: "综合", description: "开放课程体系" },
+  { name: "Dartmouth College", shortName: "Dartmouth", type: "私立", rank: 12, admissionRate: 6.2, tuition: 59592, location: "Hanover, NH", major: "综合", description: "小班精英教育" },
+  { name: "Cornell University", shortName: "Cornell", type: "私立", rank: 12, admissionRate: 7.9, tuition: 59790, location: "Ithaca, NY", major: "综合", description: "工程、Hotel管理顶尖" },
+  
+  // ==================== MIT + Stanford ====================
+  { name: "Massachusetts Institute of Technology", shortName: "MIT", type: "私立", rank: 2, admissionRate: 3.9, tuition: 55718, location: "Cambridge, MA", major: "工程", description: "工程和科学全球第一" },
+  { name: "Stanford University", shortName: "Stanford", type: "私立", rank: 3, admissionRate: 4.0, tuition: 57473, location: "Stanford, CA", major: "综合", description: "硅谷创业圣地" },
+  
+  // ==================== 其他顶尖私立 ====================
+  { name: "University of Chicago", shortName: "UChicago", type: "私立", rank: 12, admissionRate: 5.9, tuition: 62478, location: "Chicago, IL", major: "综合", description: "经济学、社会学顶尖" },
+  { name: "California Institute of Technology", shortName: "Caltech", type: "私立", rank: 7, admissionRate: 2.7, tuition: 60152, location: "Pasadena, CA", major: "科学", description: "理工科全球顶尖" },
+  { name: "Northwestern University", shortName: "Northwestern", type: "私立", rank: 9, admissionRate: 7.2, tuition: 60768, location: "Evanston, IL", major: "综合", description: "新闻传播、商学院顶尖" },
+  { name: "Duke University", shortName: "Duke", type: "私立", rank: 7, admissionRate: 5.1, tuition: 63763, location: "Durham, NC", major: "综合", description: "医学、商学院顶尖" },
+  { name: "Johns Hopkins University", shortName: "JHU", type: "私立", rank: 9, admissionRate: 6.5, tuition: 60420, location: "Baltimore, MD", major: "综合", description: "医学、公共健康全球第一" },
+  { name: "Rice University", shortName: "Rice", type: "私立", rank: 17, admissionRate: 8.7, tuition: 56528, location: "Houston, TX", major: "综合", description: "工程、建筑学顶尖" },
+  { name: "Vanderbilt University", shortName: "Vanderbilt", type: "私立", rank: 18, admissionRate: 5.6, tuition: 59468, location: "Nashville, TN", major: "综合", description: "教育学、医学顶尖" },
+  { name: "University of Notre Dame", shortName: "Notre Dame", type: "私立", rank: 20, admissionRate: 12.9, tuition: 60455, location: "Notre Dame, IN", major: "综合", description: "商学院、法学顶尖" },
+  { name: "Emory University", shortName: "Emory", type: "私立", rank: 24, admissionRate: 11.5, tuition: 57720, location: "Atlanta, GA", major: "综合", description: "医学、预科顶尖" },
+  { name: "Washington University in St. Louis", shortName: "WashU", type: "私立", rank: 24, admissionRate: 11.3, tuition: 59970, location: "St. Louis, MO", major: "综合", description: "医学、商学院顶尖" },
+  
+  // ==================== 顶尖公立 ====================
+  { name: "University of California, Berkeley", shortName: "UC Berkeley", type: "公立", rank: 15, admissionRate: 11.6, tuition: 44580, location: "Berkeley, CA", major: "综合", description: "CS、工程、自然科学顶尖" },
+  { name: "University of California, Los Angeles", shortName: "UCLA", type: "公立", rank: 15, admissionRate: 8.8, tuition: 44390, location: "Los Angeles, CA", major: "综合", description: "综合实力强" },
+  { name: "University of California, San Diego", shortName: "UCSD", type: "公立", rank: 21, admissionRate: 24.3, tuition: 44390, location: "La Jolla, CA", major: "综合", description: "工程、生物、CS顶尖" },
+  { name: "University of California, Davis", shortName: "UC Davis", type: "公立", rank: 28, admissionRate: 37.5, tuition: 44390, location: "Davis, CA", major: "综合", description: "农业、环境科学顶尖" },
+  { name: "University of California, Irvine", shortName: "UCI", type: "公立", rank: 33, admissionRate: 26.1, tuition: 44390, location: "Irvine, CA", major: "综合", description: "CS、信息科学顶尖" },
+  { name: "University of California, Santa Barbara", shortName: "UCSB", type: "公立", rank: 35, admissionRate: 26.1, tuition: 44390, location: "Santa Barbara, CA", major: "综合", description: "工程、物理顶尖" },
+  { name: "University of Michigan", shortName: "UMich", type: "公立", rank: 21, admissionRate: 18.0, tuition: 57986, location: "Ann Arbor, MI", major: "综合", description: "工程、商学院顶尖" },
+  { name: "University of Virginia", shortName: "UVA", type: "公立", rank: 24, admissionRate: 18.7, tuition: 56950, location: "Charlottesville, VA", major: "综合", description: "商学、法学顶尖" },
+  { name: "University of North Carolina at Chapel Hill", shortName: "UNC Chapel Hill", type: "公立", rank: 22, admissionRate: 17.6, tuition: 39089, location: "Chapel Hill, NC", major: "综合", description: "医学、药学顶尖" },
+  { name: "Georgia Institute of Technology", shortName: "Georgia Tech", type: "公立", rank: 33, admissionRate: 16.0, tuition: 40862, location: "Atlanta, GA", major: "工程", description: "工程、CS全美前五" },
+  { name: "University of Texas at Austin", shortName: "UT Austin", type: "公立", rank: 38, admissionRate: 31.0, tuition: 41898, location: "Austin, TX", major: "综合", description: "CS、商学院顶尖" },
+  { name: "University of Wisconsin-Madison", shortName: "UW Madison", type: "公立", rank: 35, admissionRate: 49.0, tuition: 41164, location: "Madison, WI", major: "综合", description: "CS、工程、自然科学顶尖" },
+  { name: "University of Illinois Urbana-Champaign", shortName: "UIUC", type: "公立", rank: 35, admissionRate: 45.0, tuition: 44184, location: "Champaign, IL", major: "工程", description: "CS、工程全美前五" },
+  { name: "University of Florida", shortName: "UF", type: "公立", rank: 28, admissionRate: 30.0, tuition: 29630, location: "Gainesville, FL", major: "综合", description: "医学、商学院不错" },
+  { name: "University of Colorado Boulder", shortName: "CU Boulder", type: "公立", rank: 105, admissionRate: 80.0, tuition: 40686, location: "Boulder, CO", major: "综合", description: "物理、大气科学顶尖" },
+  { name: "Penn State University", shortName: "Penn State", type: "公立", rank: 60, admissionRate: 54.0, tuition: 37854, location: "University Park, PA", major: "综合", description: "工程、商学院不错" },
+  
+  // ==================== 计算机强校 ====================
+  { name: "Carnegie Mellon University", shortName: "CMU", type: "私立", rank: 22, admissionRate: 11.0, tuition: 62458, location: "Pittsburgh, PA", major: "CS", description: "CS全球第一，戏剧顶尖" },
+  { name: "University of Washington", shortName: "UW", type: "公立", rank: 40, admissionRate: 48.0, tuition: 41478, location: "Seattle, WA", major: "CS", description: "CS、医学顶尖" },
+  { name: "Arizona State University", shortName: "ASU", type: "公立", rank: 105, admissionRate: 88.0, tuition: 31450, location: "Tempe, AZ", major: "综合", description: "CS性价比高" },
+  { name: "Rochester Institute of Technology", shortName: "RIT", type: "私立", rank: 98, admissionRate: 57.0, tuition: 56860, location: "Rochester, NY", major: "CS", description: "计算机、工程强" },
+  { name: "University of Texas at Dallas", shortName: "UT Dallas", type: "公立", rank: 115, admissionRate: 85.0, tuition: 43298, location: "Richardson, TX", major: "CS", description: "CS性价比高" },
+  
+  // ==================== 区域强校 ====================
+  { name: "Boston University", shortName: "BU", type: "私立", rank: 43, admissionRate: 14.4, tuition: 62540, location: "Boston, MA", major: "综合", description: "传媒、医学不错" },
+  { name: "Boston College", shortName: "BC", type: "私立", rank: 39, admissionRate: 16.7, tuition: 65116, location: "Chestnut Hill, MA", major: "综合", description: "商学、经济学顶尖" },
+  { name: "Northeastern University", shortName: "Northeastern", type: "私立", rank: 44, admissionRate: 5.5, tuition: 61465, location: "Boston, MA", major: "综合", description: "CS、工程不错" },
+  { name: "Tulane University", shortName: "Tulane", type: "私立", rank: 73, admissionRate: 10.6, tuition: 66870, location: "New Orleans, LA", major: "综合", description: "商学、公共健康不错" },
+  { name: "Wake Forest University", shortName: "Wake Forest", type: "私立", rank: 47, admissionRate: 11.4, tuition: 62680, location: "Winston-Salem, NC", major: "综合", description: "医学、商学院顶尖" },
+  { name: "Case Western Reserve University", shortName: "Case Western", type: "私立", rank: 53, admissionRate: 30.0, tuition: 54880, location: "Cleveland, OH", major: "综合", description: "医学、工程不错" },
+  { name: "George Washington University", shortName: "GWU", type: "私立", rank: 62, admissionRate: 43.0, tuition: 61030, location: "Washington, DC", major: "综合", description: "政治、国际关系顶尖" },
+  { name: "American University", shortName: "AU", type: "私立", rank: 105, admissionRate: 55.0, tuition: 54596, location: "Washington, DC", major: "综合", description: "国际关系、政治不错" },
+  { name: "Howard University", shortName: "Howard", type: "私立", rank: 89, admissionRate: 36.0, tuition: 31580, location: "Washington, DC", major: "综合", description: "历史、黑人大学" },
+  
+  // ==================== 商科强校 ====================
+  { name: "University of Pennsylvania - Wharton", shortName: "Wharton", type: "私立", rank: 1, admissionRate: 5.8, tuition: 58750, location: "Philadelphia, PA", major: "商科", description: "商学院全球第一" },
+  { name: "Northwestern University - Kellogg", shortName: "Kellogg", type: "私立", rank: 3, admissionRate: 7.2, tuition: 60768, location: "Evanston, IL", major: "商科", description: "市场营销、管理学顶尖" },
+  { name: "NYU - Stern", shortName: "Stern", type: "私立", rank: 30, admissionRate: 8.0, tuition: 60126, location: "New York, NY", major: "商科", description: "金融、会计顶尖" },
+  { name: "UC Berkeley - Haas", shortName: "Haas", type: "公立", rank: 2, admissionRate: 11.6, tuition: 44580, location: "Berkeley, CA", major: "商科", description: "创业学、Finance顶尖" },
+  { name: "University of Michigan - Ross", shortName: "Ross", type: "公立", rank: 10, admissionRate: 18.0, tuition: 57986, location: "Ann Arbor, MI", major: "商科", description: "供应链、市场营销顶尖" },
+  { name: "Duke University - Fuqua", shortName: "Fuqua", type: "私立", rank: 11, admissionRate: 5.1, tuition: 63763, location: "Durham, NC", major: "商科", description: "综合管理学顶尖" },
+  { name: "Dartmouth College - Tuck", shortName: "Tuck", type: "私立", rank: 11, admissionRate: 6.2, tuition: 59592, location: "Hanover, NH", major: "商科", description: "小型精英MBA" },
+  { name: "Yale School of Management", shortName: "Yale SOM", type: "私立", rank: 9, admissionRate: 4.4, tuition: 57254, location: "New Haven, CT", major: "商科", description: "资产管理、私募股权强" },
+  
+  // ==================== 文理学院 Top 30 ====================
+  { name: "Williams College", shortName: "Williams", type: "文理学院", rank: 1, admissionRate: 8.1, tuition: 64230, location: "Williamstown, MA", major: "文理", description: "全美最佳文理学院" },
+  { name: "Amherst College", shortName: "Amherst", type: "文理学院", rank: 2, admissionRate: 7.0, tuition: 64400, location: "Amherst, MA", major: "文理", description: "人文社科顶尖" },
+  { name: "Swarthmore College", shortName: "Swarthmore", type: "文理学院", rank: 4, admissionRate: 7.0, tuition: 62104, location: "Swarthmore, PA", major: "文理", description: "工程、人文社科强" },
+  { name: "Pomona College", shortName: "Pomona", type: "文理学院", rank: 4, admissionRate: 9.1, tuition: 62422, location: "Claremont, CA", major: "文理", description: "综合文理学院" },
+  { name: "Claremont McKenna College", shortName: "CMC", type: "文理学院", rank: 6, admissionRate: 10.3, tuition: 63150, location: "Claremont, CA", major: "文理", description: "政治、经济学强" },
+  { name: "Harvey Mudd College", shortName: "Harvey Mudd", type: "文理学院", rank: 8, admissionRate: 12.0, tuition: 63996, location: "Claremont, CA", major: "理工", description: "工程、科学顶尖" },
+  { name: "Middlebury College", shortName: "Middlebury", type: "文理学院", rank: 9, admissionRate: 13.0, tuition: 62680, location: "Middlebury, VT", major: "文理", description: "语言、国际研究强" },
+  { name: "Bowdoin College", shortName: "Bowdoin", type: "文理学院", rank: 9, admissionRate: 9.0, tuition: 63682, location: "Brunswick, ME", major: "文理", description: "人文社科强" },
+  { name: "Wesleyan University", shortName: "Wesleyan", type: "文理学院", rank: 12, admissionRate: 19.0, tuition: 65638, location: "Middletown, CT", major: "文理", description: "电影、音乐、人文强" },
+  { name: "Hamilton College", shortName: "Hamilton", type: "文理学院", rank: 14, admissionRate: 12.0, tuition: 63480, location: "Clinton, NY", major: "文理", description: "开放课程、无专业限制" },
+  { name: "Colby College", shortName: "Colby", type: "文理学院", rank: 14, admissionRate: 8.0, tuition: 65470, location: "Waterville, ME", major: "文理", description: "环境科学、政治强" },
+  { name: "Bryn Mawr College", shortName: "Bryn Mawr", type: "文理学院", rank: 30, admissionRate: 31.0, tuition: 60600, location: "Bryn Mawr, PA", major: "文理", description: "女性教育、人文社科强" },
+  { name: "Vassar College", shortName: "Vassar", type: "文理学院", rank: 13, admissionRate: 20.0, tuition: 64780, location: "Poughkeepsie, NY", major: "文理", description: "人文、艺术强" },
+  { name: "Washington and Lee University", shortName: "W&L", type: "文理学院", rank: 15, admissionRate: 17.0, tuition: 65540, location: "Lexington, VA", major: "商科", description: "商学、法学顶尖" },
+  { name: "Carleton College", shortName: "Carleton", type: "文理学院", rank: 9, admissionRate: 11.0, tuition: 64235, location: "Northfield, MN", major: "文理", description: "理科、人文强" },
+  { name: "Davidson College", shortName: "Davidson", type: "文理学院", rank: 17, admissionRate: 17.0, tuition: 60187, location: "Davidson, NC", major: "文理", description: "经济学、政治强" },
+  { name: "Barnard College", shortName: "Barnard", type: "文理学院", rank: 18, admissionRate: 9.0, tuition: 64336, location: "New York, NY", major: "文理", description: "女性教育、藤校资源" },
+  { name: "Smith College", shortName: "Smith", type: "文理学院", rank: 18, admissionRate: 28.0, tuition: 64780, location: "Northampton, MA", major: "文理", description: "女性教育、艺术强" },
+  { name: "Wellesley College", shortName: "Wellesley", type: "文理学院", rank: 5, admissionRate: 15.0, tuition: 64780, location: "Wellesley, MA", major: "文理", description: "女性教育、理科强" },
+  { name: "Grinnell College", shortName: "Grinnell", type: "文理学院", rank: 11, admissionRate: 11.0, tuition: 62484, location: "Grinnell, IA", major: "文理", description: "理科、人文强" },
+  { name: "Haverford College", shortName: "Haverford", type: "文理学院", rank: 18, admissionRate: 14.0, tuition: 65710, location: "Haverford, PA", major: "文理", description: "荣誉学院、文理强" },
+  { name: "Colorado College", shortName: "Colorado College", type: "文理学院", rank: 25, admissionRate: 16.0, tuition: 63140, location: "Colorado Springs, CO", major: "文理", description: "户外教育、环境科学强" },
+  { name: "Macalester College", shortName: "Macalester", type: "文理学院", rank: 25, admissionRate: 13.0, tuition: 63222, location: "St. Paul, MN", major: "文理", description: "政治、国际研究强" },
+  { name: "Oberlin College", shortName: "Oberlin", type: "文理学院", rank: 30, admissionRate: 36.0, tuition: 64476, location: "Oberlin, OH", major: "文理", description: "音乐、艺术强" },
+  { name: "Bates College", shortName: "Bates", type: "文理学院", rank: 25, admissionRate: 12.0, tuition: 64880, location: "Lewiston, ME", major: "文理", description: "政治、科学强" },
+  { name: "Kenyon College", shortName: "Kenyon", type: "文理学院", rank: 30, admissionRate: 32.0, tuition: 66630, location: "Gambier, OH", major: "文理", description: "写作、文学强" },
+  { name: "Scripps College", shortName: "Scripps", type: "文理学院", rank: 30, promotionRate: 30.0, tuition: 63320, location: "Claremont, CA", major: "文理", description: "女性教育、艺术强" },
+  { name: "Pitzer College", shortName: "Pitzer", type: "文理学院", rank: 35, admissionRate: 33.0, tuition: 62990, location: "Claremont, CA", major: "文理", description: "环境研究、社会学强" },
+  { name: "Connecticut College", shortName: "Conn College", type: "文理学院", rank: 50, admissionRate: 45.0, tuition: 62730, location: "New London, CT", major: "文理", description: "人文、艺术强" },
+  { name: "Denison University", shortName: "Denison", type: "文理学院", rank: 51, admissionRate: 22.0, tuition: 64860, location: "Granville, OH", major: "文理", description: "理科、商科强" },
+  { name: "Lafayette College", shortName: "Lafayette", type: "文理学院", rank: 40, admissionRate: 10.0, tuition: 64478, location: "Easton, PA", major: "文理", description: "工程、文理强" },
+  { name: "Union College", shortName: "Union", type: "文理学院", rank: 45, admissionRate: 12.0, tuition: 64334, location: "Schenectady, NY", major: "文理", description: "工程、文理强" },
+  { name: "Dickinson College", shortName: "Dickinson", type: "文理学院", rank: 55, admissionRate: 42.0, tuition: 62190, location: "Carlisle, PA", major: "文理", description: "国际关系、环境科学强" },
+  { name: "Furman University", shortName: "Furman", type: "文理学院", rank: 47, admissionRate: 24.0, tuition: 63060, location: "Greenville, SC", major: "文理", description: "文科、商科强" },
+  { name: "Rhodes College", shortName: "Rhodes", type: "文理学院", rank: 46, admissionRate: 33.0, tuition: 51310, location: "Memphis, TN", major: "文理", description: "人文、理科强" },
+  { name: "Sewanee - University of the South", shortName: "Sewanee", type: "文理学院", rank: 50, admissionRate: 38.0, tuition: 55210, location: "Sewanee, TN", major: "文理", description: "神学、文理强" },
+  { name: "St. Lawrence University", shortName: "St. Lawrence", type: "文理学院", rank: 56, admissionRate: 47.0, tuition: 63790, location: "Canton, NY", major: "文理", description: "户外教育、文理强" },
+  { name: "Worcester Polytechnic Institute", shortName: "WPI", type: "文理学院", rank: 67, admissionRate: 47.0, tuition: 58838, location: "Worcester, MA", major: "理工", description: "工程、CS强" },
+  { name: "Bucknell University", shortName: "Bucknell", type: "文理学院", rank: 30, admissionRate: 11.0, tuition: 65864, location: "Lewisburg, PA", major: "文理", description: "工程、文理强" },
+  { name: "University of Richmond", shortName: "Richmond", type: "文理学院", rank: 22, admissionRate: 31.0, tuition: 60420, location: "Richmond, VA", major: "文理", description: "商学、文理强" },
+  { name: "Occidental College", shortName: "Occidental", type: "文理学院", rank: 55, admissionRate: 38.0, tuition: 63840, location: "Los Angeles, CA", major: "文理", description: "人文、社会科学强" },
+  
+  // ==================== 保底校 ====================
+  { name: "Ohio State University", shortName: "OSU", type: "公立", rank: 43, admissionRate: 57.0, tuition: 35446, location: "Columbus, OH", major: "综合", description: "大型公立校" },
+  { name: "University of Minnesota, Twin Cities", shortName: "UMN", type: "公立", rank: 53, admissionRate: 70.0, tuition: 40520, location: "Minneapolis, MN", major: "综合", description: "CS、工程强" },
+  { name: "Purdue University", shortName: "Purdue", type: "公立", rank: 43, admissionRate: 67.0, tuition: 31884, location: "West Lafayette, IN", major: "工程", description: "工程、航空强" },
+  { name: "Indiana University Bloomington", shortName: "IU", type: "公立", rank: 73, admissionRate: 82.0, tuition: 39612, location: "Bloomington, IN", major: "综合", description: "商学、音乐强" },
+  { name: "Rutgers University", shortName: "Rutgers", type: "公立", rank: 124, admissionRate: 72.0, tuition: 36540, location: "New Brunswick, NJ", major: "综合", description: "商学、CS强" },
+  { name: "University of Arizona", shortName: "Arizona", type: "公立", rank: 124, admissionRate: 87.0, tuition: 38728, location: "Tucson, AZ", major: "综合", description: "光学、天文强" },
+  { name: "University of Utah", shortName: "Utah", type: "公立", rank: 115, admissionRate: 89.0, tuition: 32328, location: "Salt Lake City, UT", major: "综合", description: "CS、医预科强" },
+  { name: "Illinois Institute of Technology", shortName: "IIT", type: "私立", rank: 97, admissionRate: 50.0, tuition: 48137, location: "Chicago, IL", major: "工程", description: "工程、CS性价比高" },
+];
+
+// ============================================
+// 学生数据库（存储历史数据用于分析）
+// ============================================
+const STUDENTS_DB_PATH = join(__dirname, 'students.json');
+
+function loadStudents() {
+  try {
+    if (fs.existsSync(STUDENTS_DB_PATH)) {
+      return JSON.parse(fs.readFileSync(STUDENTS_DB_PATH, 'utf8'));
+    }
+  } catch (e) {
+    console.error('加载学生数据库失败:', e.message);
+  }
+  return { students: [] };
+}
+
+function saveStudents(data) {
+  try {
+    fs.writeFileSync(STUDENTS_DB_PATH, JSON.stringify(data, null, 2));
+  } catch (e) {
+    console.error('保存学生数据库失败:', e.message);
+  }
+}
+
+// ============================================
+// 热门专业录取率数据库（低于学校整体录取率）
+// 数据来源：学校官网 + Reddit/Quora真实数据 + USNEWS
+// ============================================
+const MAJOR_SPECIFIC_RATES = {
+  // CS (计算机科学) - 最热门
+  "computer science": {
+    "Carnegie Mellon University": { rate: 5.5, note: "SCS学院整体，2024年约350/6400录取" },
+    "MIT": { rate: 4.0, note: "EECS联合录取，约为整体录取率" },
+    "Stanford University": { rate: 3.5, note: "CS单独申请，约为整体录取率" },
+    "UC Berkeley": { rate: 2.3, note: "EECS 2024年Fall录取率" },
+    "UIUC": { rate: 7.0, note: "CS+X项目，约24%含其他方向" },
+    "Georgia Tech": { rate: 10.0, note: "College of Computing，含多个方向" },
+    "University of Washington": { rate: 2.0, note: "外州生CS，极其竞争激烈" },
+    "Cornell University": { rate: 6.0, note: "CS在工程学院内" },
+    "Princeton University": { rate: 4.0, note: "CS via School of Engineering" },
+    "University of Michigan": { rate: 8.0, note: "CS在工程学院" },
+    "UT Austin": { rate: 10.0, note: "CS在工程学院内" },
+    "Northeastern University": { rate: 8.0, note: "CS录取率" },
+  },
+  // Engineering (工程)
+  "engineering": {
+    "MIT": { rate: 3.0, note: "EECS联合录取，工程学院单独更高" },
+    "Stanford University": { rate: 3.0, note: "Engineering学院，约为整体" },
+    "UC Berkeley": { rate: 8.0, note: "工程学院整体" },
+    "UIUC": { rate: 20.0, note: "工程学院整体，高于CS" },
+    "Georgia Tech": { rate: 15.0, note: "工程学院整体，含CS" },
+    "Cornell University": { rate: 8.0, note: "工程学院，CS和其他分开" },
+    "University of Michigan": { rate: 15.0, note: "工程学院整体" },
+    "Purdue University": { rate: 25.0, note: "工程学院整体，公立校较高" },
+    "UT Austin": { rate: 20.0, note: "工程学院整体" },
+  },
+  // Business (商科)
+  "business": {
+    "University of Pennsylvania": { rate: 5.0, note: "Wharton商学院，远低于整体" },
+    "MIT": { rate: 3.0, note: "Sloan商学院" },
+    "Stanford University": { rate: 3.5, note: "GSB商学院" },
+    "Northwestern University": { rate: 6.0, note: "Kellogg商学院" },
+    "Duke University": { rate: 5.0, note: "Fuqua商学院" },
+    "University of Michigan": { rate: 12.0, note: "Ross商学院" },
+    "NYU - Stern": { rate: 7.0, note: "Stern商学院" },
+    "Washington University in St. Louis": { rate: 10.0, note: "Olin商学院" },
+    "University of Virginia": { rate: 15.0, note: "McIntire商学院" },
+    "Notre Dame": { rate: 15.0, note: "Mendoza商学院" },
+    "Emory University": { rate: 18.0, note: "Goizueta商学院" },
+  },
+  // Data Science / AI (数据科学/人工智能)
+  "data science": {
+    "MIT": { rate: 3.0, note: "EECS联合，DS作为方向" },
+    "Stanford University": { rate: 3.5, note: "CS+AI方向" },
+    "UC Berkeley": { rate: 3.0, note: "DS+CS联合录取" },
+    "Carnegie Mellon University": { rate: 5.0, note: "ML+AI方向" },
+    "University of Michigan": { rate: 10.0, note: "DS项目" },
+  },
+  // Pre-med / Biology (医学预科/生物)
+  "pre-med": {
+    "Johns Hopkins University": { rate: 5.0, note: "医学预科极竞争" },
+    "Brown University": { rate: 5.0, note: "Program in Liberal Medical Education" },
+    "Duke University": { rate: 5.0, note: "医学预科强" },
+    "Emory University": { rate: 10.0, note: "医学预科强" },
+    "University of Pennsylvania": { rate: 5.0, note: "医学预科强" },
+  },
+};
+
+// 热门专业关键词（用于匹配学生输入的专业）
+const HOT_MAJOR_KEYWORDS = {
+  "computer science": ["cs", "computer science", "computer", "软件开发", "编程", "人工智能", "ai", "machine learning", "ml", "软件工程", "计算机科学", "计算机"],
+  "engineering": ["engineering", "engineer", "工程", "机械", "电气", "土木", "化学工程", "mechanical", "electrical", "civil", "电子工程"],
+  "business": ["business", "商学院", "finance", "accounting", "economics", "商科", "管理", "创业", "marketing", "金融", "会计"],
+  "data science": ["data science", "ds", "数据分析", "statistics", "biostatistics", "数据科学", "analytics", "统计"],
+  "pre-med": ["pre-med", "biology", "bio", "生物", "医学预科", "medical", "生命科学"],
+};
+
+// 检测学生专业是否为热门专业，返回热门专业类型或null
+function detectHotMajor(majorInput) {
+  if (!majorInput) return null;
+  const lower = majorInput.toLowerCase();
+  
+  for (const [hotType, keywords] of Object.entries(HOT_MAJOR_KEYWORDS)) {
+    for (const keyword of keywords) {
+      if (lower.includes(keyword)) {
+        return hotType;
+      }
+    }
+  }
+  return null;
+}
+
+// 获取学校某专业的录取率（如果没有专业specific数据，返回null使用整体）
+function getMajorAdjustedRate(schoolShortName, hotMajorType) {
+  if (!hotMajorType) return null;
+  const majorRates = MAJOR_SPECIFIC_RATES[hotMajorType];
+  if (!majorRates) return null;
+  
+  // 先用shortName匹配
+  let schoolData = majorRates[schoolShortName];
+  
+  // 如果没找到，尝试用全名匹配
+  if (!schoolData) {
+    const school = US_UNIVERSITIES_DB.find(s => s.shortName === schoolShortName);
+    if (school) {
+      schoolData = majorRates[school.name];
+    }
+  }
+  
+  if (!schoolData) return null;
+  return schoolData.rate;
+}
+
+// ============================================
+// 核心公式：综合分数计算
+// ============================================
+function calculateTotalScore(profile) {
+  const gpa = parseFloat(profile.gpa) || 3.0;
+  const satScore = parseInt(profile.sat) || 0;
+  const actScore = parseFloat(profile.act) || 0;
+  const apCount = parseInt(profile.apCount) || 0;
+  const honorsCount = parseInt(profile.honorsCourses) || 0;
+  const hasLeadership = (profile.leadership || '').length > 10;
+  const hasCommunityService = parseInt(profile.communityService || 0) > 20;
+  const awardsCount = (profile.awards || '').split(',').filter(Boolean).length;
+  const extracurricularsLen = (profile.extracurriculars || '').length;
+  
+  // 标准化SAT/ACT到百分制
+  let testScoreNorm = 50; // 默认中等
+  if (satScore > 0) {
+    testScoreNorm = (satScore / 1600) * 100;
+  } else if (actScore > 0) {
+    testScoreNorm = (actScore / 36) * 100;
+  }
+  
+  // 课程难度分数
+  const courseRigor = Math.min(100, apCount * 8 + honorsCount * 5 + gpa * 10);
+  
+  // 学术分数（GPA换算）
+  const academicScore = (gpa / 4.0) * 100;
+  
+  // 课外活动分数
+  let activityScore = 30;
+  if (hasLeadership) activityScore += 20;
+  if (hasCommunityService) activityScore += 15;
+  if (awardsCount > 0) activityScore += awardsCount * 10;
+  if (extracurricularsLen > 50) activityScore += 15;
+  activityScore = Math.min(100, activityScore);
+  
+  // 综合分数（按权重）
+  const totalScore = 
+    academicScore * 0.35 +
+    testScoreNorm * 0.25 +
+    courseRigor * 0.15 +
+    activityScore * 0.15 +
+    70 * 0.10; // 推荐信默认70分
+  
+  return {
+    totalScore: Math.round(totalScore),
+    academicScore: Math.round(academicScore),
+    testScore: Math.round(testScoreNorm),
+    courseRigor: Math.round(courseRigor),
+    activityScore: Math.round(activityScore),
+    recommendation: 70
+  };
+}
+
+// ============================================
+// 核心公式：录取概率计算（新公式）
+// ============================================
+function calculateProbability(rate, score) {
+  const R = rate / 100; // 转为小数
+  const S = score;
+  
+  // 基准概率
+  let baseProbability = R * (1 + (S - 50) / 100);
+  
+  // 根据学校录取率分类约束
+  let minMultiplier, maxMultiplier;
+  
+  if (R < 0.15) {
+    // 冲刺校（<15%录取率）
+    minMultiplier = 0.3;
+    maxMultiplier = 4;
+  } else if (R < 0.50) {
+    // 匹配校（15-50%录取率）
+    minMultiplier = 0.5;
+    maxMultiplier = 2.5;
+  } else {
+    // 保底校（>=50%录取率）
+    minMultiplier = 0.7;
+    maxMultiplier = 1.5;
+  }
+  
+  // 应用约束
+  let probability = baseProbability;
+  probability = Math.max(R * minMultiplier, probability); // 下限
+  probability = Math.min(R * maxMultiplier, probability); // 上限
+  
+  // 转换为百分比（保留1位小数）
+  return Math.round(probability * 1000) / 10;
+}
+
+// ============================================
+// 分类判断（Reach/Match/Safety）
+// ============================================
+function categorizeSchool(rate, score) {
+  const R = rate / 100;
+  const S = score;
+  
+  // 计算理论概率
+  let baseProbability = R * (1 + (S - 50) / 100);
+  
+  if (R < 0.15) {
+    // 冲刺校（<15%录取率）
+    const threshold = R * 2; // 概率超过2倍录取率为Match
+    if (baseProbability > threshold && S > 75) {
+      return 'match';
+    }
+    return 'reach';
+  } else if (R < 0.50) {
+    // 匹配校（15-50%录取率）
+    if (baseProbability > R * 1.5) {
+      return 'safety';
+    }
+    return 'match';
+  } else {
+    // 保底校（>=50%录取率）
+    return 'safety';
+  }
+}
+
+// ============================================
+// API: 生成选校报告
+// ============================================
+app.post('/api/generate-report', async (req, res) => {
+  try {
+    const { profile, applicationType } = req.body;
+    
+    if (!profile) {
+      return res.status(400).json({ error: '缺少学生信息' });
+    }
+
+    console.log('🔄 处理选校报告请求...');
+    console.log('学生:', profile.name || '未填写');
+
+    // 计算综合分数
+    const scoreBreakdown = calculateTotalScore(profile);
+    const totalScore = scoreBreakdown.totalScore;
+    
+    console.log('📊 综合分数:', totalScore);
+    console.log('   - 学术:', scoreBreakdown.academicScore);
+    console.log('   - 考试:', scoreBreakdown.testScore);
+    console.log('   - 课程难度:', scoreBreakdown.courseRigor);
+    console.log('   - 活动:', scoreBreakdown.activityScore);
+    console.log('   - 推荐信:', scoreBreakdown.recommendation);
+
+    // 检测学生专业是否为热门专业
+    const studentMajor = profile.major || '';
+    const hotMajorType = detectHotMajor(studentMajor);
+    console.log('🎯 目标专业:', studentMajor, hotMajorType ? `(热门: ${hotMajorType})` : '(普通)');
+
+    // 分类选校
+    const reachSchools = [];
+    const matchSchools = [];
+    const safetySchools = [];
+
+    for (const school of US_UNIVERSITIES_DB) {
+      // 获取实际使用的录取率（热门专业用专用率，否则用整体）
+      const effectiveRate = getMajorAdjustedRate(school.shortName, hotMajorType) || school.admissionRate;
+      const usedMajorSpecificRate = effectiveRate !== school.admissionRate;
+      
+      const probability = calculateProbability(effectiveRate, totalScore);
+      const category = categorizeSchool(effectiveRate, totalScore);
+      
+      const schoolResult = {
+        name: school.name,
+        shortName: school.shortName,
+        type: school.type,
+        rank: school.rank,
+        admissionRate: school.admissionRate,
+        effectiveRate: effectiveRate,
+        usedMajorSpecificRate: usedMajorSpecificRate,
+        tuition: school.tuition,
+        location: school.location,
+        major: school.major,
+        description: school.description,
+        admissionProbability: probability,
+        whyCategory: usedMajorSpecificRate 
+          ? `综合分数${totalScore}分，${hotMajorType}专业录取概率${probability}%（专用录取率${effectiveRate}%，低于整体${school.admissionRate}%）`
+          : `综合分数${totalScore}分，录取概率${probability}%（整体录取率${school.admissionRate}%）`
+      };
+      
+      if (category === 'reach') {
+        reachSchools.push(schoolResult);
+      } else if (category === 'match') {
+        matchSchools.push(schoolResult);
+      } else {
+        safetySchools.push(schoolResult);
+      }
+    }
+
+    // 按录取概率排序（冲刺的按概率从高到低，匹配和保底按概率从低到高）
+    reachSchools.sort((a, b) => b.admissionProbability - a.admissionProbability);
+    matchSchools.sort((a, b) => a.admissionProbability - b.admissionProbability);
+    safetySchools.sort((a, b) => a.admissionProbability - b.admissionProbability);
+
+    // 限制数量
+    const finalReach = reachSchools.slice(0, 4);
+    const finalMatch = matchSchools.slice(0, 4);
+    const finalSafety = safetySchools.slice(0, 4);
+
+    const reportData = {
+      student: {
+        name: profile.name || '学生',
+        school: profile.school || '未填写',
+        gpa: profile.gpa || '未填写',
+        sat: profile.sat || profile.act || '未填写',
+        toefl: profile.toefl || '未填写',
+        targetCountries: (profile.targetCountries || ['美国']).join('、'),
+        major: profile.major || '计算机科学',
+        budget: profile.budget || '80'
+      },
+      scoreBreakdown,
+      hotMajorType: hotMajorType,
+      summary: hotMajorType 
+        ? `综合分数${totalScore}分，在美国${profile.major || 'CS'}申请（热门专业）中具有竞争力。已启用${hotMajorType}专业专用录取率计算。`
+        : `综合分数${totalScore}分，在美国${profile.major || '计算机科学'}申请中具有较强竞争力。建议采取冲刺+匹配+保底的策略。`,
+      reach: finalReach,
+      match: finalMatch,
+      safety: finalSafety,
+      strategy: {
+        ed: `ED建议选择冲刺校中概率最高的${finalReach[0]?.shortName || '某校'}（${finalReach[0]?.admissionProbability || 0}%）`,
+        ea: `EA建议选择匹配校，如${finalMatch[0]?.shortName || '某校'}`,
+        rd: `RD多所匹配和保底校确保录取`,
+        overall: `冲刺${finalReach.length}所+匹配${finalMatch.length}所+保底${finalSafety.length}所，全面覆盖`
+      },
+      stats: {
+        totalSchools: finalReach.length + finalMatch.length + finalSafety.length,
+        reachCount: finalReach.length,
+        matchCount: finalMatch.length,
+        safetyCount: finalSafety.length
+      }
+    };
+
+    // 保存学生数据
+    const db = loadStudents();
+    db.students.push({
+      ...profile,
+      scoreBreakdown,
+      reportDate: new Date().toISOString(),
+      report: reportData
+    });
+    saveStudents(db);
+    console.log('✅ 学生数据已保存');
+
+    res.json({
+      success: true,
+      data: reportData,
+      note: `基于《Admission Matters》+ 新概率公式，可选学校库涵盖${US_UNIVERSITIES_DB.length}所美国大学`
+    });
+
+  } catch (error) {
+    console.error('❌ 报告生成失败:', error.message);
+    res.status(500).json({
+      success: false,
+      error: error.message || '生成失败'
+    });
+  }
+});
+
+// API: 获取大学列表
+app.get('/api/universities', (req, res) => {
+  const universities = US_UNIVERSITIES_DB.map(u => ({
+    name: u.name,
+    shortName: u.shortName,
+    type: u.type,
+    rank: u.rank,
+    admissionRate: u.admissionRate,
+    tuition: u.tuition,
+    location: u.location
+  }));
+  res.json({
+    count: universities.length,
+    universities
+  });
+});
+
+// API: 获取学生历史数据
+app.get('/api/students', (req, res) => {
+  const db = loadStudents();
+  res.json({
+    count: db.students.length,
+    students: db.students.map(s => ({
+      name: s.name,
+      school: s.school,
+      gpa: s.gpa,
+      sat: s.sat,
+      reportDate: s.reportDate
+    }))
+  });
+});
+
+// API: 健康检查
+app.get('/api/health', (req, res) => {
+  res.json({ 
+    status: 'ok', 
+    time: new Date().toISOString(),
+    universities: US_UNIVERSITIES_DB.length,
+    students: loadStudents().students.length
+  });
+});
+
+app.listen(PORT, () => {
+  console.log(`\n🚀 留学AI服务器已启动`);
+  console.log(`   http://localhost:${PORT}`);
+  console.log(`   大学数据库: ${US_UNIVERSITIES_DB.length}所`);
+  console.log(`   概率公式: 新公式（基准×系数）\n`);
+});

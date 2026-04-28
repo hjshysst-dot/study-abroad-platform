@@ -1,0 +1,1096 @@
+================================================================================
+🎓 留学选校平台 - 30个学生测试报告 V2 (正确字段格式)
+================================================================================
+
+--------------------------------------------------------------------------------
+📋 学生 1/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 陈明昊 | 高中: 北京人大附中 | GPA: 4.0 | SAT: 1580 | TOEFL: 118 | AP: 5门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:96 | 学术:100 | 考试:99 | 课程难度:95 | 活动:100
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(21%) | 最佳匹配: Wellesley(21.9%) | 最佳保底: IIT(73%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:21% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:20.4% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:19% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:19% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:21.9% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:21.9% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:21.9% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:21.9% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:73% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:73% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:73% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:73% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 2/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 李雅琪 | 高中: 上海中学国际部 | GPA: 4.0 | SAT: 1550 | TOEFL: 120 | AP: 4门
+专业: 生物
+✅ API调用成功
+
+【分数明细】
+综合:93 | 学术:100 | 考试:97 | 课程难度:82 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(20.6%) | 最佳匹配: Wellesley(21.5%) | 最佳保底: IIT(71.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:20.6% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:20% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:18.6% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:18.6% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:21.5% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:21.5% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:21.5% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:21.5% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:71.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:71.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:71.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:71.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 3/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 王浩宇 | 高中: 南京外国语学校 | GPA: 3.98 | SAT: 1560 | TOEFL: 115 | AP: 4门
+专业: 经济学/商科
+✅ API调用成功
+
+【分数明细】
+综合:90 | 学术:100 | 考试:98 | 课程难度:87 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(20.2%) | 最佳匹配: Notre Dame(21%) | 最佳保底: IIT(70%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:20.2% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.6% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:18.2% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:18.2% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:21% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:21% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:21% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:21% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:70% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:70% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:70% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:70% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 4/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 张雨桐 | 高中: 深圳中学 | GPA: 4.0 | SAT: 1570 | TOEFL: 119 | AP: 5门
+专业: 物理
+✅ API调用成功
+
+【分数明细】
+综合:95 | 学术:100 | 考试:98 | 课程难度:95 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(20.9%) | 最佳匹配: Wellesley(21.8%) | 最佳保底: IIT(72.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:20.9% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:20.3% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:18.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:18.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:21.8% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:21.8% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:21.8% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:21.8% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:72.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:72.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:72.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:72.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 5/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 刘子轩 | 高中: 复旦附中 | GPA: 3.96 | SAT: 1530 | TOEFL: 112 | AP: 3门
+专业: 历史/国际关系
+✅ API调用成功
+
+【分数明细】
+综合:92 | 学术:99 | 考试:96 | 课程难度:84 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(20.4%) | 最佳匹配: Wellesley(21.3%) | 最佳保底: IIT(71%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:20.4% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.9% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:18.5% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:18.5% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:21.3% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:21.3% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:21.3% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:21.3% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:71% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:71% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:71% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:71% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 6/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Emma Zhang | 高中: 上海包玉刚实验学校 | GPA: 3.9 | SAT: 1510 | TOEFL: 110 | AP: 3门
+专业: 社会学/传媒
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:98 | 考试:94 | 课程难度:73 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.7%) | 最佳匹配: Wellesley(20.6%) | 最佳保底: IIT(68.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.8% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.8% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.6% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.6% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.6% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.6% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:68.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:68.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:68.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:68.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 7/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 周天宇 | 高中: 杭州学军中学 | GPA: 3.85 | SAT: 1490 | TOEFL: 108 | AP: 3门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:86 | 学术:96 | 考试:93 | 课程难度:73 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.6%) | 最佳匹配: Wellesley(20.4%) | 最佳保底: IIT(68%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.6% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.7% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.7% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.4% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.4% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.4% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.4% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:68% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:68% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:68% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:68% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 8/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Jennifer Wu | 高中: 广州华南师范大学附中 | GPA: 3.88 | SAT: 1500 | TOEFL: 115 | AP: 3门
+专业: 医学预科/生物
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:97 | 考试:94 | 课程难度:73 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.7%) | 最佳匹配: Wellesley(20.6%) | 最佳保底: IIT(68.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.8% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.8% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.6% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.6% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.6% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.6% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:68.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:68.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:68.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:68.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 9/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 陈浩然 | 高中: 武汉外国语学校 | GPA: 3.8 | SAT: 1480 | TOEFL: 107 | AP: 3门
+专业: 政治学/国际关系
+✅ API调用成功
+
+【分数明细】
+综合:85 | 学术:95 | 考试:93 | 课程难度:72 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.4%) | 最佳匹配: Wellesley(20.3%) | 最佳保底: IIT(67.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.4% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.9% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.6% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.6% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.3% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.3% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.3% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.3% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:67.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:67.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:67.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:67.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 10/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Lisa Chen | 高中: 成都外国语学校 | GPA: 3.92 | SAT: 1520 | TOEFL: 113 | AP: 4门
+专业: 工程
+✅ API调用成功
+
+【分数明细】
+综合:89 | 学术:98 | 考试:95 | 课程难度:86 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(20%) | 最佳匹配: UMich(20.9%) | 最佳保底: IIT(69.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:20% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.5% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:18.1% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:18.1% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  UMich (University of Michigan) 录取概率:20.9% Rank:21 公立 学费:$57986
+  Georgia Tech (Georgia Institute of Technology) 录取概率:20.9% Rank:33 公立 学费:$40862
+  Wellesley (Wellesley College) 录取概率:20.9% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.9% Rank:2 公立 学费:$48000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:69.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:69.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:69.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:69.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 11/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Michael Liu | 高中: 天津实验中学 | GPA: 3.7 | SAT: 1450 | TOEFL: 105 | AP: 2门
+专业: 环境科学
+✅ API调用成功
+
+【分数明细】
+综合:82 | 学术:93 | 考试:91 | 课程难度:58 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19%) | 最佳匹配: Wellesley(19.8%) | 最佳保底: IIT(66%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.5% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.2% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.2% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:19.8% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:19.8% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:19.8% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:19.8% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:66% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:66% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:66% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:66% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 12/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Sophie Wang | 高中: 西安高新一中 | GPA: 3.75 | SAT: 1430 | TOEFL: 103 | AP: 3门
+专业: 艺术/设计
+✅ API调用成功
+
+【分数明细】
+综合:83 | 学术:94 | 考试:89 | 课程难度:62 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.2%) | 最佳匹配: Wellesley(20%) | 最佳保底: IIT(66.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.2% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.6% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.3% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.3% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:66.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:66.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:66.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:66.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 13/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Jason Zhang | 高中: 重庆南开中学 | GPA: 3.6 | SAT: 1400 | TOEFL: 100 | AP: 2门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:80 | 学术:90 | 考试:88 | 课程难度:57 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(18.7%) | 最佳匹配: Wellesley(19.5%) | 最佳保底: IIT(65%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:18.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:16.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:16.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:19.5% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:19.5% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:19.5% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:19.5% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:65% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:65% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:65% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:65% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 14/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Emily Huang | 高中: 苏州外国语学校 | GPA: 3.82 | SAT: 1470 | TOEFL: 108 | AP: 3门
+专业: 商科
+✅ API调用成功
+
+【分数明细】
+综合:85 | 学术:96 | 考试:92 | 课程难度:72 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.4%) | 最佳匹配: Notre Dame(20.3%) | 最佳保底: IIT(67.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.4% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.9% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.6% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.6% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:20.3% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:20.3% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:20.3% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:20.3% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:67.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:67.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:67.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:67.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 15/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Ryan Li | 高中: 青岛二中国际部 | GPA: 3.65 | SAT: 1380 | TOEFL: 98 | AP: 2门
+专业: 化学/材料科学
+✅ API调用成功
+
+【分数明细】
+综合:80 | 学术:91 | 考试:86 | 课程难度:58 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(18.7%) | 最佳匹配: Wellesley(19.5%) | 最佳保底: IIT(65%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:18.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:16.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:16.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:19.5% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:19.5% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:19.5% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:19.5% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:65% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:65% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:65% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:65% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 16/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Kevin Park | 高中: 北京德威英国国际学校 | GPA: 3.9 | SAT: 1490 | TOEFL: waived | AP: 3门
+专业: 商科/经济学
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:98 | 考试:93 | 课程难度:78 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.7%) | 最佳匹配: Notre Dame(20.6%) | 最佳保底: IIT(68.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.8% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.8% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:20.6% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:20.6% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:20.6% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:20.6% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:68.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:68.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:68.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:68.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 17/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Grace Kim | 高中: 上海协和双语学校 | GPA: 3.78 | SAT: 1440 | TOEFL: 110 | AP: 3门
+专业: 艺术/时尚管理
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:95 | 考试:90 | 课程难度:67 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.7%) | 最佳匹配: Notre Dame(20.6%) | 最佳保底: IIT(68.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.8% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.8% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:20.6% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:20.6% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:20.6% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:20.6% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:68.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:68.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:68.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:68.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 18/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Alex Wang | 高中: 美国Westlake High School | GPA: 3.95 | SAT: 1520 | TOEFL: waived | AP: 4门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:90 | 学术:99 | 考试:95 | 课程难度:87 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(20.2%) | 最佳匹配: Wellesley(21%) | 最佳保底: IIT(70%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:20.2% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.6% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:18.2% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:18.2% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:21% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:21% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:21% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:21% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:70% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:70% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:70% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:70% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 19/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Emily Chen | 高中: 香港国际学校 | GPA: 3.85 | SAT: 1460 | TOEFL: 112 | AP: 3门
+专业: 金融/商科
+✅ API调用成功
+
+【分数明细】
+综合:84 | 学术:96 | 考试:91 | 课程难度:73 | 活动:65
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.3%) | 最佳匹配: Notre Dame(20.1%) | 最佳保底: IIT(67%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.3% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.8% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.4% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.4% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:20.1% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:20.1% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:20.1% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:20.1% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:67% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:67% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:67% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:67% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 20/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Brian Tan | 高中: Singapore International School | GPA: 3.88 | SAT: 1500 | TOEFL: 115 | AP: 3门
+专业: 数学/计算机
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:97 | 考试:94 | 课程难度:78 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.7%) | 最佳匹配: Wellesley(20.6%) | 最佳保底: IIT(68.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.8% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.8% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.6% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.6% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.6% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.6% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:68.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:68.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:68.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:68.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 21/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: David Wu | 高中: 湖南省重点中学 | GPA: 3.5 | SAT: 1350 | TOEFL: 95 | AP: 0门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:77 | 学术:88 | 考试:84 | 课程难度:45 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(18.3%) | 最佳匹配: Wellesley(19.1%) | 最佳保底: IIT(63.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:18.3% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:17.8% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:16.5% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:16.5% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:19.1% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:19.1% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:19.1% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:19.1% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:63.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:63.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:63.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:63.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 22/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Amanda Liu | 高中: 普通高中(非重点) | GPA: 3.7 | SAT: 1420 | TOEFL: 102 | AP: 2门
+专业: 新闻传播/传媒
+✅ API调用成功
+
+【分数明细】
+综合:82 | 学术:93 | 考试:89 | 课程难度:58 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19%) | 最佳匹配: Wellesley(19.8%) | 最佳保底: IIT(66%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.5% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.2% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.2% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:19.8% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:19.8% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:19.8% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:19.8% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:66% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:66% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:66% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:66% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 23/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Vincent Zhang | 高中: 武汉英中 | GPA: 3.6 | SAT: 1390 | TOEFL: 99 | AP: 3门
+专业: 工商管理
+✅ API调用成功
+
+【分数明细】
+综合:80 | 学术:90 | 考试:87 | 课程难度:60 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(18.7%) | 最佳匹配: Notre Dame(19.5%) | 最佳保底: IIT(65%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:18.7% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.2% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:16.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:16.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:19.5% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:19.5% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:19.5% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:19.5% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:65% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:65% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:65% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:65% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 24/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Rachel Ho | 高中: 马来西亚国际学校 | GPA: 3.8 | SAT: 1440 | TOEFL: 110 | AP: 3门
+专业: 环境科学/生物
+✅ API调用成功
+
+【分数明细】
+综合:84 | 学术:95 | 考试:90 | 课程难度:67 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.3%) | 最佳匹配: Wellesley(20.1%) | 最佳保底: IIT(67%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.3% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.8% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.4% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.4% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.1% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.1% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.1% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.1% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:67% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:67% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:67% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:67% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 25/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Daniel Kim | 高中: 韩国国际学校 | GPA: 3.72 | SAT: 1410 | TOEFL: 106 | AP: 2门
+专业: 音乐/艺术
+✅ API调用成功
+
+【分数明细】
+综合:82 | 学术:93 | 考试:88 | 课程难度:58 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19%) | 最佳匹配: Wellesley(19.8%) | 最佳保底: IIT(66%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:18.5% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.2% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.2% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:19.8% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:19.8% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:19.8% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:19.8% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:66% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:66% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:66% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:66% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 26/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Lucas Yang | 高中: 郑州外国语学校 | GPA: 3.4 | SAT: 1320 | TOEFL: 92 | AP: 0门
+专业: 创业学/计算机
+✅ API调用成功
+
+【分数明细】
+综合:74 | 学术:85 | 考试:83 | 课程难度:34 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(17.9%) | 最佳匹配: Wellesley(18.6%) | 最佳保底: IIT(62%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:17.9% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:17.4% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:16.1% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:16.1% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:18.6% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:18.6% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:18.6% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:18.6% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:62% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:62% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:62% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:62% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 27/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Mia Zhang | 高中: 普通高中 | GPA: 3.55 | SAT: 1300 | TOEFL: 90 | AP: 0门
+专业: 艺术管理/舞蹈
+✅ API调用成功
+
+【分数明细】
+综合:75 | 学术:89 | 考试:81 | 课程难度:36 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(18%) | 最佳匹配: Notre Dame(18.8%) | 最佳保底: IIT(62.5%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:18% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:17.5% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:16.3% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:16.3% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:18.8% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:18.8% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:18.8% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:18.8% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:62.5% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:62.5% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:62.5% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:62.5% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 28/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Chris Lee | 高中: 厦门双十中学 | GPA: 3.3 | SAT: 1280 | TOEFL: 88 | AP: 0门
+专业: 体育管理/运动科学
+✅ API调用成功
+
+【分数明细】
+综合:72 | 学术:83 | 考试:80 | 课程难度:33 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(17.6%) | 最佳匹配: Notre Dame(18.3%) | 最佳保底: IIT(61%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:17.6% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:17.1% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:15.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:15.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Notre Dame (University of Notre Dame) 录取概率:18.3% Rank:20 私立 学费:$60455
+  UVA (University of Virginia) 录取概率:18.3% Rank:24 公立 学费:$56950
+  Wellesley (Wellesley College) 录取概率:18.3% Rank:5 文理学院 学费:$64780
+  UVA (University of Virginia) 录取概率:18.3% Rank:24 公立 学费:$56950
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:61% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:61% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:61% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:61% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 29/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Jessica Wang | 高中: 南京金陵中学 | GPA: 3.9 | SAT: 1500 | TOEFL: 115 | AP: 3门
+专业: 英语文学/创意写作
+✅ API调用成功
+
+【分数明细】
+综合:88 | 学术:98 | 考试:94 | 课程难度:83 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.9%) | 最佳匹配: Wellesley(20.7%) | 最佳保底: IIT(69%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.9% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.3% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.7% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.7% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.7% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.7% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:69% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:69% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:69% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:69% Rank:82 公立 学费:$27000
+
+--------------------------------------------------------------------------------
+📋 学生 30/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Anthony Chen | 高中: 北京四中 | GPA: 3.75 | SAT: 1460 | TOEFL: 110 | AP: 3门
+专业: 哲学/政治学
+✅ API调用成功
+
+【分数明细】
+综合:88 | 学术:94 | 考试:91 | 课程难度:77 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:4所 | 匹配:4所 | 保底:4所
+最佳冲刺: BU(19.9%) | 最佳匹配: Wellesley(20.7%) | 最佳保底: IIT(69%)
+策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  BU (Boston University) 录取概率:19.9% Rank:43 私立 学费:$62540
+  Haverford (Haverford College) 录取概率:19.3% Rank:18 文理学院 学费:$65710
+  Middlebury (Middlebury College) 录取概率:17.9% Rank:9 文理学院 学费:$62680
+  Macalester (Macalester College) 录取概率:17.9% Rank:25 文理学院 学费:$63222
+
+📋 匹配学校:
+  Wellesley (Wellesley College) 录取概率:20.7% Rank:5 文理学院 学费:$64780
+  Cambridge (University of Cambridge) 录取概率:20.7% Rank:2 公立 学费:$48000
+  UCL (University College London) 录取概率:20.7% Rank:4 公立 学费:$40000
+  NUS (National University of Singapore) 录取概率:20.7% Rank:1 公立 学费:$42000
+
+📋 保底学校:
+  IIT (Illinois Institute of Technology) 录取概率:69% Rank:97 私立 学费:$48137
+  Warwick (University of Warwick) 录取概率:69% Rank:64 公立 学费:$31000
+  Birmingham (University of Birmingham) 录取概率:69% Rank:92 公立 学费:$28000
+  Glasgow (University of Glasgow) 录取概率:69% Rank:82 公立 学费:$27000
+
+================================================================================
+📊 最终测试结果
+================================================================================
+总计: 30个学生 | 成功: 30 | 失败: 0
+
+================================================================================
+📋 汇总表格
+================================================================================
+
+| # | 姓名 | GPA | SAT | TOEFL | AP | 综合分 | 学术 | 考试 | 课程 | 活动 | 冲刺 | 匹配 | 保底 | 最佳冲刺 | 最佳匹配 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 陈明昊 | 4.0 | 1580 | 118 | 5 | 96 | 100 | 99 | 95 | 100 | 4 | 4 | 4 | BU(21%) | Wellesley(21.9%) |
+| 2 | 李雅琪 | 4.0 | 1550 | 120 | 4 | 93 | 100 | 97 | 82 | 95 | 4 | 4 | 4 | BU(20.6%) | Wellesley(21.5%) |
+| 3 | 王浩宇 | 3.98 | 1560 | 115 | 4 | 90 | 100 | 98 | 87 | 75 | 4 | 4 | 4 | BU(20.2%) | Notre Dame(21%) |
+| 4 | 张雨桐 | 4.0 | 1570 | 119 | 5 | 95 | 100 | 98 | 95 | 95 | 4 | 4 | 4 | BU(20.9%) | Wellesley(21.8%) |
+| 5 | 刘子轩 | 3.96 | 1530 | 112 | 3 | 92 | 99 | 96 | 84 | 95 | 4 | 4 | 4 | BU(20.4%) | Wellesley(21.3%) |
+| 6 | Emma Zhang | 3.9 | 1510 | 110 | 3 | 87 | 98 | 94 | 73 | 75 | 4 | 4 | 4 | BU(19.7%) | Wellesley(20.6%) |
+| 7 | 周天宇 | 3.85 | 1490 | 108 | 3 | 86 | 96 | 93 | 73 | 75 | 4 | 4 | 4 | BU(19.6%) | Wellesley(20.4%) |
+| 8 | Jennifer Wu | 3.88 | 1500 | 115 | 3 | 87 | 97 | 94 | 73 | 75 | 4 | 4 | 4 | BU(19.7%) | Wellesley(20.6%) |
+| 9 | 陈浩然 | 3.8 | 1480 | 107 | 3 | 85 | 95 | 93 | 72 | 75 | 4 | 4 | 4 | BU(19.4%) | Wellesley(20.3%) |
+| 10 | Lisa Chen | 3.92 | 1520 | 113 | 4 | 89 | 98 | 95 | 86 | 75 | 4 | 4 | 4 | BU(20%) | UMich(20.9%) |
+| 11 | Michael Liu | 3.7 | 1450 | 105 | 2 | 82 | 93 | 91 | 58 | 75 | 4 | 4 | 4 | BU(19%) | Wellesley(19.8%) |
+| 12 | Sophie Wang | 3.75 | 1430 | 103 | 3 | 83 | 94 | 89 | 62 | 75 | 4 | 4 | 4 | BU(19.2%) | Wellesley(20%) |
+| 13 | Jason Zhang | 3.6 | 1400 | 100 | 2 | 80 | 90 | 88 | 57 | 75 | 4 | 4 | 4 | BU(18.7%) | Wellesley(19.5%) |
+| 14 | Emily Huang | 3.82 | 1470 | 108 | 3 | 85 | 96 | 92 | 72 | 75 | 4 | 4 | 4 | BU(19.4%) | Notre Dame(20.3%) |
+| 15 | Ryan Li | 3.65 | 1380 | 98 | 2 | 80 | 91 | 86 | 58 | 75 | 4 | 4 | 4 | BU(18.7%) | Wellesley(19.5%) |
+| 16 | Kevin Park | 3.9 | 1490 | 免 | 3 | 87 | 98 | 93 | 78 | 75 | 4 | 4 | 4 | BU(19.7%) | Notre Dame(20.6%) |
+| 17 | Grace Kim | 3.78 | 1440 | 110 | 3 | 87 | 95 | 90 | 67 | 95 | 4 | 4 | 4 | BU(19.7%) | Notre Dame(20.6%) |
+| 18 | Alex Wang | 3.95 | 1520 | 免 | 4 | 90 | 99 | 95 | 87 | 75 | 4 | 4 | 4 | BU(20.2%) | Wellesley(21%) |
+| 19 | Emily Chen | 3.85 | 1460 | 112 | 3 | 84 | 96 | 91 | 73 | 65 | 4 | 4 | 4 | BU(19.3%) | Notre Dame(20.1%) |
+| 20 | Brian Tan | 3.88 | 1500 | 115 | 3 | 87 | 97 | 94 | 78 | 75 | 4 | 4 | 4 | BU(19.7%) | Wellesley(20.6%) |
+| 21 | David Wu | 3.5 | 1350 | 95 | 0 | 77 | 88 | 84 | 45 | 75 | 4 | 4 | 4 | BU(18.3%) | Wellesley(19.1%) |
+| 22 | Amanda Liu | 3.7 | 1420 | 102 | 2 | 82 | 93 | 89 | 58 | 75 | 4 | 4 | 4 | BU(19%) | Wellesley(19.8%) |
+| 23 | Vincent Zhang | 3.6 | 1390 | 99 | 3 | 80 | 90 | 87 | 60 | 75 | 4 | 4 | 4 | BU(18.7%) | Notre Dame(19.5%) |
+| 24 | Rachel Ho | 3.8 | 1440 | 110 | 3 | 84 | 95 | 90 | 67 | 75 | 4 | 4 | 4 | BU(19.3%) | Wellesley(20.1%) |
+| 25 | Daniel Kim | 3.72 | 1410 | 106 | 2 | 82 | 93 | 88 | 58 | 75 | 4 | 4 | 4 | BU(19%) | Wellesley(19.8%) |
+| 26 | Lucas Yang | 3.4 | 1320 | 92 | 0 | 74 | 85 | 83 | 34 | 75 | 4 | 4 | 4 | BU(17.9%) | Wellesley(18.6%) |
+| 27 | Mia Zhang | 3.55 | 1300 | 90 | 0 | 75 | 89 | 81 | 36 | 75 | 4 | 4 | 4 | BU(18%) | Notre Dame(18.8%) |
+| 28 | Chris Lee | 3.3 | 1280 | 88 | 0 | 72 | 83 | 80 | 33 | 75 | 4 | 4 | 4 | BU(17.6%) | Notre Dame(18.3%) |
+| 29 | Jessica Wang | 3.9 | 1500 | 115 | 3 | 88 | 98 | 94 | 83 | 75 | 4 | 4 | 4 | BU(19.9%) | Wellesley(20.7%) |
+| 30 | Anthony Chen | 3.75 | 1460 | 110 | 3 | 88 | 94 | 91 | 77 | 95 | 4 | 4 | 4 | BU(19.9%) | Wellesley(20.7%) |
+

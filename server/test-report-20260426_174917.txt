@@ -1,0 +1,881 @@
+================================================================================
+🎓 留学选校平台 - 30个学生测试报告 - Sun Apr 26 17:49:17 CST 2026
+================================================================================
+
+--------------------------------------------------------------------------------
+📋 学生 1/30
+--------------------------------------------------------------------------------
+姓名: 陈明昊 | 高中: 北京人大附中 | GPA: 4.0/4.0 (W) | SAT: 1580 | TOEFL: 118
+专业: 计算机科学 | 国家: 美国,加拿大
+✅ API调用成功
+📈 综合分数: 77 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18.3%) | 最佳匹配: Wellesley(19.1%) | 最佳保底: IIT(63.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.5% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.5% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:19.1% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:19.1% Rank:2 公立
+   UCL (University College London) - 录取概率:19.1% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:19.1% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:63.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:63.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:63.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:63.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 2/30
+--------------------------------------------------------------------------------
+姓名: 李雅琪 | 高中: 上海中学国际部 | GPA: 4.0/4.0 | SAT: 1550 | TOEFL: 120
+专业: 生物 | 国家: 美国,英国
+✅ API调用成功
+📈 综合分数: 77 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18.3%) | 最佳匹配: Wellesley(19.1%) | 最佳保底: IIT(63.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.5% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.5% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:19.1% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:19.1% Rank:2 公立
+   UCL (University College London) - 录取概率:19.1% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:19.1% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:63.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:63.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:63.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:63.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 3/30
+--------------------------------------------------------------------------------
+姓名: 王浩宇 | 高中: 南京外国语学校 | GPA: 3.98/4.0 | SAT: 1560 | TOEFL: 115
+专业: 经济学/商科 | 国家: 美国,英国,香港
+✅ API调用成功
+📈 综合分数: 77 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18.3%) | 最佳匹配: Notre Dame(19.1%) | 最佳保底: IIT(63.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.5% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.5% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:19.1% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:19.1% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:19.1% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:19.1% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:63.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:63.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:63.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:63.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 4/30
+--------------------------------------------------------------------------------
+姓名: 张雨桐 | 高中: 深圳中学 | GPA: 4.0/4.0 | SAT: 1570 | TOEFL: 119
+专业: 物理 | 国家: 美国,加拿大
+✅ API调用成功
+📈 综合分数: 77 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18.3%) | 最佳匹配: Wellesley(19.1%) | 最佳保底: IIT(63.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.5% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.5% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:19.1% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:19.1% Rank:2 公立
+   UCL (University College London) - 录取概率:19.1% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:19.1% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:63.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:63.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:63.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:63.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 5/30
+--------------------------------------------------------------------------------
+姓名: 刘子轩 | 高中: 复旦附中 | GPA: 3.96/4.0 | SAT: 1530 | TOEFL: 112
+专业: 历史/国际关系 | 国家: 美国,英国
+✅ API调用成功
+📈 综合分数: 76 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18.1%) | 最佳匹配: Wellesley(18.9%) | 最佳保底: IIT(63%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18.1% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.6% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.4% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.4% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.9% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.9% Rank:2 公立
+   UCL (University College London) - 录取概率:18.9% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.9% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:63% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:63% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:63% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:63% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 6/30
+--------------------------------------------------------------------------------
+姓名: Emma Zhang | 高中: 上海包玉刚实验学校 | GPA: 3.9/4.0 | SAT: 1510 | TOEFL: 110
+专业: 社会学/传媒 | 国家: 美国,英国,澳大利亚
+✅ API调用成功
+📈 综合分数: 75 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18%) | 最佳匹配: Wellesley(18.8%) | 最佳保底: IIT(62.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.8% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.8% Rank:2 公立
+   UCL (University College London) - 录取概率:18.8% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.8% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 7/30
+--------------------------------------------------------------------------------
+姓名: 周天宇 | 高中: 杭州学军中学 | GPA: 3.85/4.0 | SAT: 1490 | TOEFL: 108
+专业: 计算机科学 | 国家: 美国,加拿大,新加坡
+✅ API调用成功
+📈 综合分数: 74 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.9%) | 最佳匹配: Wellesley(18.6%) | 最佳保底: IIT(62%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.9% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.4% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.1% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.1% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.6% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.6% Rank:2 公立
+   UCL (University College London) - 录取概率:18.6% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.6% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 8/30
+--------------------------------------------------------------------------------
+姓名: Jennifer Wu | 高中: 广州华南师范大学附中 | GPA: 3.88/4.0 | SAT: 1500 | TOEFL: 115
+专业: 医学预科/生物 | 国家: 美国,英国,加拿大
+✅ API调用成功
+📈 综合分数: 75 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18%) | 最佳匹配: Wellesley(18.8%) | 最佳保底: IIT(62.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.8% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.8% Rank:2 公立
+   UCL (University College London) - 录取概率:18.8% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.8% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 9/30
+--------------------------------------------------------------------------------
+姓名: 陈浩然 | 高中: 武汉外国语学校 | GPA: 3.8/4.0 | SAT: 1480 | TOEFL: 107
+专业: 政治学/国际关系 | 国家: 美国,英国,香港
+✅ API调用成功
+📈 综合分数: 74 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.9%) | 最佳匹配: Wellesley(18.6%) | 最佳保底: IIT(62%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.9% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.4% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.1% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.1% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.6% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.6% Rank:2 公立
+   UCL (University College London) - 录取概率:18.6% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.6% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 10/30
+--------------------------------------------------------------------------------
+姓名: Lisa Chen | 高中: 成都外国语学校 | GPA: 3.92/4.0 | SAT: 1520 | TOEFL: 113
+专业: 工程 | 国家: 美国,加拿大
+✅ API调用成功
+📈 综合分数: 75 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18%) | 最佳匹配: UMich(18.8%) | 最佳保底: IIT(62.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   UMich (University of Michigan) - 录取概率:18.8% Rank:21 公立
+   Georgia Tech (Georgia Institute of Technology) - 录取概率:18.8% Rank:33 公立
+   Wellesley (Wellesley College) - 录取概率:18.8% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.8% Rank:2 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 11/30
+--------------------------------------------------------------------------------
+姓名: Michael Liu | 高中: 天津实验中学 | GPA: 3.7/4.0 | SAT: 1450 | TOEFL: 105
+专业: 环境科学 | 国家: 美国,澳大利亚
+✅ API调用成功
+📈 综合分数: 72 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.6%) | 最佳匹配: Wellesley(18.3%) | 最佳保底: IIT(61%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.6% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.1% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.9% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.9% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.3% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.3% Rank:2 公立
+   UCL (University College London) - 录取概率:18.3% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.3% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 12/30
+--------------------------------------------------------------------------------
+姓名: Sophie Wang | 高中: 西安高新一中 | GPA: 3.75/4.0 | SAT: 1430 | TOEFL: 103
+专业: 艺术/设计 | 国家: 美国,英国
+✅ API调用成功
+📈 综合分数: 72 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.6%) | 最佳匹配: Wellesley(18.3%) | 最佳保底: IIT(61%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.6% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.1% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.9% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.9% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.3% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.3% Rank:2 公立
+   UCL (University College London) - 录取概率:18.3% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.3% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 13/30
+--------------------------------------------------------------------------------
+姓名: Jason Zhang | 高中: 重庆南开中学 | GPA: 3.6/4.0 | SAT: 1400 | TOEFL: 100
+专业: 计算机科学 | 国家: 美国,澳大利亚
+✅ API调用成功
+📈 综合分数: 70 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.3%) | 最佳匹配: Wellesley(18%) | 最佳保底: IIT(60%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.6% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.6% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18% Rank:2 公立
+   UCL (University College London) - 录取概率:18% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:60% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:60% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:60% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:60% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 14/30
+--------------------------------------------------------------------------------
+姓名: Emily Huang | 高中: 苏州外国语学校 | GPA: 3.82/4.0 | SAT: 1470 | TOEFL: 108
+专业: 商科 | 国家: 美国,英国,香港
+✅ API调用成功
+📈 综合分数: 74 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.9%) | 最佳匹配: Notre Dame(18.6%) | 最佳保底: IIT(62%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.9% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.4% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.1% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.1% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:18.6% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:18.6% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:18.6% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:18.6% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 15/30
+--------------------------------------------------------------------------------
+姓名: Ryan Li | 高中: 青岛二中国际部 | GPA: 3.65/4.0 | SAT: 1380 | TOEFL: 98
+专业: 化学/材料科学 | 国家: 美国,加拿大
+✅ API调用成功
+📈 综合分数: 70 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.3%) | 最佳匹配: Wellesley(18%) | 最佳保底: IIT(60%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.6% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.6% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18% Rank:2 公立
+   UCL (University College London) - 录取概率:18% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:60% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:60% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:60% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:60% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 16/30
+--------------------------------------------------------------------------------
+姓名: Kevin Park | 高中: 北京德威英国国际学校 | GPA: 3.9/4.0 | SAT: 1490 | TOEFL: waived
+专业: 商科/经济学 | 国家: 美国,英国,香港,新加坡
+✅ API调用成功
+📈 综合分数: 75 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18%) | 最佳匹配: Notre Dame(18.8%) | 最佳保底: IIT(62.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:18.8% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:18.8% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:18.8% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:18.8% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 17/30
+--------------------------------------------------------------------------------
+姓名: Grace Kim | 高中: 上海协和双语学校 | GPA: 3.78/4.0 | SAT: 1440 | TOEFL: 110
+专业: 艺术/时尚管理 | 国家: 美国,英国,意大利
+✅ API调用成功
+📈 综合分数: 73 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.7%) | 最佳匹配: Notre Dame(18.5%) | 最佳保底: IIT(61.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.7% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.2% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:18.5% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:18.5% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:18.5% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:18.5% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 18/30
+--------------------------------------------------------------------------------
+姓名: Alex Wang | 高中: 美国Westlake High School | GPA: 3.95/4.0 | SAT: 1520 | TOEFL: waived
+专业: 计算机科学 | 国家: 美国
+✅ API调用成功
+📈 综合分数: 76 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18.1%) | 最佳匹配: Wellesley(18.9%) | 最佳保底: IIT(63%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18.1% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.6% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.4% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.4% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.9% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.9% Rank:2 公立
+   UCL (University College London) - 录取概率:18.9% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.9% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:63% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:63% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:63% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:63% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 19/30
+--------------------------------------------------------------------------------
+姓名: Emily Chen | 高中: 香港国际学校 | GPA: 3.85/4.0 | SAT: 1460 | TOEFL: 112
+专业: 金融/商科 | 国家: 美国,英国,香港,新加坡
+✅ API调用成功
+📈 综合分数: 74 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.9%) | 最佳匹配: Notre Dame(18.6%) | 最佳保底: IIT(62%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.9% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.4% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.1% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.1% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:18.6% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:18.6% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:18.6% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:18.6% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 20/30
+--------------------------------------------------------------------------------
+姓名: Brian Tan | 高中: Singapore International School | GPA: 3.88/4.0 | SAT: 1500 | TOEFL: 115
+专业: 数学/计算机 | 国家: 美国,英国,新加坡,加拿大
+✅ API调用成功
+📈 综合分数: 75 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18%) | 最佳匹配: Wellesley(18.8%) | 最佳保底: IIT(62.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.8% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.8% Rank:2 公立
+   UCL (University College London) - 录取概率:18.8% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.8% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 21/30
+--------------------------------------------------------------------------------
+姓名: David Wu | 高中: 湖南省重点中学 | GPA: 3.5/4.0 | SAT: 1350 | TOEFL: 95
+专业: 计算机科学 | 国家: 美国,加拿大
+✅ API调用成功
+📈 综合分数: 68 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17%) | 最佳匹配: Wellesley(17.7%) | 最佳保底: IIT(59%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:17.7% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:17.7% Rank:2 公立
+   UCL (University College London) - 录取概率:17.7% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:17.7% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:59% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:59% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:59% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:59% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 22/30
+--------------------------------------------------------------------------------
+姓名: Amanda Liu | 高中: 普通高中(非重点) | GPA: 3.7/4.0 | SAT: 1420 | TOEFL: 102
+专业: 新闻传播/传媒 | 国家: 美国,澳大利亚,英国
+✅ API调用成功
+📈 综合分数: 72 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.6%) | 最佳匹配: Wellesley(18.3%) | 最佳保底: IIT(61%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.6% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.1% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.9% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.9% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.3% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.3% Rank:2 公立
+   UCL (University College London) - 录取概率:18.3% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.3% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 23/30
+--------------------------------------------------------------------------------
+姓名: Vincent Zhang | 高中: 武汉英中 | GPA: 3.6/4.0 | SAT: 1390 | TOEFL: 99
+专业: 工商管理 | 国家: 美国,英国,澳大利亚
+✅ API调用成功
+📈 综合分数: 70 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.3%) | 最佳匹配: Notre Dame(18%) | 最佳保底: IIT(60%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.3% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.8% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.6% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.6% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:18% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:18% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:18% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:18% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:60% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:60% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:60% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:60% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 24/30
+--------------------------------------------------------------------------------
+姓名: Rachel Ho | 高中: 马来西亚国际学校 | GPA: 3.8/4.0 | SAT: 1440 | TOEFL: 110
+专业: 环境科学/生物 | 国家: 美国,澳大利亚,英国
+✅ API调用成功
+📈 综合分数: 73 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.7%) | 最佳匹配: Wellesley(18.5%) | 最佳保底: IIT(61.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.7% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.2% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.5% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.5% Rank:2 公立
+   UCL (University College London) - 录取概率:18.5% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.5% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 25/30
+--------------------------------------------------------------------------------
+姓名: Daniel Kim | 高中: 韩国国际学校 | GPA: 3.72/4.0 | SAT: 1410 | TOEFL: 106
+专业: 音乐/艺术 | 国家: 美国,英国,澳大利亚
+✅ API调用成功
+📈 综合分数: 72 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.6%) | 最佳匹配: Wellesley(18.3%) | 最佳保底: IIT(61%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.6% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.1% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.9% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.9% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.3% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.3% Rank:2 公立
+   UCL (University College London) - 录取概率:18.3% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.3% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 26/30
+--------------------------------------------------------------------------------
+姓名: Lucas Yang | 高中: 郑州外国语学校 | GPA: 3.4/4.0 | SAT: 1320 | TOEFL: 92
+专业: 创业学/计算机 | 国家: 美国,新加坡
+✅ API调用成功
+📈 综合分数: 67 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(16.8%) | 最佳匹配: Wellesley(17.6%) | 最佳保底: IIT(58.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:16.8% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.4% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.2% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.2% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:17.6% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:17.6% Rank:2 公立
+   UCL (University College London) - 录取概率:17.6% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:17.6% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:58.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:58.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:58.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:58.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 27/30
+--------------------------------------------------------------------------------
+姓名: Mia Zhang | 高中: 普通高中 | GPA: 3.55/4.0 | SAT: 1300 | TOEFL: 90
+专业: 艺术管理/舞蹈 | 国家: 美国,英国,澳大利亚
+✅ API调用成功
+📈 综合分数: 68 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17%) | 最佳匹配: Notre Dame(17.7%) | 最佳保底: IIT(59%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:17.7% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:17.7% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:17.7% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:17.7% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:59% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:59% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:59% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:59% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 28/30
+--------------------------------------------------------------------------------
+姓名: Chris Lee | 高中: 厦门双十中学 | GPA: 3.3/4.0 | SAT: 1280 | TOEFL: 88
+专业: 体育管理/运动科学 | 国家: 美国,澳大利亚
+✅ API调用成功
+📈 综合分数: 65 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(16.6%) | 最佳匹配: Notre Dame(17.3%) | 最佳保底: IIT(57.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:16.6% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:16.1% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:15% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:15% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Notre Dame (University of Notre Dame) - 录取概率:17.3% Rank:20 私立
+   UVA (University of Virginia) - 录取概率:17.3% Rank:24 公立
+   Wellesley (Wellesley College) - 录取概率:17.3% Rank:5 文理学院
+   UVA (University of Virginia) - 录取概率:17.3% Rank:24 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:57.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:57.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:57.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:57.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 29/30
+--------------------------------------------------------------------------------
+姓名: Jessica Wang | 高中: 南京金陵中学 | GPA: 3.9/4.0 | SAT: 1500 | TOEFL: 115
+专业: 英语文学/创意写作 | 国家: 美国,英国,爱尔兰
+✅ API调用成功
+📈 综合分数: 75 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(18%) | 最佳匹配: Wellesley(18.8%) | 最佳保底: IIT(62.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:18% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.5% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16.3% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16.3% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.8% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.8% Rank:2 公立
+   UCL (University College London) - 录取概率:18.8% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.8% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:62.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:62.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:62.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:62.5% Rank:82 公立
+
+--------------------------------------------------------------------------------
+📋 学生 30/30
+--------------------------------------------------------------------------------
+姓名: Anthony Chen | 高中: 北京四中 | GPA: 3.75/4.0 | SAT: 1460 | TOEFL: 110
+专业: 哲学/政治学 | 国家: 美国,英国
+✅ API调用成功
+📈 综合分数: 73 | 热门专业: 普通
+🎯 冲刺: 4所 | 匹配: 4所 | 保底: 4所
+🏆 最佳冲刺: BU(17.7%) | 最佳匹配: Wellesley(18.5%) | 最佳保底: IIT(61.5%)
+💡 策略: 冲刺4所+匹配4所+保底4所，全面覆盖
+
+📋 冲刺学校 (Reach):
+   BU (Boston University) - 录取概率:17.7% Rank:43 私立
+   Haverford (Haverford College) - 录取概率:17.2% Rank:18 文理学院
+   Middlebury (Middlebury College) - 录取概率:16% Rank:9 文理学院
+   Macalester (Macalester College) - 录取概率:16% Rank:25 文理学院
+
+📋 匹配学校 (Match):
+   Wellesley (Wellesley College) - 录取概率:18.5% Rank:5 文理学院
+   Cambridge (University of Cambridge) - 录取概率:18.5% Rank:2 公立
+   UCL (University College London) - 录取概率:18.5% Rank:4 公立
+   NUS (National University of Singapore) - 录取概率:18.5% Rank:1 公立
+
+📋 保底学校 (Safety):
+   IIT (Illinois Institute of Technology) - 录取概率:61.5% Rank:97 私立
+   Warwick (University of Warwick) - 录取概率:61.5% Rank:64 公立
+   Birmingham (University of Birmingham) - 录取概率:61.5% Rank:92 公立
+   Glasgow (University of Glasgow) - 录取概率:61.5% Rank:82 公立
+
+================================================================================
+📊 测试结果汇总
+================================================================================
+总计: 30个学生 | 成功: 30 | 失败: 0
+
+汇总表格:
+

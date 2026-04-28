@@ -1,0 +1,628 @@
+================================================================================
+🎓 留学选校平台 - 30个学生测试报告 V2 (正确字段格式)
+================================================================================
+
+--------------------------------------------------------------------------------
+📋 学生 1/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 陈明昊 | 高中: 北京人大附中 | GPA: 4.0 | SAT: 1580 | TOEFL: 118 | AP: 5门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:96 | 学术:100 | 考试:99 | 课程难度:95 | 活动:100
+热门专业: 普通
+
+【选校结果】
+冲刺:6所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.3%) | 最佳匹配: UW(2.4%) | 最佳保底: Lehigh(40.6%)
+策略: 冲刺6所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.3% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.8% Rank:1 私立 学费:$54894
+  MIT (Massachusetts Institute of Technology) 录取概率:4.8% Rank:2 私立 学费:$55718
+  Pomona (Pomona College) 录取概率:10.9% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.7% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:22.7% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  UW (University of Washington) 录取概率:2.4% Rank:40 公立 学费:$41478
+  UIUC (University of Illinois Urbana-Champaign) 录取概率:8.4% Rank:35 公立 学费:$44184
+
+📋 保底学校:
+  Lehigh (Lehigh University) 录取概率:40.6% Rank:60 私立 学费:$57770
+  Howard (Howard University) 录取概率:43% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:43% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:44.8% Rank:28 公立 学费:$44390
+
+--------------------------------------------------------------------------------
+📋 学生 2/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 李雅琪 | 高中: 上海中学国际部 | GPA: 4.0 | SAT: 1550 | TOEFL: 120 | AP: 4门
+专业: 生物
+✅ API调用成功
+
+【分数明细】
+综合:93 | 学术:100 | 考试:97 | 课程难度:82 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:6所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.2%) | 最佳匹配: Tulane(12.5%) | 最佳保底: KCL(41.1%)
+策略: 冲刺6所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.2% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5.2% Rank:1 私立 学费:$54894
+  Stanford (Stanford University) 录取概率:4.7% Rank:3 私立 学费:$57473
+  Pomona (Pomona College) 录取概率:10.7% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.6% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:22.3% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.5% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:23.5% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  KCL (King's College London) 录取概率:41.1% Rank:40 公立 学费:$38000
+  Howard (Howard University) 录取概率:42.3% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:42.3% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:44.1% Rank:28 公立 学费:$44390
+
+--------------------------------------------------------------------------------
+📋 学生 3/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 王浩宇 | 高中: 南京外国语学校 | GPA: 3.98 | SAT: 1560 | TOEFL: 115 | AP: 4门
+专业: 经济学/商科
+✅ API调用成功
+
+【分数明细】
+综合:90 | 学术:100 | 考试:98 | 课程难度:87 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:6所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.1%) | 最佳匹配: Tulane(12.3%) | 最佳保底: KCL(40.5%)
+策略: 冲刺6所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.1% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5.1% Rank:1 私立 学费:$54894
+  Stanford (Stanford University) 录取概率:4.1% Rank:3 私立 学费:$57473
+  Pomona (Pomona College) 录取概率:10.5% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.4% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:22% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.3% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:23.1% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  KCL (King's College London) 录取概率:40.5% Rank:40 公立 学费:$38000
+  PolyU (Hong Kong Polytechnic University) 录取概率:40.5% Rank:5 公立 学费:$28000
+  Howard (Howard University) 录取概率:41.7% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41.7% Rank:30 文理学院 学费:$64476
+
+--------------------------------------------------------------------------------
+📋 学生 4/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 张雨桐 | 高中: 深圳中学 | GPA: 4.0 | SAT: 1570 | TOEFL: 119 | AP: 5门
+专业: 物理
+✅ API调用成功
+
+【分数明细】
+综合:95 | 学术:100 | 考试:98 | 课程难度:95 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:6所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.2%) | 最佳匹配: Tulane(12.6%) | 最佳保底: Lehigh(40.4%)
+策略: 冲刺6所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.2% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5.2% Rank:1 私立 学费:$54894
+  Stanford (Stanford University) 录取概率:4.8% Rank:3 私立 学费:$57473
+  Pomona (Pomona College) 录取概率:10.8% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.7% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:22.6% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.6% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:23.8% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Lehigh (Lehigh University) 录取概率:40.4% Rank:60 私立 学费:$57770
+  Howard (Howard University) 录取概率:42.8% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:42.8% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:44.5% Rank:28 公立 学费:$44390
+
+--------------------------------------------------------------------------------
+📋 学生 5/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 刘子轩 | 高中: 复旦附中 | GPA: 3.96 | SAT: 1530 | TOEFL: 112 | AP: 3门
+专业: 历史/国际关系
+✅ API调用成功
+
+【分数明细】
+综合:92 | 学术:99 | 考试:96 | 课程难度:84 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:6所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.1%) | 最佳匹配: Tulane(12.4%) | 最佳保底: KCL(40.9%)
+策略: 冲刺6所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.1% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5.1% Rank:1 私立 学费:$54894
+  Stanford (Stanford University) 录取概率:4.7% Rank:3 私立 学费:$57473
+  Pomona (Pomona College) 录取概率:10.6% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.5% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:22.2% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.4% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:23.4% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  KCL (King's College London) 录取概率:40.9% Rank:40 公立 学费:$38000
+  Howard (Howard University) 录取概率:42.1% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:42.1% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:43.9% Rank:28 公立 学费:$44390
+
+--------------------------------------------------------------------------------
+📋 学生 6/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Emma Zhang | 高中: 上海包玉刚实验学校 | GPA: 3.9 | SAT: 1510 | TOEFL: 110 | AP: 3门
+专业: 社会学/传媒
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:98 | 考试:94 | 课程难度:73 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: Tulane(12.1%) | 最佳保底: Howard(41%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.4% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.3% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.7% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.1% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.8% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:41% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.8% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:43.3% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 7/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 周天宇 | 高中: 杭州学军中学 | GPA: 3.85 | SAT: 1490 | TOEFL: 108 | AP: 3门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:86 | 学术:96 | 考试:93 | 课程难度:73 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: UW(2.3%) | 最佳保底: Howard(40.8%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.3% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.2% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.6% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  UW (University of Washington) 录取概率:2.3% Rank:40 公立 学费:$41478
+  UIUC (University of Illinois Urbana-Champaign) 录取概率:7.9% Rank:35 公立 学费:$44184
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:40.8% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:40.8% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.5% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:43.1% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 8/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Jennifer Wu | 高中: 广州华南师范大学附中 | GPA: 3.88 | SAT: 1500 | TOEFL: 115 | AP: 3门
+专业: 医学预科/生物
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:97 | 考试:94 | 课程难度:73 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: Tulane(12.1%) | 最佳保底: Howard(41%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.4% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.3% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.7% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.1% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.8% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:41% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.8% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:43.3% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 9/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: 陈浩然 | 高中: 武汉外国语学校 | GPA: 3.8 | SAT: 1480 | TOEFL: 107 | AP: 3门
+专业: 政治学/国际关系
+✅ API调用成功
+
+【分数明细】
+综合:85 | 学术:95 | 考试:93 | 课程难度:72 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: Tulane(12%) | 最佳保底: Howard(40.6%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.3% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.2% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.4% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.6% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:40.6% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:40.6% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.3% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:42.9% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 10/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Lisa Chen | 高中: 成都外国语学校 | GPA: 3.92 | SAT: 1520 | TOEFL: 113 | AP: 4门
+专业: 工程
+✅ API调用成功
+
+【分数明细】
+综合:89 | 学术:98 | 考试:95 | 课程难度:86 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.1%) | 最佳匹配: Tulane(12.2%) | 最佳保底: Howard(41.5%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.1% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5.1% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.5% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.4% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.9% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.2% Rank:73 私立 学费:$66870
+  UT Austin (University of Texas at Austin) 录取概率:23% Rank:38 公立 学费:$41898
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:41.5% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41.5% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:43.2% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:43.8% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 11/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Michael Liu | 高中: 天津实验中学 | GPA: 3.7 | SAT: 1450 | TOEFL: 105 | AP: 2门
+专业: 环境科学
+✅ API调用成功
+
+【分数明细】
+综合:82 | 学术:93 | 考试:91 | 课程难度:58 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(4.9%) | 最佳匹配: Tulane(11.8%) | 最佳保底: Howard(40.1%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:4.9% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.9% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.1% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.1% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:11.8% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.3% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:40.1% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:40.1% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:41.7% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:42.3% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 12/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Sophie Wang | 高中: 西安高新一中 | GPA: 3.75 | SAT: 1430 | TOEFL: 103 | AP: 3门
+专业: 艺术/设计
+✅ API调用成功
+
+【分数明细】
+综合:83 | 学术:94 | 考试:89 | 课程难度:62 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(4.9%) | 最佳匹配: Tulane(11.9%) | 最佳保底: Howard(40.2%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:4.9% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.9% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.2% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.1% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.2% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:11.9% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.4% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:40.2% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:40.2% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:41.9% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:42.5% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 13/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Jason Zhang | 高中: 重庆南开中学 | GPA: 3.6 | SAT: 1400 | TOEFL: 100 | AP: 2门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:80 | 学术:90 | 考试:88 | 课程难度:57 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(4.8%) | 最佳匹配: UW(2.2%) | 最佳保底: UC Davis(41.3%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:4.8% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.4% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:9.9% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:20.9% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  UW (University of Washington) 录取概率:2.2% Rank:40 公立 学费:$41478
+  UIUC (University of Illinois Urbana-Champaign) 录取概率:7.7% Rank:35 公立 学费:$44184
+
+📋 保底学校:
+  UC Davis (University of California, Davis) 录取概率:41.3% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:41.9% Rank:50 文理学院 学费:$55210
+  Occidental (Occidental College) 录取概率:41.9% Rank:55 文理学院 学费:$63840
+  Brandeis (Brandeis University) 录取概率:43% Rank:60 私立 学费:$60240
+
+--------------------------------------------------------------------------------
+📋 学生 14/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Emily Huang | 高中: 苏州外国语学校 | GPA: 3.82 | SAT: 1470 | TOEFL: 108 | AP: 3门
+专业: 商科
+✅ API调用成功
+
+【分数明细】
+综合:85 | 学术:96 | 考试:92 | 课程难度:72 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: Tulane(12%) | 最佳保底: Howard(40.6%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.3% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.2% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.4% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.6% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:40.6% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:40.6% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.3% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:42.9% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 15/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Ryan Li | 高中: 青岛二中国际部 | GPA: 3.65 | SAT: 1380 | TOEFL: 98 | AP: 2门
+专业: 化学/材料科学
+✅ API调用成功
+
+【分数明细】
+综合:80 | 学术:91 | 考试:86 | 课程难度:58 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(4.8%) | 最佳匹配: Tulane(11.7%) | 最佳保底: UC Davis(41.3%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:4.8% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.8% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:9.9% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:20.9% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:11.7% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  UC Davis (University of California, Davis) 录取概率:41.3% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:41.9% Rank:50 文理学院 学费:$55210
+  Occidental (Occidental College) 录取概率:41.9% Rank:55 文理学院 学费:$63840
+  Brandeis (Brandeis University) 录取概率:43% Rank:60 私立 学费:$60240
+
+--------------------------------------------------------------------------------
+📋 学生 16/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Kevin Park | 高中: 北京德威英国国际学校 | GPA: 3.9 | SAT: 1490 | TOEFL: waived | AP: 3门
+专业: 商科/经济学
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:98 | 考试:93 | 课程难度:78 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: Tulane(12.1%) | 最佳保底: Howard(41%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.4% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.3% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.7% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.1% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.8% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:41% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.8% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:43.3% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 17/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Grace Kim | 高中: 上海协和双语学校 | GPA: 3.78 | SAT: 1440 | TOEFL: 110 | AP: 3门
+专业: 艺术/时尚管理
+✅ API调用成功
+
+【分数明细】
+综合:87 | 学术:95 | 考试:90 | 课程难度:67 | 活动:95
+热门专业: 普通
+
+【选校结果】
+冲刺:5所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5%) | 最佳匹配: Tulane(12.1%) | 最佳保底: Howard(41%)
+策略: 冲刺5所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:5% Rank:1 私立 学费:$54894
+  Pomona (Pomona College) 录取概率:10.4% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.3% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:21.7% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  Tulane (Tulane University) 录取概率:12.1% Rank:73 私立 学费:$66870
+  Vassar (Vassar College) 录取概率:22.8% Rank:13 文理学院 学费:$64780
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:41% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:42.8% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:43.3% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 18/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Alex Wang | 高中: 美国Westlake High School | GPA: 3.95 | SAT: 1520 | TOEFL: waived | AP: 4门
+专业: 计算机科学
+✅ API调用成功
+
+【分数明细】
+综合:90 | 学术:99 | 考试:95 | 课程难度:87 | 活动:75
+热门专业: 普通
+
+【选校结果】
+冲刺:6所 | 匹配:2所 | 保底:4所
+最佳冲刺: Yale(5.1%) | 最佳匹配: UW(2.3%) | 最佳保底: Howard(41.7%)
+策略: 冲刺6所+匹配2所+保底4所，全面覆盖
+
+📋 冲刺学校:
+  Yale (Yale University) 录取概率:5.1% Rank:5 私立 学费:$57254
+  Princeton (Princeton University) 录取概率:4.6% Rank:1 私立 学费:$54894
+  MIT (Massachusetts Institute of Technology) 录取概率:4.6% Rank:2 私立 学费:$55718
+  Pomona (Pomona College) 录取概率:10.5% Rank:4 文理学院 学费:$62422
+  Bowdoin (Bowdoin College) 录取概率:10.4% Rank:9 文理学院 学费:$63682
+  Wesleyan (Wesleyan University) 录取概率:22% Rank:12 文理学院 学费:$65638
+
+📋 匹配学校:
+  UW (University of Washington) 录取概率:2.3% Rank:40 公立 学费:$41478
+  UIUC (University of Illinois Urbana-Champaign) 录取概率:8.1% Rank:35 公立 学费:$44184
+
+📋 保底学校:
+  Howard (Howard University) 录取概率:41.7% Rank:89 私立 学费:$31580
+  Oberlin (Oberlin College) 录取概率:41.7% Rank:30 文理学院 学费:$64476
+  UC Davis (University of California, Davis) 录取概率:43.4% Rank:28 公立 学费:$44390
+  Sewanee (Sewanee - University of the South) 录取概率:44% Rank:50 文理学院 学费:$55210
+
+--------------------------------------------------------------------------------
+📋 学生 19/30
+--------------------------------------------------------------------------------
+【基本信息】
+姓名: Emily Chen | 高中: 香港国际学校 | GPA: 3.85 | SAT: 1460 | TOEFL: 112 | AP: 3门
+专业: 金融/商科

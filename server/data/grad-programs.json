@@ -1,0 +1,7002 @@
+{
+  "metadata": {
+    "description": "研究生项目数据库 - CS Master/MBA/Finance/PhD",
+    "lastUpdated": "2026-04-27",
+    "totalPrograms": 314
+  },
+  "programs": [
+    {
+      "name": "Stanford University - CS Master",
+      "shortName": "Stanford CS",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 5.0,
+      "tuition": 65000,
+      "location": "Stanford, CA",
+      "programType": "CS-Master",
+      "description": "CS Master全球第一，硅谷资源丰富",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Meta",
+        "Startups"
+      ]
+    },
+    {
+      "name": "MIT - EECS Master",
+      "shortName": "MIT EECS",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 4.0,
+      "tuition": 58000,
+      "location": "Cambridge, MA",
+      "programType": "CS-Master",
+      "description": "EECS Master，顶尖科研资源",
+      "researchAreas": [
+        "AI",
+        "Robotics",
+        "Systems",
+        "Theory"
+      ],
+      "careerOutcomes": [
+        "Google DeepMind",
+        "Apple",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University - SCS",
+      "shortName": "CMU SCS",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 7.0,
+      "tuition": 58000,
+      "location": "Pittsburgh, PA",
+      "programType": "CS-Master",
+      "description": "CS Master全球前三，机器学习最强",
+      "researchAreas": [
+        "ML",
+        "NLP",
+        "CV",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Apple",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "UC Berkeley - EECS Master",
+      "shortName": "UCB EECS",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 6.0,
+      "tuition": 45000,
+      "location": "Berkeley, CA",
+      "programType": "CS-Master",
+      "description": "EECS Master，硅谷后花园",
+      "researchAreas": [
+        "AI",
+        "Systems",
+        "Theory",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Startups",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Washington - CS Master",
+      "shortName": "UW CS",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 8.0,
+      "tuition": 38000,
+      "location": "Seattle, WA",
+      "programType": "CS-Master",
+      "description": "CS Master，西雅图科技公司资源",
+      "researchAreas": [
+        "ML",
+        "NLP",
+        "CV",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Apple"
+      ]
+    },
+    {
+      "name": "UIUC - CS Master",
+      "shortName": "UIUC CS",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 10.0,
+      "tuition": 35000,
+      "location": "Champaign, IL",
+      "programType": "CS-Master",
+      "description": "CS Master，性价比高",
+      "researchAreas": [
+        "AI",
+        "Systems",
+        "Theory",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Meta"
+      ]
+    },
+    {
+      "name": "Georgia Tech - CS Master",
+      "shortName": "Gatech CS",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 12.0,
+      "tuition": 32000,
+      "location": "Atlanta, GA",
+      "programType": "CS-Master",
+      "description": "CS Master，Georgia理工王牌",
+      "researchAreas": [
+        "ML",
+        "CV",
+        "HCI",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Home Depot"
+      ]
+    },
+    {
+      "name": "University of Michigan - CSE Master",
+      "shortName": "UMich CSE",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 15.0,
+      "tuition": 50000,
+      "location": "Ann Arbor, MI",
+      "programType": "CS-Master",
+      "description": "CSE Master，工程强校",
+      "researchAreas": [
+        "AI",
+        "Systems",
+        "Robotics",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Ford",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "Columbia University - CS Master",
+      "shortName": "Columbia CS",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 10.0,
+      "tuition": 65000,
+      "location": "New York, NY",
+      "programType": "CS-Master",
+      "description": "CS Master，纽约科技资源",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "JP Morgan",
+        "Goldman"
+      ]
+    },
+    {
+      "name": "Cornell University - CS Master",
+      "shortName": "Cornell CS",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 8.0,
+      "tuition": 60000,
+      "location": "Ithaca, NY",
+      "programType": "CS-Master",
+      "description": "CS Master，常青藤名校",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "Theory"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Meta",
+        "Jane Street"
+      ]
+    },
+    {
+      "name": "Duke University - CS Master",
+      "shortName": "Duke CS",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 18.0,
+      "tuition": 62000,
+      "location": "Durham, NC",
+      "programType": "CS-Master",
+      "description": "CS Master，Duke综合强校",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Cisco"
+      ]
+    },
+    {
+      "name": "University of Southern California - CS",
+      "shortName": "USC CS",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 25.0,
+      "tuition": 58000,
+      "location": "Los Angeles, CA",
+      "programType": "CS-Master",
+      "description": "CS Master，南加州大学王牌",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Game Tech",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Amazon",
+        "Disney"
+      ]
+    },
+    {
+      "name": "Boston University - CS",
+      "shortName": "BU CS",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 28.0,
+      "tuition": 52000,
+      "location": "Boston, MA",
+      "programType": "CS-Master",
+      "description": "CS Master，波士顿科技资源",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Data Science",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TripAdvisor"
+      ]
+    },
+    {
+      "name": "New York University - CS",
+      "shortName": "NYU CS",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 30.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "CS-Master",
+      "description": "CS Master，纽约Tandon学院",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Amazon",
+        "Bloomberg"
+      ]
+    },
+    {
+      "name": "University of Minnesota - CS",
+      "shortName": "UMN CS",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 35.0,
+      "tuition": 35000,
+      "location": "Minneapolis, MN",
+      "programType": "CS-Master",
+      "description": "CS Master，性价比高",
+      "researchAreas": [
+        "AI",
+        "HCI",
+        "Systems",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Target"
+      ]
+    },
+    {
+      "name": "University of Texas at Dallas - CS",
+      "shortName": "UTD CS",
+      "type": "硕士",
+      "rank": 16,
+      "admissionRate": 45.0,
+      "tuition": 28000,
+      "location": "Dallas, TX",
+      "programType": "CS-Master",
+      "description": "CS Master，德州性价比之王",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "AT&T",
+        "HP"
+      ]
+    },
+    {
+      "name": "University of Florida - CS",
+      "shortName": "UF CS",
+      "type": "硕士",
+      "rank": 17,
+      "admissionRate": 50.0,
+      "tuition": 30000,
+      "location": "Gainesville, FL",
+      "programType": "CS-Master",
+      "description": "CS Master，佛州旗舰",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Disney"
+      ]
+    },
+    {
+      "name": "Northeastern University - CS",
+      "shortName": "NEU CS",
+      "type": "硕士",
+      "rank": 18,
+      "admissionRate": 40.0,
+      "tuition": 50000,
+      "location": "Boston, MA",
+      "programType": "CS-Master",
+      "description": "CS Master，COOP项目强",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Data Science",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Liberty Mutual"
+      ]
+    },
+    {
+      "name": "University of Arizona - CS",
+      "shortName": "U Arizona CS",
+      "type": "硕士",
+      "rank": 19,
+      "admissionRate": 60.0,
+      "tuition": 32000,
+      "location": "Tucson, AZ",
+      "programType": "CS-Master",
+      "description": "CS Master，录取友好",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "CV",
+        "NLP"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Google",
+        "Local Tech"
+      ]
+    },
+    {
+      "name": "Arizona State University - CS",
+      "shortName": "ASU CS",
+      "type": "硕士",
+      "rank": 20,
+      "admissionRate": 55.0,
+      "tuition": 30000,
+      "location": "Tempe, AZ",
+      "programType": "CS-Master",
+      "description": "CS Master，CS强校",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Intel"
+      ]
+    },
+    {
+      "name": "Harvard Business School",
+      "shortName": "HBS",
+      "type": "MBA",
+      "rank": 1,
+      "admissionRate": 8.0,
+      "tuition": 75000,
+      "location": "Boston, MA",
+      "programType": "MBA",
+      "description": "MBA全球第一，案例教学法创始人",
+      "careerOutcomes": [
+        "McKinsey",
+        "Goldman Sachs",
+        "Google",
+        "Apple"
+      ]
+    },
+    {
+      "name": "Stanford Graduate School of Business",
+      "shortName": "Stanford GSB",
+      "type": "MBA",
+      "rank": 2,
+      "admissionRate": 6.0,
+      "tuition": 75000,
+      "location": "Stanford, CA",
+      "programType": "MBA",
+      "description": "MBA全球前三，硅谷创业资源",
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "VC",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Wharton School",
+      "shortName": "Wharton",
+      "type": "MBA",
+      "rank": 3,
+      "admissionRate": 7.0,
+      "tuition": 78000,
+      "location": "Philadelphia, PA",
+      "programType": "MBA",
+      "description": "MBA全球前三，沃顿商学院",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "McKinsey",
+        "KKR",
+        "PE"
+      ]
+    },
+    {
+      "name": "Kellogg School of Management",
+      "shortName": "Kellogg",
+      "type": "MBA",
+      "rank": 4,
+      "admissionRate": 12.0,
+      "tuition": 72000,
+      "location": "Evanston, IL",
+      "programType": "MBA",
+      "description": "MBA前十，市场营销强校",
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Coca-Cola",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "MIT Sloan",
+      "shortName": "Sloan",
+      "type": "MBA",
+      "rank": 5,
+      "admissionRate": 10.0,
+      "tuition": 70000,
+      "location": "Cambridge, MA",
+      "programType": "MBA",
+      "description": "MBA前十，创新创业强校",
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Columbia Business School",
+      "shortName": "Columbia BS",
+      "type": "MBA",
+      "rank": 6,
+      "admissionRate": 9.0,
+      "tuition": 75000,
+      "location": "New York, NY",
+      "programType": "MBA",
+      "description": "MBA前十，纽约金融资源",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Google",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "Chicago Booth",
+      "shortName": "Booth",
+      "type": "MBA",
+      "rank": 7,
+      "admissionRate": 11.0,
+      "tuition": 73000,
+      "location": "Chicago, IL",
+      "programType": "MBA",
+      "description": "MBA前十，诺贝尔经济学奖摇篮",
+      "careerOutcomes": [
+        "McKinsey",
+        "Goldman Sachs",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Northwestern Kellogg",
+      "shortName": "Northwestern",
+      "type": "MBA",
+      "rank": 8,
+      "admissionRate": 13.0,
+      "tuition": 72000,
+      "location": "Evanston, IL",
+      "programType": "MBA",
+      "description": "MBA前十，市场营销全美第一",
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Nike",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "NYU Stern",
+      "shortName": "NYU Stern",
+      "type": "MBA",
+      "rank": 9,
+      "admissionRate": 15.0,
+      "tuition": 76000,
+      "location": "New York, NY",
+      "programType": "MBA",
+      "description": "MBA前20，纽约金融中心",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Bloomberg",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UCLA Anderson",
+      "shortName": "Anderson",
+      "type": "MBA",
+      "rank": 10,
+      "admissionRate": 18.0,
+      "tuition": 65000,
+      "location": "Los Angeles, CA",
+      "programType": "MBA",
+      "description": "MBA前25，洛杉矶科技资源",
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Entertainment",
+        "Tech"
+      ]
+    },
+    {
+      "name": "USC Marshall",
+      "shortName": "Marshall",
+      "type": "MBA",
+      "rank": 11,
+      "admissionRate": 22.0,
+      "tuition": 68000,
+      "location": "Los Angeles, CA",
+      "programType": "MBA",
+      "description": "MBA前30，洛杉矶娱乐产业",
+      "careerOutcomes": [
+        "Disney",
+        "Amazon",
+        "Entertainment",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Boston University Questrom",
+      "shortName": "Questrom",
+      "type": "MBA",
+      "rank": 12,
+      "admissionRate": 25.0,
+      "tuition": 58000,
+      "location": "Boston, MA",
+      "programType": "MBA",
+      "description": "MBA前40，波士顿金融",
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Liberty Mutual",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Texas at Austin - MBA",
+      "shortName": "UT Austin MBA",
+      "type": "MBA",
+      "rank": 13,
+      "admissionRate": 28.0,
+      "tuition": 55000,
+      "location": "Austin, TX",
+      "programType": "MBA",
+      "description": "MBA前25，德州科技中心",
+      "careerOutcomes": [
+        "Dell",
+        "Apple",
+        "Microsoft",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Washington - MBA",
+      "shortName": "UW Foster",
+      "type": "MBA",
+      "rank": 14,
+      "admissionRate": 30.0,
+      "tuition": 52000,
+      "location": "Seattle, WA",
+      "programType": "MBA",
+      "description": "MBA前40，西雅图科技",
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Boeing",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Illinois - MBA",
+      "shortName": "UIUC MBA",
+      "type": "MBA",
+      "rank": 15,
+      "admissionRate": 35.0,
+      "tuition": 48000,
+      "location": "Champaign, IL",
+      "programType": "MBA",
+      "description": "MBA前40，中西部强校",
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Caterpillar",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Georgia - MBA",
+      "shortName": "UGA MBA",
+      "type": "MBA",
+      "rank": 16,
+      "admissionRate": 45.0,
+      "tuition": 42000,
+      "location": "Athens, GA",
+      "programType": "MBA",
+      "description": "MBA前50，佐治亚州旗舰",
+      "careerOutcomes": [
+        "Home Depot",
+        "Delta",
+        "Coca-Cola",
+        "Regional"
+      ]
+    },
+    {
+      "name": "University of Alabama - MBA",
+      "shortName": "Bama MBA",
+      "type": "MBA",
+      "rank": 17,
+      "admissionRate": 50.0,
+      "tuition": 38000,
+      "location": "Tuscaloosa, AL",
+      "programType": "MBA",
+      "description": "MBA前60，CBA商学院",
+      "careerOutcomes": [
+        "Regions Bank",
+        "Mercedes",
+        "Regional Corp",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "University of Tennessee - MBA",
+      "shortName": "UT MBA",
+      "type": "MBA",
+      "rank": 18,
+      "admissionRate": 55.0,
+      "tuition": 40000,
+      "location": "Knoxville, TN",
+      "programType": "MBA",
+      "description": "MBA前70，商业分析强校",
+      "careerOutcomes": [
+        "Amazon",
+        "Pilot Flying J",
+        "Health Care",
+        "Regional"
+      ]
+    },
+    {
+      "name": "University of Texas at Dallas - MBA",
+      "shortName": "UTD MBA",
+      "type": "MBA",
+      "rank": 19,
+      "admissionRate": 48.0,
+      "tuition": 35000,
+      "location": "Dallas, TX",
+      "programType": "MBA",
+      "description": "MBA德州，性价比极高",
+      "careerOutcomes": [
+        "AT&T",
+        "HP",
+        "Texas Instruments",
+        "Regional"
+      ]
+    },
+    {
+      "name": "University of Florida - MBA",
+      "shortName": "UF MBA",
+      "type": "MBA",
+      "rank": 20,
+      "admissionRate": 52.0,
+      "tuition": 38000,
+      "location": "Gainesville, FL",
+      "programType": "MBA",
+      "description": "MBA佛州旗舰，录取友好",
+      "careerOutcomes": [
+        "Walt Disney",
+        "Lockheed Martin",
+        "Health Care",
+        "Regional"
+      ]
+    },
+    {
+      "name": "Princeton - MSF",
+      "shortName": "Princeton MSF",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 5.0,
+      "tuition": 60000,
+      "location": "Princeton, NJ",
+      "programType": "Finance",
+      "description": "金融硕士全球第一",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "JP Morgan",
+        "HF"
+      ]
+    },
+    {
+      "name": "MIT - MSF",
+      "shortName": "MIT MSF",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 6.0,
+      "tuition": 58000,
+      "location": "Cambridge, MA",
+      "programType": "Finance",
+      "description": "金融硕士全球前三",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "BlackRock",
+        "Quant"
+      ]
+    },
+    {
+      "name": "Columbia - MSF",
+      "shortName": "Columbia MSF",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 8.0,
+      "tuition": 65000,
+      "location": "New York, NY",
+      "programType": "Finance",
+      "description": "金融硕士，纽约金融中心",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Bank of America",
+        "IB"
+      ]
+    },
+    {
+      "name": "University of Chicago - MSF",
+      "shortName": "Chicago MSF",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 10.0,
+      "tuition": 62000,
+      "location": "Chicago, IL",
+      "programType": "Finance",
+      "description": "金融数学全美第一",
+      "careerOutcomes": [
+        "Jane Street",
+        "Two Sigma",
+        "Quant",
+        "Trading"
+      ]
+    },
+    {
+      "name": "NYU - MSF",
+      "shortName": "NYU MSF",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 12.0,
+      "tuition": 58000,
+      "location": "New York, NY",
+      "programType": "Finance",
+      "description": "金融硕士，Wall Street资源",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Bloomberg",
+        "IB"
+      ]
+    },
+    {
+      "name": "LSE - Finance",
+      "shortName": "LSE Finance",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 15.0,
+      "tuition": 45000,
+      "location": "London, UK",
+      "programType": "Finance",
+      "description": "英国金融第一，伦敦中心",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Lazard",
+        "HSBC",
+        "London Finance"
+      ]
+    },
+    {
+      "name": "Boston College - MSF",
+      "shortName": "BC MSF",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 25.0,
+      "tuition": 50000,
+      "location": "Boston, MA",
+      "programType": "Finance",
+      "description": "金融硕士，波士顿金融中心",
+      "careerOutcomes": [
+        "Fidelity",
+        "State Street",
+        "Santander",
+        "Regional"
+      ]
+    },
+    {
+      "name": "University of Maryland - MSF",
+      "shortName": "UMD MSF",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 30.0,
+      "tuition": 45000,
+      "location": "College Park, MD",
+      "programType": "Finance",
+      "description": "金融硕士，政府金融强校",
+      "careerOutcomes": [
+        "World Bank",
+        "IMF",
+        "Government",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Fordham University - MSF",
+      "shortName": "Fordham MSF",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 40.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "Finance",
+      "description": "金融硕士，纽约金融",
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "NY Finance",
+        "IB"
+      ]
+    },
+    {
+      "name": "University of Connecticut - MSF",
+      "shortName": "UConn MSF",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 45.0,
+      "tuition": 40000,
+      "location": "Storrs, CT",
+      "programType": "Finance",
+      "description": "金融硕士，新英格兰性价比",
+      "careerOutcomes": [
+        "Travelers",
+        "Cigna",
+        "Insurance",
+        "Regional"
+      ]
+    },
+    {
+      "name": "Stanford - CS PhD",
+      "shortName": "Stanford PhD",
+      "type": "博士",
+      "rank": 1,
+      "admissionRate": 2.0,
+      "tuition": 45000,
+      "location": "Stanford, CA",
+      "programType": "PhD",
+      "description": "CS PhD全球第一，导师制",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "HCI"
+      ]
+    },
+    {
+      "name": "MIT - CS PhD",
+      "shortName": "MIT PhD",
+      "type": "博士",
+      "rank": 2,
+      "admissionRate": 2.0,
+      "tuition": 45000,
+      "location": "Cambridge, MA",
+      "programType": "PhD",
+      "description": "CS PhD全球前三",
+      "researchAreas": [
+        "AI",
+        "Robotics",
+        "Systems",
+        "Theory"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon - CS PhD",
+      "shortName": "CMU PhD",
+      "type": "博士",
+      "rank": 3,
+      "admissionRate": 3.0,
+      "tuition": 42000,
+      "location": "Pittsburgh, PA",
+      "programType": "PhD",
+      "description": "CS PhD全球前三，AI最强",
+      "researchAreas": [
+        "ML",
+        "NLP",
+        "CV",
+        "Security"
+      ]
+    },
+    {
+      "name": "UC Berkeley - CS PhD",
+      "shortName": "Berkeley PhD",
+      "type": "博士",
+      "rank": 4,
+      "admissionRate": 2.5,
+      "tuition": 35000,
+      "location": "Berkeley, CA",
+      "programType": "PhD",
+      "description": "CS PhD全球前五",
+      "researchAreas": [
+        "AI",
+        "Systems",
+        "Theory",
+        "Security"
+      ]
+    },
+    {
+      "name": "Cornell - CS PhD",
+      "shortName": "Cornell PhD",
+      "type": "博士",
+      "rank": 5,
+      "admissionRate": 4.0,
+      "tuition": 40000,
+      "location": "Ithaca, NY",
+      "programType": "PhD",
+      "description": "CS PhD常青藤",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "Theory"
+      ]
+    },
+    {
+      "name": "Harvard - CS PhD",
+      "shortName": "Harvard PhD",
+      "type": "博士",
+      "rank": 6,
+      "admissionRate": 3.0,
+      "tuition": 50000,
+      "location": "Cambridge, MA",
+      "programType": "PhD",
+      "description": "CS PhD顶尖",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "Theory"
+      ]
+    },
+    {
+      "name": "Yale - CS PhD",
+      "shortName": "Yale PhD",
+      "type": "博士",
+      "rank": 7,
+      "admissionRate": 5.0,
+      "tuition": 45000,
+      "location": "New Haven, CT",
+      "programType": "PhD",
+      "description": "CS PhD精品小班",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "HCI"
+      ]
+    },
+    {
+      "name": "Columbia - CS PhD",
+      "shortName": "Columbia PhD",
+      "type": "博士",
+      "rank": 8,
+      "admissionRate": 4.0,
+      "tuition": 48000,
+      "location": "New York, NY",
+      "programType": "PhD",
+      "description": "CS PhD纽约资源",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "CV",
+        "NLP"
+      ]
+    },
+    {
+      "name": "MIT - Data Science",
+      "shortName": "MIT DS",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 5.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, MIT计算科学中心",
+      "researchAreas": [
+        "ML",
+        "Statistics",
+        "Data Mining",
+        "Health Analytics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Stanford - Data Science",
+      "shortName": "Stanford DS",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 6.0,
+      "tuition": 60000,
+      "location": "Stanford, CA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 硅谷数据科学中心",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "NLP",
+        "Stats"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Meta",
+        "Startups"
+      ]
+    },
+    {
+      "name": "UC Berkeley - Data Science",
+      "shortName": "Berkeley DS",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 7.0,
+      "tuition": 45000,
+      "location": "Berkeley, CA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 信息学院",
+      "researchAreas": [
+        "ML",
+        "Stats",
+        "HCI",
+        "Social Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Startups",
+        "Finance"
+      ]
+    },
+    {
+      "name": "CMU - MISM/BIDA",
+      "shortName": "CMU BIDA",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 10.0,
+      "tuition": 58000,
+      "location": "Pittsburgh, PA",
+      "programType": "DS-Analytics",
+      "description": "Business Intelligence & Data Analytics",
+      "researchAreas": [
+        "Data Analytics",
+        "ML",
+        "Business",
+        "Visualization"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Consulting",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Harvard - Data Science",
+      "shortName": "Harvard DS",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 8.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, SEAS学院",
+      "researchAreas": [
+        "ML",
+        "Stats",
+        "Bioinformatics",
+        "Social Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Healthcare",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Columbia - Data Science",
+      "shortName": "Columbia DS",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 12.0,
+      "tuition": 62000,
+      "location": "New York, NY",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 工学院",
+      "researchAreas": [
+        "ML",
+        "NLP",
+        "CV",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Finance",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "University of Chicago - Analytics",
+      "shortName": "UChicago Analytics",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 15.0,
+      "tuition": 60000,
+      "location": "Chicago, IL",
+      "programType": "DS-Analytics",
+      "description": "Analytics, 芝加哥布斯商学院",
+      "researchAreas": [
+        "ML",
+        "Stats",
+        "Finance",
+        "Business"
+      ],
+      "careerOutcomes": [
+        "McKinsey",
+        "Goldman Sachs",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "NYU - Data Science",
+      "shortName": "NYU DS",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 18.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "DS-Analytics",
+      "description": "Data Science, Courant研究所",
+      "researchAreas": [
+        "ML",
+        "NLP",
+        "CV",
+        "Math"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Amazon",
+        "Bloomberg"
+      ]
+    },
+    {
+      "name": "Cornell - Data Science",
+      "shortName": "Cornell DS",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 14.0,
+      "tuition": 60000,
+      "location": "Ithaca, NY",
+      "programType": "DS-Analytics",
+      "description": "Data Science, Ann Johnson学院",
+      "researchAreas": [
+        "ML",
+        "Stats",
+        "Social Science",
+        "Environment"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Apple",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UW - Data Science",
+      "shortName": "UW DS",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 16.0,
+      "tuition": 40000,
+      "location": "Seattle, WA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, eScience研究所",
+      "researchAreas": [
+        "ML",
+        "Cloud Computing",
+        "Health",
+        "Env Science"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Georgetown - Data Science",
+      "shortName": "Georgetown DS",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 20.0,
+      "tuition": 52000,
+      "location": "Washington, DC",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 华盛顿政治经济资源",
+      "researchAreas": [
+        "Data Policy",
+        "ML",
+        "Security",
+        "Social Science"
+      ],
+      "careerOutcomes": [
+        "Government",
+        "World Bank",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "USC - Data Science",
+      "shortName": "USC DS",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 22.0,
+      "tuition": 56000,
+      "location": "Los Angeles, CA",
+      "programType": "DS-Analytics",
+      "description": "Data Informatics, 南加州大学",
+      "researchAreas": [
+        "ML",
+        "Health Informatics",
+        "Game Tech",
+        "Data"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Disney",
+        "Entertainment"
+      ]
+    },
+    {
+      "name": "Duke - Data Science",
+      "shortName": "Duke DS",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 20.0,
+      "tuition": 58000,
+      "location": "Durham, NC",
+      "programType": "DS-Analytics",
+      "description": "Data Science, Duke计算科学",
+      "researchAreas": [
+        "ML",
+        "Health",
+        "Stats",
+        "Business"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Healthcare",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Northwestern - Analytics",
+      "shortName": "Northwestern Analytics",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 18.0,
+      "tuition": 55000,
+      "location": "Evanston, IL",
+      "programType": "DS-Analytics",
+      "description": "Analytics,  Kellogg商学院",
+      "researchAreas": [
+        "ML",
+        "Marketing",
+        "Finance",
+        "Business"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Kellogg",
+        "Marketing",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Boston University - Data Science",
+      "shortName": "BU DS",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 28.0,
+      "tuition": 50000,
+      "location": "Boston, MA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 波士顿学术中心",
+      "researchAreas": [
+        "ML",
+        "Health Informatics",
+        "Stats",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Healthcare",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "Emory - Data Science",
+      "shortName": "Emory DS",
+      "type": "硕士",
+      "rank": 16,
+      "admissionRate": 25.0,
+      "tuition": 48000,
+      "location": "Atlanta, GA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 罗林斯商学院",
+      "researchAreas": [
+        "ML",
+        "Health",
+        "Business",
+        "Stats"
+      ],
+      "careerOutcomes": [
+        "CDC",
+        "Healthcare",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UMich - Data Science",
+      "shortName": "UMich DS",
+      "type": "硕士",
+      "rank": 17,
+      "admissionRate": 22.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 信息学院",
+      "researchAreas": [
+        "ML",
+        "Stats",
+        "Social Media",
+        "Health"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Automotive"
+      ]
+    },
+    {
+      "name": "UCLA - Data Science",
+      "shortName": "UCLA DS",
+      "type": "硕士",
+      "rank": 18,
+      "admissionRate": 20.0,
+      "tuition": 45000,
+      "location": "Los Angeles, CA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 医学院+工学院",
+      "researchAreas": [
+        "ML",
+        "Health",
+        "Stats",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Entertainment",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Washington - Analytics",
+      "shortName": "UW Analytics",
+      "type": "硕士",
+      "rank": 19,
+      "admissionRate": 30.0,
+      "tuition": 38000,
+      "location": "Seattle, WA",
+      "programType": "DS-Analytics",
+      "description": "Business Analytics, Foster商学院",
+      "researchAreas": [
+        "ML",
+        "Business",
+        "Marketing",
+        "Stats"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Marketing",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Georgia Tech - Analytics",
+      "shortName": "Gatech Analytics",
+      "type": "硕士",
+      "rank": 20,
+      "admissionRate": 25.0,
+      "tuition": 35000,
+      "location": "Atlanta, GA",
+      "programType": "DS-Analytics",
+      "description": "Analytics, Scheller商学院",
+      "researchAreas": [
+        "ML",
+        "Business",
+        "Supply Chain",
+        "Stats"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Google",
+        "Supply Chain",
+        "Finance"
+      ]
+    },
+    {
+      "name": "MIT - EECS",
+      "shortName": "MIT ECE",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 5.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "ECE",
+      "description": "EECS, MIT工科最强",
+      "researchAreas": [
+        "AI",
+        "Robotics",
+        "VLSI",
+        "Signal Processing"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Defense"
+      ]
+    },
+    {
+      "name": "Stanford - EE",
+      "shortName": "Stanford EE",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 6.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "ECE",
+      "description": "EE, 硅谷半导体中心",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "VLSI",
+        "Phototonics"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Google",
+        "NVIDIA",
+        "Startups"
+      ]
+    },
+    {
+      "name": "UC Berkeley - EECS",
+      "shortName": "Berkeley ECE",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 7.0,
+      "tuition": 42000,
+      "location": "Berkeley, CA",
+      "programType": "ECE",
+      "description": "EECS, 半导体传奇",
+      "researchAreas": [
+        "AI",
+        "VLSI",
+        "Signal Processing",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "NVIDIA",
+        "Intel"
+      ]
+    },
+    {
+      "name": "UIUC - ECE",
+      "shortName": "UIUC ECE",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 12.0,
+      "tuition": 36000,
+      "location": "Champaign, IL",
+      "programType": "ECE",
+      "description": "ECE, 半导体/通信强校",
+      "researchAreas": [
+        "VLSI",
+        "Signal Processing",
+        "Communications",
+        "ML"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Intel",
+        "Qualcomm"
+      ]
+    },
+    {
+      "name": "UMich - ECE",
+      "shortName": "UMich ECE",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "ECE",
+      "description": "ECE, 汽车电子强校",
+      "researchAreas": [
+        "VLSI",
+        "Signal Processing",
+        "Robotics",
+        "Automotive"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "General Motors",
+        "Google",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "Georgia Tech - ECE",
+      "shortName": "Gatech ECE",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 14.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "ECE",
+      "description": "ECE, 芯片设计中心",
+      "researchAreas": [
+        "VLSI",
+        "Signal Processing",
+        "Communications",
+        "ML"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Intel",
+        "Qualcomm"
+      ]
+    },
+    {
+      "name": "CMU - ECE",
+      "shortName": "CMU ECE",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 10.0,
+      "tuition": 55000,
+      "location": "Pittsburgh, PA",
+      "programType": "ECE",
+      "description": "ECE, 计算机硬件交叉",
+      "researchAreas": [
+        "AI",
+        "Robotics",
+        "VLSI",
+        "ML Hardware"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Amazon",
+        "Intel"
+      ]
+    },
+    {
+      "name": "Caltech - EE",
+      "shortName": "Caltech EE",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 4.0,
+      "tuition": 58000,
+      "location": "Pasadena, CA",
+      "programType": "ECE",
+      "description": "EE, 小而精科研强校",
+      "researchAreas": [
+        "Quantum",
+        "Photonics",
+        "Signal Processing",
+        "AI Hardware"
+      ],
+      "careerOutcomes": [
+        "NASA",
+        "JPL",
+        "Intel",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Purdue - ECE",
+      "shortName": "Purdue ECE",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 16.0,
+      "tuition": 32000,
+      "location": "West Lafayette, IN",
+      "programType": "ECE",
+      "description": "ECE, 中西部工科强校",
+      "researchAreas": [
+        "VLSI",
+        "Signal Processing",
+        "Power Electronics",
+        "Communications"
+      ],
+      "careerOutcomes": [
+        "Intel",
+        "Qualcomm",
+        "Apple",
+        "Boeing"
+      ]
+    },
+    {
+      "name": "UT Austin - ECE",
+      "shortName": "UT Austin ECE",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 18.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "ECE",
+      "description": "ECE, 德州半导体中心",
+      "researchAreas": [
+        "VLSI",
+        "ML",
+        "Signal Processing",
+        "Semiconductors"
+      ],
+      "careerOutcomes": [
+        "Samsung",
+        "TI",
+        "Apple",
+        "Startups"
+      ]
+    },
+    {
+      "name": "University of Washington - EE",
+      "shortName": "UW EE",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 20.0,
+      "tuition": 36000,
+      "location": "Seattle, WA",
+      "programType": "ECE",
+      "description": "EE, 西雅图科技资源",
+      "researchAreas": [
+        "ML",
+        "Signal Processing",
+        "VLSI",
+        "Bioengineering"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Apple"
+      ]
+    },
+    {
+      "name": "UCLA - EE",
+      "shortName": "UCLA EE",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 15.0,
+      "tuition": 40000,
+      "location": "Los Angeles, CA",
+      "programType": "ECE",
+      "description": "EE, 南加州通信中心",
+      "researchAreas": [
+        "Signal Processing",
+        "Communications",
+        "VLSI",
+        "ML"
+      ],
+      "careerOutcomes": [
+        "Qualcomm",
+        "Google",
+        "SpaceX",
+        "Entertainment"
+      ]
+    },
+    {
+      "name": "Cornell - ECE",
+      "shortName": "Cornell ECE",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 10.0,
+      "tuition": 58000,
+      "location": "Ithaca, NY",
+      "programType": "ECE",
+      "description": "ECE, 常青藤工科",
+      "researchAreas": [
+        "AI",
+        "Robotics",
+        "VLSI",
+        "Signal Processing"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Columbia - ECE",
+      "shortName": "Columbia ECE",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 15.0,
+      "tuition": 60000,
+      "location": "New York, NY",
+      "programType": "ECE",
+      "description": "ECE, 纽约金融科技",
+      "researchAreas": [
+        "ML",
+        "Signal Processing",
+        "VLSI",
+        "Finance Tech"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Apple"
+      ]
+    },
+    {
+      "name": "Northwestern - ECE",
+      "shortName": "Northwestern ECE",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 18.0,
+      "tuition": 52000,
+      "location": "Evanston, IL",
+      "programType": "ECE",
+      "description": "ECE, 医学工程交叉",
+      "researchAreas": [
+        "Biomedical",
+        "Signal Processing",
+        "ML",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Medtronic",
+        "Abbott",
+        "Healthcare",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "Duke - ECE",
+      "shortName": "Duke ECE",
+      "type": "硕士",
+      "rank": 16,
+      "admissionRate": 16.0,
+      "tuition": 58000,
+      "location": "Durham, NC",
+      "programType": "ECE",
+      "description": "ECE, 医学工程强校",
+      "researchAreas": [
+        "Biomedical",
+        "ML",
+        "Signal Processing",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Medtronic",
+        "Google",
+        "Healthcare",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Rice - ECE",
+      "shortName": "Rice ECE",
+      "type": "硕士",
+      "rank": 17,
+      "admissionRate": 20.0,
+      "tuition": 52000,
+      "location": "Houston, TX",
+      "programType": "ECE",
+      "description": "ECE, 休斯顿能源中心",
+      "researchAreas": [
+        "Signal Processing",
+        "ML",
+        "VLSI",
+        "Energy"
+      ],
+      "careerOutcomes": [
+        "Schlumberger",
+        "Halliburton",
+        "Exxon",
+        "Energy"
+      ]
+    },
+    {
+      "name": "University of Florida - ECE",
+      "shortName": "UF ECE",
+      "type": "硕士",
+      "rank": 18,
+      "admissionRate": 35.0,
+      "tuition": 30000,
+      "location": "Gainesville, FL",
+      "programType": "ECE",
+      "description": "ECE, 佛州旗舰",
+      "researchAreas": [
+        "VLSI",
+        "Signal Processing",
+        "ML",
+        "Communications"
+      ],
+      "careerOutcomes": [
+        "Intel",
+        "Qualcomm",
+        "Amazon",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "UCSB - ECE",
+      "shortName": "UCSB ECE",
+      "type": "硕士",
+      "rank": 19,
+      "admissionRate": 22.0,
+      "tuition": 38000,
+      "location": "Santa Barbara, CA",
+      "programType": "ECE",
+      "description": "ECE, 材料/半导体特色",
+      "researchAreas": [
+        "VLSI",
+        "Materials",
+        "Signal Processing",
+        "Photonics"
+      ],
+      "careerOutcomes": [
+        "Intel",
+        "KLA",
+        "Applied Materials",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Ohio State - ECE",
+      "shortName": "OSU ECE",
+      "type": "硕士",
+      "rank": 20,
+      "admissionRate": 30.0,
+      "tuition": 35000,
+      "location": "Columbus, OH",
+      "programType": "ECE",
+      "description": "ECE, 中西部大型项目",
+      "researchAreas": [
+        "VLSI",
+        "Signal Processing",
+        "ML",
+        "Power"
+      ],
+      "careerOutcomes": [
+        "Intel",
+        "Amazon",
+        "Microsoft",
+        "Honda"
+      ]
+    },
+    {
+      "name": "Johns Hopkins - BME",
+      "shortName": "JHU BME",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 10.0,
+      "tuition": 60000,
+      "location": "Baltimore, MD",
+      "programType": "Biomedical",
+      "description": "BME全球第一，医学预科",
+      "researchAreas": [
+        "Biomechanics",
+        "Tissue Engineering",
+        "Medical Imaging",
+        "Neuroengineering"
+      ],
+      "careerOutcomes": [
+        "J&J",
+        "Medtronic",
+        "FDA",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Georgia Tech - BME",
+      "shortName": "Gatech BME",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 14.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "Biomedical",
+      "description": "BME前十, Emory合作",
+      "researchAreas": [
+        "Biomechanics",
+        "Tissue Engineering",
+        "Medical Devices",
+        "Biosystems"
+      ],
+      "careerOutcomes": [
+        "Medtronic",
+        "Abbott",
+        "Amazon",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "MIT - BME",
+      "shortName": "MIT BME",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 6.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Biomedical",
+      "description": "BME, Health Sciences",
+      "researchAreas": [
+        "Biomechanics",
+        "Medical Devices",
+        "Tissue Engineering",
+        "AI Healthcare"
+      ],
+      "careerOutcomes": [
+        "Google Health",
+        "Apple",
+        "J&J",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Stanford - BME",
+      "shortName": "Stanford BME",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 7.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Biomedical",
+      "description": "BME, 医学院+工程学院",
+      "researchAreas": [
+        "Medical Devices",
+        "Tissue Engineering",
+        "AI Healthcare",
+        "Biosensors"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Duke - BME",
+      "shortName": "Duke BME",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 12.0,
+      "tuition": 58000,
+      "location": "Durham, NC",
+      "programType": "Biomedical",
+      "description": "BME, 医学工程交叉",
+      "researchAreas": [
+        "Biomechanics",
+        "Medical Imaging",
+        "Neural Engineering",
+        "Biosensors"
+      ],
+      "careerOutcomes": [
+        "Medtronic",
+        "Abbott",
+        "Google Health",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "UCSF - BME",
+      "shortName": "UCSF BME",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 12.0,
+      "tuition": 45000,
+      "location": "San Francisco, CA",
+      "programType": "Biomedical",
+      "description": "BME, 医学中心特色",
+      "researchAreas": [
+        "Medical Imaging",
+        "Tissue Engineering",
+        "Drug Delivery",
+        "AI Healthcare"
+      ],
+      "careerOutcomes": [
+        "Genentech",
+        "Kaiser",
+        "UCSF Medical",
+        "Biotech"
+      ]
+    },
+    {
+      "name": "University of Michigan - BME",
+      "shortName": "UMich BME",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "Biomedical",
+      "description": "BME, 汽车/医疗器械",
+      "researchAreas": [
+        "Biomechanics",
+        "Medical Devices",
+        "Biosystems",
+        "Tissue Engineering"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "Medtronic",
+        "Abbott",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Northwestern - BME",
+      "shortName": "Northwestern BME",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 15.0,
+      "tuition": 52000,
+      "location": "Evanston, IL",
+      "programType": "Biomedical",
+      "description": "BME, 生物材料特色",
+      "researchAreas": [
+        "Biomaterials",
+        "Tissue Engineering",
+        "Drug Delivery",
+        "Biosensors"
+      ],
+      "careerOutcomes": [
+        "Abbott",
+        "Baxter",
+        "Healthcare",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "Caltech - BME",
+      "shortName": "Caltech BME",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 5.0,
+      "tuition": 58000,
+      "location": "Pasadena, CA",
+      "programType": "Biomedical",
+      "description": "BME, 科研导向",
+      "researchAreas": [
+        "Biomechanics",
+        "Medical Devices",
+        "Bioimaging",
+        "Synthetic Biology"
+      ],
+      "careerOutcomes": [
+        "NASA",
+        "JPL",
+        "Biotech",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Washington University - BME",
+      "shortName": "WashU BME",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 20.0,
+      "tuition": 55000,
+      "location": "St. Louis, MO",
+      "programType": "Biomedical",
+      "description": "BME, 医学中心合作",
+      "researchAreas": [
+        "Medical Imaging",
+        "Tissue Engineering",
+        "Neuroengineering",
+        "Biomechanics"
+      ],
+      "careerOutcomes": [
+        "Bayer",
+        "Healthcare",
+        "Medical Devices",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "MIT - ME",
+      "shortName": "MIT ME",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 6.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Mechanical",
+      "description": "ME全球第一",
+      "researchAreas": [
+        "Robotics",
+        "Manufacturing",
+        "Thermodynamics",
+        "Biomechanics"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Tesla",
+        "SpaceX",
+        "Defense"
+      ]
+    },
+    {
+      "name": "Stanford - ME",
+      "shortName": "Stanford ME",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 7.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Mechanical",
+      "description": "ME, 汽车/机器人",
+      "researchAreas": [
+        "Robotics",
+        "Automotive",
+        "Manufacturing",
+        "Energy"
+      ],
+      "careerOutcomes": [
+        "Tesla",
+        "Apple",
+        "SpaceX",
+        "Startups"
+      ]
+    },
+    {
+      "name": "UC Berkeley - ME",
+      "shortName": "Berkeley ME",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 8.0,
+      "tuition": 42000,
+      "location": "Berkeley, CA",
+      "programType": "Mechanical",
+      "description": "ME, 设计与制造",
+      "researchAreas": [
+        "Manufacturing",
+        "Robotics",
+        "Biomechanics",
+        "Energy"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Tesla",
+        "SpaceX",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "UMich - ME",
+      "shortName": "UMich ME",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "Mechanical",
+      "description": "ME, 汽车工业",
+      "researchAreas": [
+        "Automotive",
+        "Robotics",
+        "Manufacturing",
+        "Biomechanics"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "General Motors",
+        "Toyota",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "Georgia Tech - ME",
+      "shortName": "Gatech ME",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 14.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "Mechanical",
+      "description": "ME, 工业界强",
+      "researchAreas": [
+        "Manufacturing",
+        "Robotics",
+        "Biomechanics",
+        "Aerospace"
+      ],
+      "careerOutcomes": [
+        "Boeing",
+        "Lockheed",
+        "Manufacturing",
+        "Automotive"
+      ]
+    },
+    {
+      "name": "Caltech - ME",
+      "shortName": "Caltech ME",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 5.0,
+      "tuition": 58000,
+      "location": "Pasadena, CA",
+      "programType": "Mechanical",
+      "description": "ME, 航天特色",
+      "researchAreas": [
+        "Aerospace",
+        "Robotics",
+        "Energy",
+        "Nano"
+      ],
+      "careerOutcomes": [
+        "NASA",
+        "JPL",
+        "SpaceX",
+        "Caltech"
+      ]
+    },
+    {
+      "name": "Purdue - ME",
+      "shortName": "Purdue ME",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 16.0,
+      "tuition": 32000,
+      "location": "West Lafayette, IN",
+      "programType": "Mechanical",
+      "description": "ME, 航空航天中心",
+      "researchAreas": [
+        "Aerospace",
+        "Manufacturing",
+        "Automotive",
+        "Energy"
+      ],
+      "careerOutcomes": [
+        "Boeing",
+        "Lockheed",
+        "Caterpillar",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "UIUC - ME",
+      "shortName": "UIUC ME",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 14.0,
+      "tuition": 35000,
+      "location": "Champaign, IL",
+      "programType": "Mechanical",
+      "description": "ME, 农业/制造",
+      "researchAreas": [
+        "Manufacturing",
+        "Robotics",
+        "Thermal Science",
+        "Energy"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Caterpillar",
+        "John Deere",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "Cornell - ME",
+      "shortName": "Cornell ME",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 10.0,
+      "tuition": 58000,
+      "location": "Ithaca, NY",
+      "programType": "Mechanical",
+      "description": "ME, 设计制造强",
+      "researchAreas": [
+        "Design",
+        "Manufacturing",
+        "Robotics",
+        "Biomechanics"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Google",
+        "SpaceX",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "Northwestern - ME",
+      "shortName": "Northwestern ME",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 12.0,
+      "tuition": 52000,
+      "location": "Evanston, IL",
+      "programType": "Mechanical",
+      "description": "ME, 汽车/设计",
+      "researchAreas": [
+        "Automotive",
+        "Design",
+        "Robotics",
+        "Biomechanics"
+      ],
+      "careerOutcomes": [
+        "Tesla",
+        "Ford",
+        "Apple",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "Columbia - ME",
+      "shortName": "Columbia ME",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 14.0,
+      "tuition": 60000,
+      "location": "New York, NY",
+      "programType": "Mechanical",
+      "description": "ME, 金融科技",
+      "researchAreas": [
+        "Design",
+        "Manufacturing",
+        "Robotics",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Finance",
+        "Manufacturing",
+        "Startups"
+      ]
+    },
+    {
+      "name": "UT Austin - ME",
+      "shortName": "UT Austin ME",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 18.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "Mechanical",
+      "description": "ME, 能源/制造",
+      "researchAreas": [
+        "Energy",
+        "Manufacturing",
+        "Automotive",
+        "Aerospace"
+      ],
+      "careerOutcomes": [
+        "Exxon",
+        "Shell",
+        "Tesla",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "Harvard - SEAS ME",
+      "shortName": "Harvard ME",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 7.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Mechanical",
+      "description": "ME, 设计工程",
+      "researchAreas": [
+        "Design",
+        "Robotics",
+        "Biomechanics",
+        "Nano"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon - ME",
+      "shortName": "CMU ME",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 12.0,
+      "tuition": 55000,
+      "location": "Pittsburgh, PA",
+      "programType": "Mechanical",
+      "description": "ME, 机器人交叉",
+      "researchAreas": [
+        "Robotics",
+        "Manufacturing",
+        "Biomechanics",
+        "Automotive"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Tesla",
+        "Amazon",
+        "Robotics"
+      ]
+    },
+    {
+      "name": "UCLA - ME",
+      "shortName": "UCLA ME",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 16.0,
+      "tuition": 40000,
+      "location": "Los Angeles, CA",
+      "programType": "Mechanical",
+      "description": "ME, 航天/汽车",
+      "researchAreas": [
+        "Aerospace",
+        "Automotive",
+        "Manufacturing",
+        "Energy"
+      ],
+      "careerOutcomes": [
+        "Boeing",
+        "SpaceX",
+        "Northrop",
+        "Entertainment"
+      ]
+    },
+    {
+      "name": "UC Berkeley - CEE",
+      "shortName": "Berkeley CEE",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 8.0,
+      "tuition": 42000,
+      "location": "Berkeley, CA",
+      "programType": "Civil-Env",
+      "description": "CEE全球前三",
+      "researchAreas": [
+        "Structural",
+        "Environmental",
+        "Transportation",
+        "Geotechnical"
+      ],
+      "careerOutcomes": [
+        "Arup",
+        "CH2M",
+        "Tesla",
+        "Government"
+      ]
+    },
+    {
+      "name": "Stanford - CEE",
+      "shortName": "Stanford CEE",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 7.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Civil-Env",
+      "description": "CEE, 环境工程特色",
+      "researchAreas": [
+        "Environmental",
+        "Water Resources",
+        "Sustainable Design",
+        "Infrastructure"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "Government"
+      ]
+    },
+    {
+      "name": "MIT - CEE",
+      "shortName": "MIT CEE",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 6.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Civil-Env",
+      "description": "CEE, 科研导向",
+      "researchAreas": [
+        "Environmental",
+        "Structural",
+        "Infrastructure",
+        "Climate"
+      ],
+      "careerOutcomes": [
+        "EPA",
+        "Arup",
+        "Consulting",
+        "Government"
+      ]
+    },
+    {
+      "name": "UIUC - CEE",
+      "shortName": "UIUC CEE",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 14.0,
+      "tuition": 35000,
+      "location": "Champaign, IL",
+      "programType": "Civil-Env",
+      "description": "CEE, 交通/结构强",
+      "researchAreas": [
+        "Transportation",
+        "Structural",
+        "Environmental",
+        "Geotechnical"
+      ],
+      "careerOutcomes": [
+        "CH2M",
+        "Caterpillar",
+        "Government",
+        "Construction"
+      ]
+    },
+    {
+      "name": "Georgia Tech - CEE",
+      "shortName": "Gatech CEE",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 14.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "Civil-Env",
+      "description": "CEE, 环保/交通",
+      "researchAreas": [
+        "Environmental",
+        "Transportation",
+        "Water Resources",
+        "Structural"
+      ],
+      "careerOutcomes": [
+        "CDC",
+        "EPA",
+        "Arup",
+        "Government"
+      ]
+    },
+    {
+      "name": "University of Michigan - CEE",
+      "shortName": "UMich CEE",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "Civil-Env",
+      "description": "CEE, 汽车/环境",
+      "researchAreas": [
+        "Environmental",
+        "Water Resources",
+        "Structural",
+        "Automotive"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "General Motors",
+        "Construction",
+        "Government"
+      ]
+    },
+    {
+      "name": "UT Austin - CEE",
+      "shortName": "UT Austin CEE",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 18.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "Civil-Env",
+      "description": "CEE, 能源/交通",
+      "researchAreas": [
+        "Environmental",
+        "Water Resources",
+        "Energy",
+        "Transportation"
+      ],
+      "careerOutcomes": [
+        "Exxon",
+        "Shell",
+        "Construction",
+        "Government"
+      ]
+    },
+    {
+      "name": "UCLA - CEE",
+      "shortName": "UCLA CEE",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 15.0,
+      "tuition": 40000,
+      "location": "Los Angeles, CA",
+      "programType": "Civil-Env",
+      "description": "CEE, 地震/交通",
+      "researchAreas": [
+        "Structural",
+        "Earthquake",
+        "Transportation",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Arup",
+        "AECOM",
+        "Government",
+        "Entertainment"
+      ]
+    },
+    {
+      "name": "Cornell - CEE",
+      "shortName": "Cornell CEE",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 12.0,
+      "tuition": 58000,
+      "location": "Ithaca, NY",
+      "programType": "Civil-Env",
+      "description": "CEE, 环境/结构",
+      "researchAreas": [
+        "Environmental",
+        "Structural",
+        "Water Resources",
+        "Geotechnical"
+      ],
+      "careerOutcomes": [
+        "Arup",
+        "CH2M",
+        "Government",
+        "Construction"
+      ]
+    },
+    {
+      "name": "Columbia - CEE",
+      "shortName": "Columbia CEE",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 14.0,
+      "tuition": 60000,
+      "location": "New York, NY",
+      "programType": "Civil-Env",
+      "description": "CEE, 纽约基础设施",
+      "researchAreas": [
+        "Structural",
+        "Environmental",
+        "Infrastructure",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "AECOM",
+        "Arup",
+        "Goldman Sachs",
+        "Government"
+      ]
+    },
+    {
+      "name": "MIT - ChemE",
+      "shortName": "MIT ChemE",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 6.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Chemical",
+      "description": "ChemE全球第一",
+      "researchAreas": [
+        "Biotechnology",
+        "Energy",
+        "Materials",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Shell",
+        "Exxon",
+        "Biotech",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "UC Berkeley - ChemE",
+      "shortName": "Berkeley ChemE",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 8.0,
+      "tuition": 42000,
+      "location": "Berkeley, CA",
+      "programType": "Chemical",
+      "description": "ChemE, 能源/材料",
+      "researchAreas": [
+        "Energy",
+        "Materials",
+        "Biotechnology",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Chevron",
+        "Shell",
+        "Biotech",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "Stanford - ChemE",
+      "shortName": "Stanford ChemE",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 6.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Chemical",
+      "description": "ChemE, 能源/生物",
+      "researchAreas": [
+        "Energy",
+        "Biotechnology",
+        "Materials",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Tesla",
+        "Genentech",
+        "Startups",
+        "Energy"
+      ]
+    },
+    {
+      "name": "UMich - ChemE",
+      "shortName": "UMich ChemE",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 16.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "Chemical",
+      "description": "ChemE, 汽车/能源",
+      "researchAreas": [
+        "Automotive",
+        "Energy",
+        "Materials",
+        "Biotechnology"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "General Motors",
+        "Dow",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "UIUC - ChemE",
+      "shortName": "UIUC ChemE",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 14.0,
+      "tuition": 35000,
+      "location": "Champaign, IL",
+      "programType": "Chemical",
+      "description": "ChemE, 农业/能源",
+      "researchAreas": [
+        "Energy",
+        "Agricultural",
+        "Materials",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Caterpillar",
+        "Dow",
+        "ADM",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "Georgia Tech - ChemE",
+      "shortName": "Gatech ChemE",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 12.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "Chemical",
+      "description": "ChemE, 石油/生物",
+      "researchAreas": [
+        "Energy",
+        "Biotechnology",
+        "Materials",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Coca-Cola",
+        "Delta",
+        "Dow",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "University of Minnesota - ChemE",
+      "shortName": "UMN ChemE",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 22.0,
+      "tuition": 35000,
+      "location": "Minneapolis, MN",
+      "programType": "Chemical",
+      "description": "ChemE, 学术声誉高",
+      "researchAreas": [
+        "Biotechnology",
+        "Energy",
+        "Materials",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "3M",
+        "General Mills",
+        "Dow",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "UT Austin - ChemE",
+      "shortName": "UT Austin ChemE",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 18.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "Chemical",
+      "description": "ChemE, 能源中心",
+      "researchAreas": [
+        "Energy",
+        "Petroleum",
+        "Materials",
+        "Environmental"
+      ],
+      "careerOutcomes": [
+        "Exxon",
+        "Shell",
+        "Chevron",
+        "Energy"
+      ]
+    },
+    {
+      "name": "Northwestern - CS",
+      "shortName": "NW CS",
+      "type": "硕士",
+      "rank": 21,
+      "admissionRate": 22.0,
+      "tuition": 58000,
+      "location": "Evanston, IL",
+      "programType": "CS-Master",
+      "description": "CS, Kellogg商学院+CS",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Brown - CS",
+      "shortName": "Brown CS",
+      "type": "硕士",
+      "rank": 22,
+      "admissionRate": 20.0,
+      "tuition": 58000,
+      "location": "Providence, RI",
+      "programType": "CS-Master",
+      "description": "CS, 理论CS强",
+      "researchAreas": [
+        "Theory",
+        "AI",
+        "Systems",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Math Finance"
+      ]
+    },
+    {
+      "name": "Dartmouth - CS",
+      "shortName": "Dartmouth CS",
+      "type": "硕士",
+      "rank": 23,
+      "admissionRate": 18.0,
+      "tuition": 55000,
+      "location": "Hanover, NH",
+      "programType": "CS-Master",
+      "description": "CS, 小而精",
+      "researchAreas": [
+        "AI",
+        "HCI",
+        "ML",
+        "Systems"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Vanderbilt - CS",
+      "shortName": "Vandy CS",
+      "type": "硕士",
+      "rank": 24,
+      "admissionRate": 20.0,
+      "tuition": 52000,
+      "location": "Nashville, TN",
+      "programType": "CS-Master",
+      "description": "CS, 医学AI特色",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Health Informatics",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Healthcare",
+        "Music Tech"
+      ]
+    },
+    {
+      "name": "Rice - CS",
+      "shortName": "Rice CS",
+      "type": "硕士",
+      "rank": 25,
+      "admissionRate": 20.0,
+      "tuition": 52000,
+      "location": "Houston, TX",
+      "programType": "CS-Master",
+      "description": "CS, 能源CS强",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Energy",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Emory - CS",
+      "shortName": "Emory CS",
+      "type": "硕士",
+      "rank": 26,
+      "admissionRate": 22.0,
+      "tuition": 48000,
+      "location": "Atlanta, GA",
+      "programType": "CS-Master",
+      "description": "CS, 医学AI",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Health",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Healthcare",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Washington University - CS",
+      "shortName": "WashU CS",
+      "type": "硕士",
+      "rank": 27,
+      "admissionRate": 22.0,
+      "tuition": 55000,
+      "location": "St. Louis, MO",
+      "programType": "CS-Master",
+      "description": "CS, 医学中心合作",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Health Informatics",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Healthcare",
+        "Bayer"
+      ]
+    },
+    {
+      "name": "UCLA - CS",
+      "shortName": "UCLA CS",
+      "type": "硕士",
+      "rank": 28,
+      "admissionRate": 16.0,
+      "tuition": 40000,
+      "location": "Los Angeles, CA",
+      "programType": "CS-Master",
+      "description": "CS, 娱乐科技",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "CV",
+        "Entertainment"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Entertainment",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "University of Wisconsin - CS",
+      "shortName": "Wisc CS",
+      "type": "硕士",
+      "rank": 29,
+      "admissionRate": 30.0,
+      "tuition": 35000,
+      "location": "Madison, WI",
+      "programType": "CS-Master",
+      "description": "CS, 性价比高",
+      "researchAreas": [
+        "AI",
+        "Systems",
+        "HCI",
+        "PL"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Epic"
+      ]
+    },
+    {
+      "name": "Purdue - CS",
+      "shortName": "Purdue CS",
+      "type": "硕士",
+      "rank": 30,
+      "admissionRate": 25.0,
+      "tuition": 32000,
+      "location": "West Lafayette, IN",
+      "programType": "CS-Master",
+      "description": "CS, 系统/安全强",
+      "researchAreas": [
+        "Systems",
+        "Security",
+        "AI",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Defense"
+      ]
+    },
+    {
+      "name": "University of Texas at Austin - CS",
+      "shortName": "UT Austin CS",
+      "type": "硕士",
+      "rank": 31,
+      "admissionRate": 22.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "CS-Master",
+      "description": "CS, 德州科技",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "NLP"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Tesla",
+        "Startups"
+      ]
+    },
+    {
+      "name": "University of California - Santa Barbara CS",
+      "shortName": "UCSB CS",
+      "type": "硕士",
+      "rank": 32,
+      "admissionRate": 25.0,
+      "tuition": 38000,
+      "location": "Santa Barbara, CA",
+      "programType": "CS-Master",
+      "description": "CS, 热门CS分校",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Amazon",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Ohio State - CS",
+      "shortName": "OSU CS",
+      "type": "硕士",
+      "rank": 33,
+      "admissionRate": 32.0,
+      "tuition": 35000,
+      "location": "Columbus, OH",
+      "programType": "CS-Master",
+      "description": "CS, 大型项目",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of California - Irvine CS",
+      "shortName": "UCI CS",
+      "type": "硕士",
+      "rank": 34,
+      "admissionRate": 30.0,
+      "tuition": 38000,
+      "location": "Irvine, CA",
+      "programType": "CS-Master",
+      "description": "CS, 尔湾科技圈",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "NLP",
+        "Game Tech"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        " Blizzard",
+        "Startups"
+      ]
+    },
+    {
+      "name": "University of California - San Diego CS",
+      "shortName": "UCSD CS",
+      "type": "硕士",
+      "rank": 35,
+      "admissionRate": 28.0,
+      "tuition": 38000,
+      "location": "La Jolla, CA",
+      "programType": "CS-Master",
+      "description": "CS, AI/ML强校",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "NLP",
+        "CV"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Qualcomm",
+        "Biotech"
+      ]
+    },
+    {
+      "name": "Rutgers - CS",
+      "shortName": "Rutgers CS",
+      "type": "硕士",
+      "rank": 36,
+      "admissionRate": 38.0,
+      "tuition": 32000,
+      "location": "New Brunswick, NJ",
+      "programType": "CS-Master",
+      "description": "CS, 性价比",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Finance",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "Pennsylvania State University - CS",
+      "shortName": "PSU CS",
+      "type": "硕士",
+      "rank": 37,
+      "admissionRate": 35.0,
+      "tuition": 38000,
+      "location": "University Park, PA",
+      "programType": "CS-Master",
+      "description": "CS, 大型项目",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Systems",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Virginia - CS",
+      "shortName": "UVA CS",
+      "type": "硕士",
+      "rank": 38,
+      "admissionRate": 28.0,
+      "tuition": 48000,
+      "location": "Charlottesville, VA",
+      "programType": "CS-Master",
+      "description": "CS, 系统/安全",
+      "researchAreas": [
+        "Systems",
+        "Security",
+        "AI",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Defense",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Indiana University - CS",
+      "shortName": "IU CS",
+      "type": "硕士",
+      "rank": 39,
+      "admissionRate": 35.0,
+      "tuition": 32000,
+      "location": "Bloomington, IN",
+      "programType": "CS-Master",
+      "description": "CS, 编程语言/AI",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "PL",
+        "Systems"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Game Tech"
+      ]
+    },
+    {
+      "name": "University of Washington - Tacoma CS",
+      "shortName": "UWT CS",
+      "type": "硕士",
+      "rank": 40,
+      "admissionRate": 42.0,
+      "tuition": 36000,
+      "location": "Tacoma, WA",
+      "programType": "CS-Master",
+      "description": "CS, 华大系统",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Data Science",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Boeing",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Northeastern - CS (Vancouver)",
+      "shortName": "NEU CS-VC",
+      "type": "硕士",
+      "rank": 41,
+      "admissionRate": 35.0,
+      "tuition": 50000,
+      "location": "Vancouver, BC",
+      "programType": "CS-Master",
+      "description": "CS, 加拿大校区",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Data Science",
+        "HCI"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Tech",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Boston College - CS",
+      "shortName": "BC CS",
+      "type": "硕士",
+      "rank": 42,
+      "admissionRate": 30.0,
+      "tuition": 50000,
+      "location": "Chestnut Hill, MA",
+      "programType": "CS-Master",
+      "description": "CS, 波士顿学术",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Tufts - CS",
+      "shortName": "Tufts CS",
+      "type": "硕士",
+      "rank": 43,
+      "admissionRate": 28.0,
+      "tuition": 55000,
+      "location": "Medford, MA",
+      "programType": "CS-Master",
+      "description": "CS, 医学AI特色",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "Health Informatics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Healthcare",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Colorado Boulder - CS",
+      "shortName": "CU Boulder CS",
+      "type": "硕士",
+      "rank": 44,
+      "admissionRate": 32.0,
+      "tuition": 35000,
+      "location": "Boulder, CO",
+      "programType": "CS-Master",
+      "description": "CS, AI/ML强",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "NLP",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Space Tech"
+      ]
+    },
+    {
+      "name": "University of Illinois Chicago - CS",
+      "shortName": "UIC CS",
+      "type": "硕士",
+      "rank": 45,
+      "admissionRate": 40.0,
+      "tuition": 30000,
+      "location": "Chicago, IL",
+      "programType": "CS-Master",
+      "description": "CS, 芝加哥性价比",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Finance",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Denver - CS",
+      "shortName": "DU CS",
+      "type": "硕士",
+      "rank": 46,
+      "admissionRate": 45.0,
+      "tuition": 48000,
+      "location": "Denver, CO",
+      "programType": "CS-Master",
+      "description": "CS, 丹佛地区",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Data Science",
+        "Security"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Startups",
+        "Local Tech"
+      ]
+    },
+    {
+      "name": "Colorado State University - CS",
+      "shortName": "CSU CS",
+      "type": "硕士",
+      "rank": 47,
+      "admissionRate": 48.0,
+      "tuition": 32000,
+      "location": "Fort Collins, CO",
+      "programType": "CS-Master",
+      "description": "CS, 性价比项目",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Robotics",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Local Tech",
+        "Government"
+      ]
+    },
+    {
+      "name": "George Washington University - CS",
+      "shortName": "GWU CS",
+      "type": "硕士",
+      "rank": 48,
+      "admissionRate": 42.0,
+      "tuition": 45000,
+      "location": "Washington, DC",
+      "programType": "CS-Master",
+      "description": "CS, 政府资源",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "Security",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Government",
+        "Amazon",
+        "Microsoft",
+        "Defense"
+      ]
+    },
+    {
+      "name": "Virginia Commonwealth University - CS",
+      "shortName": "VCU CS",
+      "type": "硕士",
+      "rank": 49,
+      "admissionRate": 50.0,
+      "tuition": 30000,
+      "location": "Richmond, VA",
+      "programType": "CS-Master",
+      "description": "CS, 弗吉尼亚",
+      "researchAreas": [
+        "AI",
+        "ML",
+        "HCI",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Local Tech",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Texas at Dallas - SE",
+      "shortName": "UTD SE",
+      "type": "硕士",
+      "rank": 50,
+      "admissionRate": 40.0,
+      "tuition": 28000,
+      "location": "Dallas, TX",
+      "programType": "CS-Master",
+      "description": "Software Engineering, 德州",
+      "researchAreas": [
+        "Software Engineering",
+        "AI",
+        "ML",
+        "Data Science"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "AT&T",
+        "HP"
+      ]
+    },
+    {
+      "name": "Stanford - Statistics PhD",
+      "shortName": "Stanford Stats PhD",
+      "type": "博士",
+      "rank": 1,
+      "admissionRate": 3.0,
+      "tuition": 45000,
+      "location": "Stanford, CA",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD全球第一",
+      "researchAreas": [
+        "Statistical Learning",
+        "Causal Inference",
+        "Bayesian",
+        "Bioinformatics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Meta",
+        "Biotech",
+        "Academia"
+      ]
+    },
+    {
+      "name": "UC Berkeley - Statistics PhD",
+      "shortName": "Berkeley Stats PhD",
+      "type": "博士",
+      "rank": 2,
+      "admissionRate": 3.0,
+      "tuition": 35000,
+      "location": "Berkeley, CA",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 理论统计",
+      "researchAreas": [
+        "Theoretical Stats",
+        "Causal Inference",
+        "ML",
+        "Social Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Harvard - Statistics PhD",
+      "shortName": "Harvard Stats PhD",
+      "type": "博士",
+      "rank": 3,
+      "admissionRate": 4.0,
+      "tuition": 50000,
+      "location": "Cambridge, MA",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 生物统计",
+      "researchAreas": [
+        "Biostatistics",
+        "Bayesian",
+        "ML",
+        "Genomics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Pfizer",
+        "Healthcare",
+        "Academia"
+      ]
+    },
+    {
+      "name": "University of Chicago - Statistics PhD",
+      "shortName": "UChicago Stats PhD",
+      "type": "博士",
+      "rank": 4,
+      "admissionRate": 5.0,
+      "tuition": 55000,
+      "location": "Chicago, IL",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 理论强",
+      "researchAreas": [
+        "Theoretical Stats",
+        "ML",
+        "Finance",
+        "Econometrics"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "McKinsey",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "MIT - Statistics PhD",
+      "shortName": "MIT Stats PhD",
+      "type": "博士",
+      "rank": 5,
+      "admissionRate": 3.0,
+      "tuition": 45000,
+      "location": "Cambridge, MA",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, EECS交叉",
+      "researchAreas": [
+        "ML",
+        "Statistical Learning",
+        "Causal",
+        "Bioinformatics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon - Statistics PhD",
+      "shortName": "CMU Stats PhD",
+      "type": "博士",
+      "rank": 6,
+      "admissionRate": 4.0,
+      "tuition": 42000,
+      "location": "Pittsburgh, PA",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, ML交叉",
+      "researchAreas": [
+        "ML",
+        "Statistical Learning",
+        "Bayesian",
+        "AI"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Columbia - Statistics PhD",
+      "shortName": "Columbia Stats PhD",
+      "type": "博士",
+      "rank": 7,
+      "admissionRate": 6.0,
+      "tuition": 48000,
+      "location": "New York, NY",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 金融统计",
+      "researchAreas": [
+        "Finance Stats",
+        "Bayesian",
+        "Time Series",
+        "ML"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "University of Michigan - Statistics PhD",
+      "shortName": "UMich Stats PhD",
+      "type": "博士",
+      "rank": 8,
+      "admissionRate": 8.0,
+      "tuition": 45000,
+      "location": "Ann Arbor, MI",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 综合统计",
+      "researchAreas": [
+        "Bayesian",
+        "Biostatistics",
+        "ML",
+        "Environmental Stats"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Pfizer",
+        "Government",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Cornell - Statistics PhD",
+      "shortName": "Cornell Stats PhD",
+      "type": "博士",
+      "rank": 9,
+      "admissionRate": 7.0,
+      "tuition": 40000,
+      "location": "Ithaca, NY",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 理论+应用",
+      "researchAreas": [
+        "Theoretical Stats",
+        "Causal Inference",
+        "ML",
+        "Social Science"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Government",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Duke - Statistics PhD",
+      "shortName": "Duke Stats PhD",
+      "type": "博士",
+      "rank": 10,
+      "admissionRate": 8.0,
+      "tuition": 55000,
+      "location": "Durham, NC",
+      "programType": "Stats-PhD",
+      "description": "Statistics PhD, 贝叶斯特色",
+      "researchAreas": [
+        "Bayesian",
+        "Decision Theory",
+        "ML",
+        "Health"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Healthcare",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Harvard - Economics PhD",
+      "shortName": "Harvard Econ PhD",
+      "type": "博士",
+      "rank": 1,
+      "admissionRate": 3.0,
+      "tuition": 50000,
+      "location": "Cambridge, MA",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD全球前三",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Econometrics",
+        "Public Finance"
+      ],
+      "careerOutcomes": [
+        "IMF",
+        "World Bank",
+        "Academia",
+        "Finance"
+      ]
+    },
+    {
+      "name": "MIT - Economics PhD",
+      "shortName": "MIT Econ PhD",
+      "type": "博士",
+      "rank": 2,
+      "admissionRate": 3.0,
+      "tuition": 45000,
+      "location": "Cambridge, MA",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD全球前三",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Labor",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "IMF",
+        "World Bank",
+        "Fed",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Stanford - Economics PhD",
+      "shortName": "Stanford Econ PhD",
+      "type": "博士",
+      "rank": 3,
+      "admissionRate": 4.0,
+      "tuition": 45000,
+      "location": "Stanford, CA",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 理论+应用",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Public Finance",
+        "Healthcare"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "Startups",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Princeton - Economics PhD",
+      "shortName": "Princeton Econ PhD",
+      "type": "博士",
+      "rank": 4,
+      "admissionRate": 3.5,
+      "tuition": 48000,
+      "location": "Princeton, NJ",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 金融经济强",
+      "researchAreas": [
+        "Finance",
+        "Macro",
+        "Econometrics",
+        "Public Finance"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "IMF",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "University of Chicago - Economics PhD",
+      "shortName": "UChicago Econ PhD",
+      "type": "博士",
+      "rank": 5,
+      "admissionRate": 4.0,
+      "tuition": 55000,
+      "location": "Chicago, IL",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 诺贝尔摇篮",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Finance",
+        "Econometrics"
+      ],
+      "careerOutcomes": [
+        "IMF",
+        "Fed",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "UC Berkeley - Economics PhD",
+      "shortName": "Berkeley Econ PhD",
+      "type": "博士",
+      "rank": 6,
+      "admissionRate": 4.0,
+      "tuition": 35000,
+      "location": "Berkeley, CA",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 实验/行为经济",
+      "researchAreas": [
+        "Experimental",
+        "Labor",
+        "Public Finance",
+        "Development"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "World Bank",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Yale - Economics PhD",
+      "shortName": "Yale Econ PhD",
+      "type": "博士",
+      "rank": 7,
+      "admissionRate": 5.0,
+      "tuition": 45000,
+      "location": "New Haven, CT",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 精品项目",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Finance",
+        "Field Experiments"
+      ],
+      "careerOutcomes": [
+        "IMF",
+        "World Bank",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Columbia - Economics PhD",
+      "shortName": "Columbia Econ PhD",
+      "type": "博士",
+      "rank": 8,
+      "admissionRate": 5.0,
+      "tuition": 48000,
+      "location": "New York, NY",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 纽约金融",
+      "researchAreas": [
+        "Finance",
+        "Macro",
+        "Econometrics",
+        "Public Finance"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "IMF",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "University of Michigan - Economics PhD",
+      "shortName": "UMich Econ PhD",
+      "type": "博士",
+      "rank": 9,
+      "admissionRate": 7.0,
+      "tuition": 45000,
+      "location": "Ann Arbor, MI",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 综合项目",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Labor",
+        "Public Finance"
+      ],
+      "careerOutcomes": [
+        "Fed",
+        "IMF",
+        "Government",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Cornell - Economics PhD",
+      "shortName": "Cornell Econ PhD",
+      "type": "博士",
+      "rank": 10,
+      "admissionRate": 6.0,
+      "tuition": 40000,
+      "location": "Ithaca, NY",
+      "programType": "Econ-PhD",
+      "description": "Economics PhD, 常青藤",
+      "researchAreas": [
+        "Micro",
+        "Macro",
+        "Labor",
+        "Economic History"
+      ],
+      "careerOutcomes": [
+        "IMF",
+        "World Bank",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Harvard - Mathematics PhD",
+      "shortName": "Harvard Math PhD",
+      "type": "博士",
+      "rank": 1,
+      "admissionRate": 3.0,
+      "tuition": 50000,
+      "location": "Cambridge, MA",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD顶尖",
+      "researchAreas": [
+        "Algebra",
+        "Analysis",
+        "Geometry",
+        "Math Physics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "Academia",
+        "Startups"
+      ]
+    },
+    {
+      "name": "MIT - Mathematics PhD",
+      "shortName": "MIT Math PhD",
+      "type": "博士",
+      "rank": 2,
+      "admissionRate": 3.0,
+      "tuition": 45000,
+      "location": "Cambridge, MA",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD, 理论强",
+      "researchAreas": [
+        "Algebra",
+        "Analysis",
+        "Topology",
+        "Applied Math"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "Microsoft",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Stanford - Mathematics PhD",
+      "shortName": "Stanford Math PhD",
+      "type": "博士",
+      "rank": 3,
+      "admissionRate": 4.0,
+      "tuition": 45000,
+      "location": "Stanford, CA",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD, 应用数学",
+      "researchAreas": [
+        "Applied Math",
+        "Statistics",
+        "Computational Math",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "Startups",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Princeton - Mathematics PhD",
+      "shortName": "Princeton Math PhD",
+      "type": "博士",
+      "rank": 4,
+      "admissionRate": 3.0,
+      "tuition": 48000,
+      "location": "Princeton, NJ",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD全球前五",
+      "researchAreas": [
+        "Algebra",
+        "Geometry",
+        "Number Theory",
+        "Analysis"
+      ],
+      "careerOutcomes": [
+        "IAS",
+        "Finance",
+        "Cryptography",
+        "Academia"
+      ]
+    },
+    {
+      "name": "UC Berkeley - Mathematics PhD",
+      "shortName": "Berkeley Math PhD",
+      "type": "博士",
+      "rank": 5,
+      "admissionRate": 3.0,
+      "tuition": 35000,
+      "location": "Berkeley, CA",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD, 代数几何强",
+      "researchAreas": [
+        "Algebraic Geometry",
+        "Number Theory",
+        "Analysis",
+        "Topology"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "Academia",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Columbia - Mathematics PhD",
+      "shortName": "Columbia Math PhD",
+      "type": "博士",
+      "rank": 6,
+      "admissionRate": 5.0,
+      "tuition": 48000,
+      "location": "New York, NY",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD, 几何+拓扑",
+      "researchAreas": [
+        "Geometry",
+        "Topology",
+        "Math Physics",
+        "Analysis"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Finance",
+        "Academia",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Chicago - Mathematics PhD",
+      "shortName": "UChicago Math PhD",
+      "type": "博士",
+      "rank": 7,
+      "admissionRate": 4.0,
+      "tuition": 55000,
+      "location": "Chicago, IL",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD, 几何代数",
+      "researchAreas": [
+        "Algebra",
+        "Geometry",
+        "Analysis",
+        "Math Finance"
+      ],
+      "careerOutcomes": [
+        "Finance",
+        "Academia",
+        "Tech",
+        "Government"
+      ]
+    },
+    {
+      "name": "Cornell - Mathematics PhD",
+      "shortName": "Cornell Math PhD",
+      "type": "博士",
+      "rank": 8,
+      "admissionRate": 5.0,
+      "tuition": 40000,
+      "location": "Ithaca, NY",
+      "programType": "Math-PhD",
+      "description": "Mathematics PhD, 应用数学",
+      "researchAreas": [
+        "Applied Math",
+        "Analysis",
+        "Algebra",
+        "Computational"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Finance",
+        "Manufacturing",
+        "Academia"
+      ]
+    },
+    {
+      "name": "MIT - Business Analytics",
+      "shortName": "MIT BA",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 8.0,
+      "tuition": 60000,
+      "location": "Cambridge, MA",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, ORC商学院",
+      "researchAreas": [
+        "ML",
+        "Operations",
+        "Analytics",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "McKinsey",
+        "Bain",
+        "Google",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UT Austin - Business Analytics",
+      "shortName": "UT Austin BA",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 16.0,
+      "tuition": 38000,
+      "location": "Austin, TX",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, McCombs商学院",
+      "researchAreas": [
+        "ML",
+        "Marketing",
+        "Supply Chain",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "Dell",
+        "Amazon",
+        "Consulting",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UCLA - Business Analytics",
+      "shortName": "UCLA BA",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 18.0,
+      "tuition": 45000,
+      "location": "Los Angeles, CA",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, Anderson商学院",
+      "researchAreas": [
+        "ML",
+        "Marketing",
+        "Entertainment",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Entertainment",
+        "Finance",
+        "Tech"
+      ]
+    },
+    {
+      "name": "CMU - Business Analytics",
+      "shortName": "CMU BA",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 12.0,
+      "tuition": 58000,
+      "location": "Pittsburgh, PA",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, Tepper商学院",
+      "researchAreas": [
+        "ML",
+        "Operations",
+        "Finance",
+        "Tech"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Columbia - Business Analytics",
+      "shortName": "Columbia BA",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 14.0,
+      "tuition": 62000,
+      "location": "New York, NY",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, 工学院",
+      "researchAreas": [
+        "ML",
+        "Finance",
+        "Marketing",
+        "Operations"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Finance",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Northwestern - Business Analytics",
+      "shortName": "Northwestern BA",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 16.0,
+      "tuition": 55000,
+      "location": "Evanston, IL",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, Kellogg商学院",
+      "researchAreas": [
+        "ML",
+        "Marketing",
+        "Finance",
+        "Strategy"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Kellogg",
+        "Marketing",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Chicago - Business Analytics",
+      "shortName": "UChicago BA",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 15.0,
+      "tuition": 58000,
+      "location": "Chicago, IL",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, 布斯商学院",
+      "researchAreas": [
+        "ML",
+        "Finance",
+        "Marketing",
+        "Econometrics"
+      ],
+      "careerOutcomes": [
+        "McKinsey",
+        "Goldman Sachs",
+        "Finance",
+        "Tech"
+      ]
+    },
+    {
+      "name": "NYU - Business Analytics",
+      "shortName": "NYU BA",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 20.0,
+      "tuition": 58000,
+      "location": "New York, NY",
+      "programType": "Business-Analytics",
+      "description": "Business Analytics, Stern商学院",
+      "researchAreas": [
+        "ML",
+        "Finance",
+        "Marketing",
+        "Tech"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Finance",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Carnegie Mellon - CyLab",
+      "shortName": "CMU CyLab",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 8.0,
+      "tuition": 58000,
+      "location": "Pittsburgh, PA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity全球第一, CyLab",
+      "researchAreas": [
+        "Network Security",
+        "Privacy",
+        "Cryptography",
+        "Malware"
+      ],
+      "careerOutcomes": [
+        "NSA",
+        "Google",
+        "Microsoft",
+        "Defense"
+      ]
+    },
+    {
+      "name": "MIT - Cybersecurity",
+      "shortName": "MIT Cyber",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 5.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, CSAIL",
+      "researchAreas": [
+        "Cryptography",
+        "Network Security",
+        "AI Security",
+        "Privacy"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Defense"
+      ]
+    },
+    {
+      "name": "Stanford - Cybersecurity",
+      "shortName": "Stanford Cyber",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 6.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, CS",
+      "researchAreas": [
+        "Cryptography",
+        "AI Security",
+        "Network Security",
+        "Privacy"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UC Berkeley - Cybersecurity",
+      "shortName": "Berkeley Cyber",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 7.0,
+      "tuition": 42000,
+      "location": "Berkeley, CA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 半导体安全",
+      "researchAreas": [
+        "Hardware Security",
+        "Cryptography",
+        "Network Security",
+        "Privacy"
+      ],
+      "careerOutcomes": [
+        "Apple",
+        "Google",
+        "Intel",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Georgia Tech - Cybersecurity",
+      "shortName": "Gatech Cyber",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 12.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, SPX",
+      "researchAreas": [
+        "Network Security",
+        "Malware",
+        "Cryptography",
+        "Forensics"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "NSA",
+        "Defense"
+      ]
+    },
+    {
+      "name": "University of Maryland - Cybersecurity",
+      "shortName": "UMD Cyber",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 15.0,
+      "tuition": 40000,
+      "location": "College Park, MD",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, MD安全重镇",
+      "researchAreas": [
+        "Network Security",
+        "Cryptography",
+        "Forensics",
+        "Policy"
+      ],
+      "careerOutcomes": [
+        "NSA",
+        "FBI",
+        "Lockheed",
+        "Government"
+      ]
+    },
+    {
+      "name": "UIUC - Cybersecurity",
+      "shortName": "UIUC Cyber",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 12.0,
+      "tuition": 35000,
+      "location": "Champaign, IL",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 密码学强",
+      "researchAreas": [
+        "Cryptography",
+        "Network Security",
+        "Privacy",
+        "Formal Methods"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "NSA",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Cornell - Cybersecurity",
+      "shortName": "Cornell Cyber",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 10.0,
+      "tuition": 60000,
+      "location": "Ithaca, NY",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 常青藤",
+      "researchAreas": [
+        "AI Security",
+        "Cryptography",
+        "Network Security",
+        "Privacy"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Northeastern - Cybersecurity",
+      "shortName": "NEU Cyber",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 25.0,
+      "tuition": 50000,
+      "location": "Boston, MA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, COOP项目",
+      "researchAreas": [
+        "Network Security",
+        "Forensics",
+        "Penetration Testing",
+        "Policy"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Defense",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Texas at Dallas - Cybersecurity",
+      "shortName": "UTD Cyber",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 38.0,
+      "tuition": 28000,
+      "location": "Dallas, TX",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 德州",
+      "researchAreas": [
+        "Network Security",
+        "Forensics",
+        "Cryptography",
+        "Cloud Security"
+      ],
+      "careerOutcomes": [
+        "AT&T",
+        "HP",
+        "Defense",
+        "Tech"
+      ]
+    },
+    {
+      "name": "George Washington - Cybersecurity",
+      "shortName": "GWU Cyber",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 35.0,
+      "tuition": 45000,
+      "location": "Washington, DC",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 政府资源",
+      "researchAreas": [
+        "Policy",
+        "Forensics",
+        "Network Security",
+        "Intelligence"
+      ],
+      "careerOutcomes": [
+        "NSA",
+        "FBI",
+        "Government",
+        "Defense"
+      ]
+    },
+    {
+      "name": "University of Denver - Cybersecurity",
+      "shortName": "DU Cyber",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 40.0,
+      "tuition": 48000,
+      "location": "Denver, CO",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 科罗拉多",
+      "researchAreas": [
+        "Penetration Testing",
+        "Forensics",
+        "Network Security",
+        "Privacy"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Startups",
+        "Local Tech"
+      ]
+    },
+    {
+      "name": "Arizona State - Cybersecurity",
+      "shortName": "ASU Cyber",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 42.0,
+      "tuition": 30000,
+      "location": "Tempe, AZ",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 亚利桑那",
+      "researchAreas": [
+        "Network Security",
+        "AI Security",
+        "Cryptography",
+        "Forensics"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Intel",
+        "Startups"
+      ]
+    },
+    {
+      "name": "University of Washington - Cybersecurity",
+      "shortName": "UW Cyber",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 28.0,
+      "tuition": 36000,
+      "location": "Seattle, WA",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 西雅图",
+      "researchAreas": [
+        "Network Security",
+        "Privacy",
+        "Cryptography",
+        "Cloud Security"
+      ],
+      "careerOutcomes": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Boeing"
+      ]
+    },
+    {
+      "name": "Indiana University - Cybersecurity",
+      "shortName": "IU Cyber",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 35.0,
+      "tuition": 32000,
+      "location": "Bloomington, IN",
+      "programType": "Cybersecurity",
+      "description": "Cybersecurity, 安全研究",
+      "researchAreas": [
+        "Network Security",
+        "Forensics",
+        "Cryptography",
+        "Privacy"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Microsoft",
+        "NSA",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Northwestern - Marketing",
+      "shortName": "Kellogg Marketing",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 12.0,
+      "tuition": 72000,
+      "location": "Evanston, IL",
+      "programType": "Marketing",
+      "description": "Marketing, Kellogg营销全美第一",
+      "researchAreas": [
+        "Brand Management",
+        "Marketing Analytics",
+        "Consumer Behavior",
+        "Digital Marketing"
+      ],
+      "careerOutcomes": [
+        "P&G",
+        "Unilever",
+        "Google",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Stanford - Marketing",
+      "shortName": "Stanford Marketing",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 8.0,
+      "tuition": 65000,
+      "location": "Stanford, CA",
+      "programType": "Marketing",
+      "description": "Marketing, GSB",
+      "researchAreas": [
+        "Marketing Analytics",
+        "Consumer Behavior",
+        "Brand Strategy",
+        "Tech Marketing"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "VC"
+      ]
+    },
+    {
+      "name": "Columbia - Marketing",
+      "shortName": "Columbia Marketing",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 12.0,
+      "tuition": 65000,
+      "location": "New York, NY",
+      "programType": "Marketing",
+      "description": "Marketing, 纽约",
+      "researchAreas": [
+        "Marketing Analytics",
+        "Brand Management",
+        "Consumer Behavior",
+        "Entertainment"
+      ],
+      "careerOutcomes": [
+        "P&G",
+        "L'Oréal",
+        "Entertainment",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Harvard - Marketing",
+      "shortName": "HBS Marketing",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 10.0,
+      "tuition": 75000,
+      "location": "Boston, MA",
+      "programType": "Marketing",
+      "description": "Marketing, HBS",
+      "researchAreas": [
+        "Consumer Behavior",
+        "Brand Strategy",
+        "Marketing Analytics",
+        "General Management"
+      ],
+      "careerOutcomes": [
+        "McKinsey",
+        "P&G",
+        "Google",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Chicago - Marketing",
+      "shortName": "Booth Marketing",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 14.0,
+      "tuition": 68000,
+      "location": "Chicago, IL",
+      "programType": "Marketing",
+      "description": "Marketing, Booth",
+      "researchAreas": [
+        "Marketing Analytics",
+        "Quantitative Marketing",
+        "Consumer Behavior",
+        "Pricing"
+      ],
+      "careerOutcomes": [
+        "McKinsey",
+        "P&G",
+        "Finance",
+        "Tech"
+      ]
+    },
+    {
+      "name": "MIT - Marketing",
+      "shortName": "Sloan Marketing",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 10.0,
+      "tuition": 70000,
+      "location": "Cambridge, MA",
+      "programType": "Marketing",
+      "description": "Marketing, Sloan",
+      "researchAreas": [
+        "Marketing Analytics",
+        "Digital Marketing",
+        "Consumer Behavior",
+        "Innovation"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Amazon",
+        "Consulting",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Wharton - Marketing",
+      "shortName": "Wharton Marketing",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 10.0,
+      "tuition": 78000,
+      "location": "Philadelphia, PA",
+      "programType": "Marketing",
+      "description": "Marketing, Wharton",
+      "researchAreas": [
+        "Brand Management",
+        "Marketing Analytics",
+        "Consumer Behavior",
+        "Retail"
+      ],
+      "careerOutcomes": [
+        "P&G",
+        "Goldman Sachs",
+        "Consulting",
+        "Finance"
+      ]
+    },
+    {
+      "name": "NYU - Marketing",
+      "shortName": "NYU Stern Marketing",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 18.0,
+      "tuition": 62000,
+      "location": "New York, NY",
+      "programType": "Marketing",
+      "description": "Marketing, Stern",
+      "researchAreas": [
+        "Digital Marketing",
+        "Brand Management",
+        "Entertainment",
+        "Luxury"
+      ],
+      "careerOutcomes": [
+        "L'Oréal",
+        "P&G",
+        "Entertainment",
+        "Finance"
+      ]
+    },
+    {
+      "name": "UCLA - Marketing",
+      "shortName": "UCLA Anderson Marketing",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 16.0,
+      "tuition": 55000,
+      "location": "Los Angeles, CA",
+      "programType": "Marketing",
+      "description": "Marketing, Anderson",
+      "researchAreas": [
+        "Entertainment Marketing",
+        "Digital Marketing",
+        "Consumer Behavior",
+        "Luxury"
+      ],
+      "careerOutcomes": [
+        "Disney",
+        "Entertainment",
+        "Tech",
+        "Luxury"
+      ]
+    },
+    {
+      "name": "USC - Marketing",
+      "shortName": "USC Marshall Marketing",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 20.0,
+      "tuition": 56000,
+      "location": "Los Angeles, CA",
+      "programType": "Marketing",
+      "description": "Marketing, Marshall",
+      "researchAreas": [
+        "Entertainment",
+        "Digital Marketing",
+        "Brand Management",
+        "Sports Marketing"
+      ],
+      "careerOutcomes": [
+        "Disney",
+        "Entertainment",
+        "Sports",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Michigan - Marketing",
+      "shortName": "Ross Marketing",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 15.0,
+      "tuition": 60000,
+      "location": "Ann Arbor, MI",
+      "programType": "Marketing",
+      "description": "Marketing, Ross",
+      "researchAreas": [
+        "Brand Management",
+        "Marketing Analytics",
+        "Consumer Behavior",
+        "Automotive"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "P&G",
+        "Consulting",
+        "Tech"
+      ]
+    },
+    {
+      "name": "UVA - Marketing",
+      "shortName": "Darden Marketing",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 18.0,
+      "tuition": 58000,
+      "location": "Charlottesville, VA",
+      "programType": "Marketing",
+      "description": "Marketing, Darden",
+      "researchAreas": [
+        "Consumer Behavior",
+        "Brand Strategy",
+        "Marketing Analytics",
+        "General Management"
+      ],
+      "careerOutcomes": [
+        "P&G",
+        "Consulting",
+        "Tech",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Duke - Marketing",
+      "shortName": "Fuqua Marketing",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 16.0,
+      "tuition": 62000,
+      "location": "Durham, NC",
+      "programType": "Marketing",
+      "description": "Marketing, Fuqua",
+      "researchAreas": [
+        "Brand Management",
+        "Marketing Analytics",
+        "Consumer Behavior",
+        "Strategy"
+      ],
+      "careerOutcomes": [
+        "P&G",
+        "Consulting",
+        "Healthcare",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Emory - Marketing",
+      "shortName": "Goizueta Marketing",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 20.0,
+      "tuition": 55000,
+      "location": "Atlanta, GA",
+      "programType": "Marketing",
+      "description": "Marketing, Goizueta",
+      "researchAreas": [
+        "Brand Management",
+        "Digital Marketing",
+        "Consumer Behavior",
+        "Entertainment"
+      ],
+      "careerOutcomes": [
+        "Coca-Cola",
+        "Delta",
+        "Entertainment",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Boston University - Marketing",
+      "shortName": "BU Marketing",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 28.0,
+      "tuition": 52000,
+      "location": "Boston, MA",
+      "programType": "Marketing",
+      "description": "Marketing, 波士顿",
+      "researchAreas": [
+        "Digital Marketing",
+        "Marketing Analytics",
+        "Consumer Behavior",
+        "Healthcare"
+      ],
+      "careerOutcomes": [
+        "P&G",
+        "Amazon",
+        "Healthcare",
+        "Tech"
+      ]
+    },
+    {
+      "name": "MIT - Operations Research",
+      "shortName": "MIT OR",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 6.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "OR-IE",
+      "description": "OR/IE全球第一, MIT",
+      "researchAreas": [
+        "Optimization",
+        "Stochastic Processes",
+        "Statistics",
+        "Supply Chain"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "McKinsey",
+        "Google",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Stanford - Operations Research",
+      "shortName": "Stanford OR",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 7.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "OR-IE",
+      "description": "OR/IE, 供应链优化",
+      "researchAreas": [
+        "Optimization",
+        "Machine Learning",
+        "Supply Chain",
+        "Healthcare"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Google",
+        "Startups",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Michigan - IOE",
+      "shortName": "UMich IOE",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "OR-IE",
+      "description": "IOE, 汽车工业",
+      "researchAreas": [
+        "Manufacturing",
+        "Supply Chain",
+        "Optimization",
+        "Quality Control"
+      ],
+      "careerOutcomes": [
+        "Ford",
+        "General Motors",
+        "Amazon",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Georgia Tech - ISYE",
+      "shortName": "Gatech ISYE",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 12.0,
+      "tuition": 33000,
+      "location": "Atlanta, GA",
+      "programType": "OR-IE",
+      "description": "ISYE, 供应链全美第一",
+      "researchAreas": [
+        "Supply Chain",
+        "Optimization",
+        "Quality Control",
+        "Statistics"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Delta",
+        "Caterpillar",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Cornell - Operations Research",
+      "shortName": "Cornell OR",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 10.0,
+      "tuition": 58000,
+      "location": "Ithaca, NY",
+      "programType": "OR-IE",
+      "description": "OR, 常青藤",
+      "researchAreas": [
+        "Optimization",
+        "Stochastic Processes",
+        "Statistics",
+        "Finance"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Amazon",
+        "Google",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Columbia - IEOR",
+      "shortName": "Columbia IEOR",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 15.0,
+      "tuition": 60000,
+      "location": "New York, NY",
+      "programType": "OR-IE",
+      "description": "IEOR, 纽约金融",
+      "researchAreas": [
+        "Optimization",
+        "Financial Engineering",
+        "Supply Chain",
+        "ML"
+      ],
+      "careerOutcomes": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Amazon",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Northwestern - IE",
+      "shortName": "Northwestern IE",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 14.0,
+      "tuition": 52000,
+      "location": "Evanston, IL",
+      "programType": "OR-IE",
+      "description": "IE, 医疗系统",
+      "researchAreas": [
+        "Healthcare Systems",
+        "Optimization",
+        "Quality",
+        "Manufacturing"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Healthcare",
+        "Manufacturing",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Purdue - IE",
+      "shortName": "Purdue IE",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 16.0,
+      "tuition": 32000,
+      "location": "West Lafayette, IN",
+      "programType": "OR-IE",
+      "description": "IE, 航空航天",
+      "researchAreas": [
+        "Manufacturing",
+        "Quality Control",
+        "Supply Chain",
+        "Aerospace"
+      ],
+      "careerOutcomes": [
+        "Boeing",
+        "Lockheed",
+        "Caterpillar",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "UIUC - IE",
+      "shortName": "UIUC IE",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 14.0,
+      "tuition": 35000,
+      "location": "Champaign, IL",
+      "programType": "OR-IE",
+      "description": "IE, 农业/制造",
+      "researchAreas": [
+        "Manufacturing",
+        "Optimization",
+        "Supply Chain",
+        "Quality"
+      ],
+      "careerOutcomes": [
+        "Caterpillar",
+        "John Deere",
+        "Amazon",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "University of Wisconsin - IE",
+      "shortName": "Wisc IE",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 28.0,
+      "tuition": 35000,
+      "location": "Madison, WI",
+      "programType": "OR-IE",
+      "description": "IE, 制造业",
+      "researchAreas": [
+        "Manufacturing",
+        "Quality Control",
+        "Optimization",
+        "Supply Chain"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Epic",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "University of Minnesota - IE",
+      "shortName": "UMN IE",
+      "type": "硕士",
+      "rank": 11,
+      "admissionRate": 30.0,
+      "tuition": 35000,
+      "location": "Minneapolis, MN",
+      "programType": "OR-IE",
+      "description": "IE, 医疗设备",
+      "researchAreas": [
+        "Healthcare",
+        "Manufacturing",
+        "Quality Control",
+        "Optimization"
+      ],
+      "careerOutcomes": [
+        "3M",
+        "Medtronic",
+        "Amazon",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Ohio State - IE",
+      "shortName": "OSU IE",
+      "type": "硕士",
+      "rank": 12,
+      "admissionRate": 30.0,
+      "tuition": 35000,
+      "location": "Columbus, OH",
+      "programType": "OR-IE",
+      "description": "IE, 大型项目",
+      "researchAreas": [
+        "Manufacturing",
+        "Supply Chain",
+        "Optimization",
+        "Healthcare"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Manufacturing",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Penn State - IE",
+      "shortName": "PSU IE",
+      "type": "硕士",
+      "rank": 13,
+      "admissionRate": 32.0,
+      "tuition": 38000,
+      "location": "University Park, PA",
+      "programType": "OR-IE",
+      "description": "IE, 大型项目",
+      "researchAreas": [
+        "Manufacturing",
+        "Quality Control",
+        "Supply Chain",
+        "Operations"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Caterpillar",
+        "Manufacturing",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Rutgers - OR",
+      "shortName": "Rutgers OR",
+      "type": "硕士",
+      "rank": 14,
+      "admissionRate": 35.0,
+      "tuition": 32000,
+      "location": "New Brunswick, NJ",
+      "programType": "OR-IE",
+      "description": "OR, 新泽西",
+      "researchAreas": [
+        "Optimization",
+        "Financial Engineering",
+        "Supply Chain",
+        "Statistics"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Finance",
+        "Pharma",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "University of Florida - IE",
+      "shortName": "UF IE",
+      "type": "硕士",
+      "rank": 15,
+      "admissionRate": 38.0,
+      "tuition": 30000,
+      "location": "Gainesville, FL",
+      "programType": "OR-IE",
+      "description": "IE, 佛州",
+      "researchAreas": [
+        "Manufacturing",
+        "Optimization",
+        "Supply Chain",
+        "Healthcare"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Disney",
+        "Healthcare",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "Johns Hopkins - MPH",
+      "shortName": "JHU MPH",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 10.0,
+      "tuition": 60000,
+      "location": "Baltimore, MD",
+      "programType": "Public-Health",
+      "description": "MPH全球第一",
+      "researchAreas": [
+        "Epidemiology",
+        "Biostatistics",
+        "Health Policy",
+        "Global Health"
+      ],
+      "careerOutcomes": [
+        "WHO",
+        "CDC",
+        "Health Systems",
+        "Government"
+      ]
+    },
+    {
+      "name": "Harvard - MPH",
+      "shortName": "Harvard MPH",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 8.0,
+      "tuition": 65000,
+      "location": "Boston, MA",
+      "programType": "Public-Health",
+      "description": "MPH, T.H. Chan公卫学院",
+      "researchAreas": [
+        "Epidemiology",
+        "Health Policy",
+        "Global Health",
+        "Biostatistics"
+      ],
+      "careerOutcomes": [
+        "WHO",
+        "McKinsey Health",
+        "Pharma",
+        "Government"
+      ]
+    },
+    {
+      "name": "University of Michigan - MPH",
+      "shortName": "UMich MPH",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "Public-Health",
+      "description": "MPH, 综合项目",
+      "researchAreas": [
+        "Epidemiology",
+        "Biostatistics",
+        "Environmental Health",
+        "Health Policy"
+      ],
+      "careerOutcomes": [
+        "CDC",
+        "WHO",
+        "Health Systems",
+        "Government"
+      ]
+    },
+    {
+      "name": "Columbia - MPH",
+      "shortName": "Columbia MPH",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 12.0,
+      "tuition": 60000,
+      "location": "New York, NY",
+      "programType": "Public-Health",
+      "description": "MPH, 纽约",
+      "researchAreas": [
+        "Epidemiology",
+        "Health Policy",
+        "Global Health",
+        "Biostatistics"
+      ],
+      "careerOutcomes": [
+        "UN",
+        "NYC Health",
+        "Pharma",
+        "NGO"
+      ]
+    },
+    {
+      "name": "UCLA - MPH",
+      "shortName": "UCLA MPH",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 15.0,
+      "tuition": 45000,
+      "location": "Los Angeles, CA",
+      "programType": "Public-Health",
+      "description": "MPH, 洛杉矶",
+      "researchAreas": [
+        "Epidemiology",
+        "Health Policy",
+        "Urban Health",
+        "Global Health"
+      ],
+      "careerOutcomes": [
+        "LA County Health",
+        "WHO",
+        "Pharma",
+        "Government"
+      ]
+    },
+    {
+      "name": "UNC Chapel Hill - MPH",
+      "shortName": "UNC MPH",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 20.0,
+      "tuition": 40000,
+      "location": "Chapel Hill, NC",
+      "programType": "Public-Health",
+      "description": "MPH, 公共卫生历史强",
+      "researchAreas": [
+        "Epidemiology",
+        "Health Behavior",
+        "Environmental Health",
+        "Biostatistics"
+      ],
+      "careerOutcomes": [
+        "CDC",
+        "WHO",
+        "State Health",
+        "NGO"
+      ]
+    },
+    {
+      "name": "Emory - MPH",
+      "shortName": "Emory MPH",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 22.0,
+      "tuition": 48000,
+      "location": "Atlanta, GA",
+      "programType": "Public-Health",
+      "description": "MPH, CDC合作",
+      "researchAreas": [
+        "Global Health",
+        "Epidemiology",
+        "Health Policy",
+        "Infectious Disease"
+      ],
+      "careerOutcomes": [
+        "CDC",
+        "WHO",
+        "Global Health",
+        "NGO"
+      ]
+    },
+    {
+      "name": "Boston University - MPH",
+      "shortName": "BU MPH",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 25.0,
+      "tuition": 50000,
+      "location": "Boston, MA",
+      "programType": "Public-Health",
+      "description": "MPH, 波士顿",
+      "researchAreas": [
+        "Epidemiology",
+        "Biostatistics",
+        "Global Health",
+        "Health Policy"
+      ],
+      "careerOutcomes": [
+        "CDC",
+        "WHO",
+        "Health Systems",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "NYU - MPH",
+      "shortName": "NYU MPH",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 20.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "Public-Health",
+      "description": "MPH, 全球健康",
+      "researchAreas": [
+        "Global Health",
+        "Epidemiology",
+        "Health Policy",
+        "Urban Health"
+      ],
+      "careerOutcomes": [
+        "UN",
+        "WHO",
+        "NYC Health",
+        "NGO"
+      ]
+    },
+    {
+      "name": "University of Washington - MPH",
+      "shortName": "UW MPH",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 22.0,
+      "tuition": 42000,
+      "location": "Seattle, WA",
+      "programType": "Public-Health",
+      "description": "MPH, 全球健康",
+      "researchAreas": [
+        "Global Health",
+        "Epidemiology",
+        "Health Metrics",
+        "Infectious Disease"
+      ],
+      "careerOutcomes": [
+        "WHO",
+        "Gates Foundation",
+        "Health Systems",
+        "Government"
+      ]
+    },
+    {
+      "name": "Harvard - GSD",
+      "shortName": "Harvard GSD",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 8.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Architecture",
+      "description": "Architecture全球第一, GSD",
+      "researchAreas": [
+        "Architecture",
+        "Urban Design",
+        "Landscape",
+        "History"
+      ],
+      "careerOutcomes": [
+        "SOM",
+        "Gensler",
+        "KPF",
+        "Design"
+      ]
+    },
+    {
+      "name": "MIT - Architecture",
+      "shortName": "MIT Architecture",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 7.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Architecture",
+      "description": "Architecture, SA+P",
+      "researchAreas": [
+        "Architecture",
+        "Urban Planning",
+        "Computation",
+        "Sustainability"
+      ],
+      "careerOutcomes": [
+        "SOM",
+        "Gensler",
+        "Startups",
+        "Tech"
+      ]
+    },
+    {
+      "name": "Columbia - Architecture",
+      "shortName": "Columbia GSAPP",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 12.0,
+      "tuition": 60000,
+      "location": "New York, NY",
+      "programType": "Architecture",
+      "description": "Architecture, GSAPP",
+      "researchAreas": [
+        "Architecture",
+        "Urban Planning",
+        "Real Estate",
+        "Sustainability"
+      ],
+      "careerOutcomes": [
+        "Gensler",
+        "KPF",
+        "Real Estate",
+        "Design"
+      ]
+    },
+    {
+      "name": "Yale - Architecture",
+      "shortName": "Yale Architecture",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 10.0,
+      "tuition": 50000,
+      "location": "New Haven, CT",
+      "programType": "Architecture",
+      "description": "Architecture, 艺术学院",
+      "researchAreas": [
+        "Architecture",
+        "Graphic Design",
+        "Photography",
+        "History"
+      ],
+      "careerOutcomes": [
+        "SOM",
+        "Herzog & de Meuron",
+        "Design",
+        "Art"
+      ]
+    },
+    {
+      "name": "Stanford - Architecture",
+      "shortName": "Stanford Architecture",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 8.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Architecture",
+      "description": "Architecture, 设计思维",
+      "researchAreas": [
+        "Sustainable Design",
+        "Computation",
+        "Urban Design",
+        "Architecture"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "Design"
+      ]
+    },
+    {
+      "name": "UC Berkeley - Architecture",
+      "shortName": "Berkeley Architecture",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 12.0,
+      "tuition": 42000,
+      "location": "Berkeley, CA",
+      "programType": "Architecture",
+      "description": "Architecture, 环境设计",
+      "researchAreas": [
+        "Urban Planning",
+        "Architecture",
+        "Sustainability",
+        "Housing"
+      ],
+      "careerOutcomes": [
+        "SOM",
+        "Gensler",
+        "Government",
+        "Non-profit"
+      ]
+    },
+    {
+      "name": "University of Michigan - Architecture",
+      "shortName": "UMich Architecture",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 18.0,
+      "tuition": 48000,
+      "location": "Ann Arbor, MI",
+      "programType": "Architecture",
+      "description": "Architecture, 环境/规划",
+      "researchAreas": [
+        "Architecture",
+        "Urban Planning",
+        "Sustainability",
+        "Historic Preservation"
+      ],
+      "careerOutcomes": [
+        "SOM",
+        "Gensler",
+        "Government",
+        "Design"
+      ]
+    },
+    {
+      "name": "UCLA - Architecture",
+      "shortName": "UCLA Architecture",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 14.0,
+      "tuition": 45000,
+      "location": "Los Angeles, CA",
+      "programType": "Architecture",
+      "description": "Architecture, 媒体艺术",
+      "researchAreas": [
+        "Architecture",
+        "Media Arts",
+        "Urban Design",
+        "Sustainability"
+      ],
+      "careerOutcomes": [
+        "Disney",
+        "Entertainment",
+        "Design",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Southern California - Architecture",
+      "shortName": "USC Architecture",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 18.0,
+      "tuition": 52000,
+      "location": "Los Angeles, CA",
+      "programType": "Architecture",
+      "description": "Architecture, 电影+建筑",
+      "researchAreas": [
+        "Architecture",
+        "Film",
+        "Immersive Design",
+        "Urban Design"
+      ],
+      "careerOutcomes": [
+        "Disney",
+        "Entertainment",
+        "Design",
+        "Gaming"
+      ]
+    },
+    {
+      "name": "University of Texas at Austin - Architecture",
+      "shortName": "UT Austin Architecture",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 22.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "Architecture",
+      "description": "Architecture, 德州",
+      "researchAreas": [
+        "Architecture",
+        "Urban Planning",
+        "Sustainability",
+        "Housing"
+      ],
+      "careerOutcomes": [
+        "Gensler",
+        "HOK",
+        "Government",
+        "Design"
+      ]
+    },
+    {
+      "name": "Harvard - LLM",
+      "shortName": "Harvard LLM",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 5.0,
+      "tuition": 70000,
+      "location": "Cambridge, MA",
+      "programType": "Law-LLM",
+      "description": "LLM全球第一",
+      "researchAreas": [
+        "Corporate Law",
+        "International Law",
+        "Human Rights",
+        "Tax Law"
+      ],
+      "careerOutcomes": [
+        "Sullivan",
+        "Cravath",
+        "Clifford Chance",
+        "International"
+      ]
+    },
+    {
+      "name": "Yale - LLM",
+      "shortName": "Yale LLM",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 4.0,
+      "tuition": 68000,
+      "location": "New Haven, CT",
+      "programType": "Law-LLM",
+      "description": "LLM, 学术最强",
+      "researchAreas": [
+        "International Law",
+        "Human Rights",
+        "Corporate Law",
+        "Constitutional"
+      ],
+      "careerOutcomes": [
+        "Supreme Court",
+        "International",
+        "Academia",
+        "Human Rights"
+      ]
+    },
+    {
+      "name": "Stanford - LLM",
+      "shortName": "Stanford LLM",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 5.0,
+      "tuition": 66000,
+      "location": "Stanford, CA",
+      "programType": "Law-LLM",
+      "description": "LLM, 硅谷法律",
+      "researchAreas": [
+        "Tech Law",
+        "Corporate Law",
+        "International Law",
+        "IP Law"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Apple",
+        "Startups",
+        "VC"
+      ]
+    },
+    {
+      "name": "Columbia - LLM",
+      "shortName": "Columbia LLM",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 6.0,
+      "tuition": 72000,
+      "location": "New York, NY",
+      "programType": "Law-LLM",
+      "description": "LLM, 纽约金融法律",
+      "researchAreas": [
+        "Corporate Law",
+        "Finance Law",
+        "International Law",
+        "IP Law"
+      ],
+      "careerOutcomes": [
+        "Sullivan",
+        "Cravath",
+        "Goldman Sachs",
+        "Finance"
+      ]
+    },
+    {
+      "name": "NYU - LLM",
+      "shortName": "NYU LLM",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 8.0,
+      "tuition": 68000,
+      "location": "New York, NY",
+      "programType": "Law-LLM",
+      "description": "LLM, 国际法/税法",
+      "researchAreas": [
+        "International Law",
+        "Tax Law",
+        "Corporate Law",
+        "Human Rights"
+      ],
+      "careerOutcomes": [
+        "KPMG",
+        "PwC",
+        "International",
+        "Finance"
+      ]
+    },
+    {
+      "name": "University of Chicago - LLM",
+      "shortName": "UChicago LLM",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 7.0,
+      "tuition": 65000,
+      "location": "Chicago, IL",
+      "programType": "Law-LLM",
+      "description": "LLM, 法律经济学",
+      "researchAreas": [
+        "Law & Economics",
+        "Corporate Law",
+        "Constitutional",
+        "IP Law"
+      ],
+      "careerOutcomes": [
+        "Cravath",
+        "Finance",
+        "Academia",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Georgetown - LLM",
+      "shortName": "Georgetown LLM",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 10.0,
+      "tuition": 65000,
+      "location": "Washington, DC",
+      "programType": "Law-LLM",
+      "description": "LLM, 政府/国际",
+      "researchAreas": [
+        "International Law",
+        "National Security",
+        "Tax Law",
+        "Clinical"
+      ],
+      "careerOutcomes": [
+        "State Department",
+        "International",
+        "Government",
+        "NGO"
+      ]
+    },
+    {
+      "name": "UPenn - LLM",
+      "shortName": "Penn LLM",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 8.0,
+      "tuition": 68000,
+      "location": "Philadelphia, PA",
+      "programType": "Law-LLM",
+      "description": "LLM, 商法",
+      "researchAreas": [
+        "Corporate Law",
+        "Finance Law",
+        "International",
+        "IP Law"
+      ],
+      "careerOutcomes": [
+        "Sullivan",
+        "Cravath",
+        "Finance",
+        "International"
+      ]
+    },
+    {
+      "name": "Duke - LLM",
+      "shortName": "Duke LLM",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 12.0,
+      "tuition": 62000,
+      "location": "Durham, NC",
+      "programType": "Law-LLM",
+      "description": "LLM, 国际法/环境法",
+      "researchAreas": [
+        "International Law",
+        "Environmental Law",
+        "Corporate Law",
+        "IP Law"
+      ],
+      "careerOutcomes": [
+        "Environmental",
+        "International",
+        "Government",
+        "NGO"
+      ]
+    },
+    {
+      "name": "Cornell - LLM",
+      "shortName": "Cornell LLM",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 10.0,
+      "tuition": 60000,
+      "location": "Ithaca, NY",
+      "programType": "Law-LLM",
+      "description": "LLM, 国际法",
+      "researchAreas": [
+        "International Law",
+        "Corporate Law",
+        "Human Rights",
+        "IP Law"
+      ],
+      "careerOutcomes": [
+        "Sullivan",
+        "Clifford Chance",
+        "International",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Harvard - Education",
+      "shortName": "Harvard Ed",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 10.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Education",
+      "description": "Education, HGSE全球第一",
+      "researchAreas": [
+        "Education Policy",
+        "Leadership",
+        "Learning Sciences",
+        "Curriculum"
+      ],
+      "careerOutcomes": [
+        "KIPP",
+        "Government",
+        "EdTech",
+        "NGO"
+      ]
+    },
+    {
+      "name": "Stanford - Education",
+      "shortName": "Stanford Ed",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 8.0,
+      "tuition": 52000,
+      "location": "Stanford, CA",
+      "programType": "Education",
+      "description": "Education, 硅谷EdTech",
+      "researchAreas": [
+        "EdTech",
+        "Learning Sciences",
+        "Education Policy",
+        "Leadership"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "EdTech",
+        "Startups",
+        "KIPP"
+      ]
+    },
+    {
+      "name": "Columbia - Education",
+      "shortName": "Columbia TC",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 12.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "Education",
+      "description": "Education, Teachers College",
+      "researchAreas": [
+        "Curriculum",
+        "Education Policy",
+        "Counseling",
+        "Leadership"
+      ],
+      "careerOutcomes": [
+        "NYC DOE",
+        "EdTech",
+        "Government",
+        "NGO"
+      ]
+    },
+    {
+      "name": "University of Michigan - Education",
+      "shortName": "UMich Ed",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 15.0,
+      "tuition": 45000,
+      "location": "Ann Arbor, MI",
+      "programType": "Education",
+      "description": "Education, 综合项目",
+      "researchAreas": [
+        "Education Policy",
+        "Learning Sciences",
+        "K-12",
+        "Higher Ed"
+      ],
+      "careerOutcomes": [
+        "Education",
+        "Government",
+        "EdTech",
+        "KIPP"
+      ]
+    },
+    {
+      "name": "Johns Hopkins - Education",
+      "shortName": "JHU Ed",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 14.0,
+      "tuition": 52000,
+      "location": "Baltimore, MD",
+      "programType": "Education",
+      "description": "Education, 医学院+教育",
+      "researchAreas": [
+        "Education Policy",
+        "Leadership",
+        "Mental Health",
+        "Special Ed"
+      ],
+      "careerOutcomes": [
+        "Education",
+        "Healthcare",
+        "Government",
+        "NGO"
+      ]
+    },
+    {
+      "name": "Northwestern - Education",
+      "shortName": "Northwestern Ed",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 14.0,
+      "tuition": 52000,
+      "location": "Evanston, IL",
+      "programType": "Education",
+      "description": "Education, 社会政策",
+      "researchAreas": [
+        "Social Policy",
+        "Education Policy",
+        "Economics of Education",
+        "Leadership"
+      ],
+      "careerOutcomes": [
+        "McKinsey",
+        "Education",
+        "Government",
+        "EdTech"
+      ]
+    },
+    {
+      "name": "Vanderbilt - Education",
+      "shortName": "Vanderbilt Ed",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 16.0,
+      "tuition": 50000,
+      "location": "Nashville, TN",
+      "programType": "Education",
+      "description": "Education, Peabody学院",
+      "researchAreas": [
+        "Special Ed",
+        "K-12",
+        "Policy",
+        "Urban Education"
+      ],
+      "careerOutcomes": [
+        "KIPP",
+        "Government",
+        "Education",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Wisconsin - Education",
+      "shortName": "Wisc Ed",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 22.0,
+      "tuition": 35000,
+      "location": "Madison, WI",
+      "programType": "Education",
+      "description": "Education, 公立项目",
+      "researchAreas": [
+        "Curriculum",
+        "Leadership",
+        "K-12",
+        "Higher Ed"
+      ],
+      "careerOutcomes": [
+        "Education",
+        "Government",
+        "EdTech",
+        "KIPP"
+      ]
+    },
+    {
+      "name": "University of Texas at Austin - Education",
+      "shortName": "UT Austin Ed",
+      "type": "硕士",
+      "rank": 9,
+      "admissionRate": 20.0,
+      "tuition": 35000,
+      "location": "Austin, TX",
+      "programType": "Education",
+      "description": "Education, 德州",
+      "researchAreas": [
+        "Education Policy",
+        "Leadership",
+        "Bilingual",
+        "Urban"
+      ],
+      "careerOutcomes": [
+        "Texas Education",
+        "Government",
+        "EdTech",
+        "KIPP"
+      ]
+    },
+    {
+      "name": "NYU - Education",
+      "shortName": "NYU Ed",
+      "type": "硕士",
+      "rank": 10,
+      "admissionRate": 20.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "Education",
+      "description": "Education, 纽约",
+      "researchAreas": [
+        "Education Policy",
+        "Urban Education",
+        "Counseling",
+        "Leadership"
+      ],
+      "careerOutcomes": [
+        "NYC DOE",
+        "EdTech",
+        "Government",
+        "Non-profit"
+      ]
+    },
+    {
+      "name": "MIT - Brain & Cognitive Sciences",
+      "shortName": "MIT BCS",
+      "type": "硕士",
+      "rank": 1,
+      "admissionRate": 5.0,
+      "tuition": 55000,
+      "location": "Cambridge, MA",
+      "programType": "Neuroscience",
+      "description": "神经科学全球前三",
+      "researchAreas": [
+        "Cognitive Neuroscience",
+        "Neurobiology",
+        "AI",
+        "Computation"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Biotech",
+        "Academia",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Harvard - Neuroscience",
+      "shortName": "Harvard Neuro",
+      "type": "硕士",
+      "rank": 2,
+      "admissionRate": 6.0,
+      "tuition": 50000,
+      "location": "Cambridge, MA",
+      "programType": "Neuroscience",
+      "description": "神经科学, 医学院",
+      "researchAreas": [
+        "Neurobiology",
+        "Cognitive",
+        "Brain Imaging",
+        "Disease"
+      ],
+      "careerOutcomes": [
+        "Biotech",
+        "Pharma",
+        "Healthcare",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Stanford - Neuroscience",
+      "shortName": "Stanford Neuro",
+      "type": "硕士",
+      "rank": 3,
+      "admissionRate": 6.0,
+      "tuition": 58000,
+      "location": "Stanford, CA",
+      "programType": "Neuroscience",
+      "description": "神经科学, 医学院",
+      "researchAreas": [
+        "Neuroimaging",
+        "AI",
+        "Neurological Disease",
+        "Computation"
+      ],
+      "careerOutcomes": [
+        "Genentech",
+        "Google",
+        "Biotech",
+        "Startups"
+      ]
+    },
+    {
+      "name": "UCSF - Neuroscience",
+      "shortName": "UCSF Neuro",
+      "type": "硕士",
+      "rank": 4,
+      "admissionRate": 7.0,
+      "tuition": 48000,
+      "location": "San Francisco, CA",
+      "programType": "Neuroscience",
+      "description": "神经科学, 医学中心",
+      "researchAreas": [
+        "Neurobiology",
+        "Disease",
+        "Imaging",
+        "Drug Discovery"
+      ],
+      "careerOutcomes": [
+        "Genentech",
+        "UCSF Medical",
+        "Biotech",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "Johns Hopkins - Neuroscience",
+      "shortName": "JHU Neuro",
+      "type": "硕士",
+      "rank": 5,
+      "admissionRate": 8.0,
+      "tuition": 55000,
+      "location": "Baltimore, MD",
+      "programType": "Neuroscience",
+      "description": "神经科学, 医学院",
+      "researchAreas": [
+        "Neurobiology",
+        "Cognitive",
+        "Disease",
+        "Biophysics"
+      ],
+      "careerOutcomes": [
+        "NIH",
+        "JHU Medical",
+        "Biotech",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "Columbia - Neuroscience",
+      "shortName": "Columbia Neuro",
+      "type": "硕士",
+      "rank": 6,
+      "admissionRate": 8.0,
+      "tuition": 55000,
+      "location": "New York, NY",
+      "programType": "Neuroscience",
+      "description": "神经科学, Zuckerman",
+      "researchAreas": [
+        "Cognitive",
+        "Neurobiology",
+        "Disease",
+        "Computational"
+      ],
+      "careerOutcomes": [
+        "Google",
+        "Biotech",
+        "Finance",
+        "Academia"
+      ]
+    },
+    {
+      "name": "University of Pennsylvania - Neuroscience",
+      "shortName": "UPenn Neuro",
+      "type": "硕士",
+      "rank": 7,
+      "admissionRate": 9.0,
+      "tuition": 55000,
+      "location": "Philadelphia, PA",
+      "programType": "Neuroscience",
+      "description": "神经科学, 医学院",
+      "researchAreas": [
+        "Neurobiology",
+        "Cognitive",
+        "Disease",
+        "Biophysics"
+      ],
+      "careerOutcomes": [
+        "Biotech",
+        "Pharma",
+        "Healthcare",
+        "Academia"
+      ]
+    },
+    {
+      "name": "Washington University - Neuroscience",
+      "shortName": "WashU Neuro",
+      "type": "硕士",
+      "rank": 8,
+      "admissionRate": 10.0,
+      "tuition": 55000,
+      "location": "St. Louis, MO",
+      "programType": "Neuroscience",
+      "description": "神经科学, 医学院",
+      "researchAreas": [
+        "Neuroimaging",
+        "Disease",
+        "Cognitive",
+        "Computation"
+      ],
+      "careerOutcomes": [
+        "Biotech",
+        "Healthcare",
+        "Academia",
+        "Pharma"
+      ]
+    },
+    {
+      "name": "University of Minnesota - Mechanical Engineering",
+      "shortName": "UMN ME",
+      "type": "硕士",
+      "rank": 45,
+      "admissionRate": 35,
+      "tuition": 35000,
+      "location": "Minneapolis, MN",
+      "programType": "Mechanical",
+      "description": "Mechanical Engineering, 明尼苏达",
+      "researchAreas": [
+        "Manufacturing",
+        "Thermal",
+        "Materials",
+        "Robotics"
+      ],
+      "careerOutcomes": [
+        "Medtronic",
+        "3M",
+        "General Mills",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "University of Iowa - Mechanical Engineering",
+      "shortName": "Iowa ME",
+      "type": "硕士",
+      "rank": 58,
+      "admissionRate": 42,
+      "tuition": 32000,
+      "location": "Iowa City, IA",
+      "programType": "Mechanical",
+      "description": "Mechanical Engineering, 爱荷华",
+      "researchAreas": [
+        "Manufacturing",
+        "Biomechanics",
+        "Thermal Science",
+        "Design"
+      ],
+      "careerOutcomes": [
+        "John Deere",
+        "Caterpillar",
+        "Manufacturing",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "University of Oklahoma - Mechanical Engineering",
+      "shortName": "OU ME",
+      "type": "硕士",
+      "rank": 75,
+      "admissionRate": 55,
+      "tuition": 25000,
+      "location": "Norman, OK",
+      "programType": "Mechanical",
+      "description": "Mechanical Engineering, 俄克拉荷马",
+      "researchAreas": [
+        "Energy",
+        "Aerospace",
+        "Automotive",
+        "Manufacturing"
+      ],
+      "careerOutcomes": [
+        "Oil Gas",
+        "Aerospace",
+        "Automotive",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "University of Nebraska - Mechanical Engineering",
+      "shortName": "UNL ME",
+      "type": "硕士",
+      "rank": 82,
+      "admissionRate": 58,
+      "tuition": 28000,
+      "location": "Lincoln, NE",
+      "programType": "Mechanical",
+      "description": "Mechanical Engineering, 内布拉斯加",
+      "researchAreas": [
+        "Manufacturing",
+        "Thermal",
+        "Agricultural",
+        "Design"
+      ],
+      "careerOutcomes": [
+        "John Deere",
+        "Caterpillar",
+        "Agriculture",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "UW Tacoma - Data Science",
+      "shortName": "UWT DS",
+      "type": "硕士",
+      "rank": 58,
+      "admissionRate": 55,
+      "tuition": 28000,
+      "location": "Tacoma, WA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 西雅图",
+      "researchAreas": [
+        "Data Analytics",
+        "Machine Learning",
+        "Statistics",
+        "Visualization"
+      ],
+      "careerOutcomes": [
+        "Amazon",
+        "Microsoft",
+        "Local Tech",
+        "Healthcare"
+      ]
+    },
+    {
+      "name": "Kennesaw State - Data Science",
+      "shortName": "KSU DS",
+      "type": "硕士",
+      "rank": 85,
+      "admissionRate": 65,
+      "tuition": 22000,
+      "location": "Kennesaw, GA",
+      "programType": "DS-Analytics",
+      "description": "Data Science, 佐治亚",
+      "researchAreas": [
+        "Analytics",
+        "ML",
+        "Business Intelligence",
+        "Statistics"
+      ],
+      "careerOutcomes": [
+        "Delta",
+        "Home Depot",
+        "Coca-Cola",
+        "Tech"
+      ]
+    },
+    {
+      "name": "University of Iowa - ECE",
+      "shortName": "Iowa ECE",
+      "type": "硕士",
+      "rank": 52,
+      "admissionRate": 38,
+      "tuition": 32000,
+      "location": "Iowa City, IA",
+      "programType": "ECE",
+      "description": "Electrical Engineering, 爱荷华",
+      "researchAreas": [
+        "Signal Processing",
+        "Communications",
+        "Computer Engineering",
+        " Electronics"
+      ],
+      "careerOutcomes": [
+        "Midwest Tech",
+        "Manufacturing",
+        "Healthcare",
+        "Government"
+      ]
+    },
+    {
+      "name": "University of Kansas - ECE",
+      "shortName": "KU ECE",
+      "type": "硕士",
+      "rank": 70,
+      "admissionRate": 50,
+      "tuition": 28000,
+      "location": "Lawrence, KS",
+      "programType": "ECE",
+      "description": "Electrical Engineering, 堪萨斯",
+      "researchAreas": [
+        "Communications",
+        "Signal Processing",
+        "Computer Architecture",
+        "Power"
+      ],
+      "careerOutcomes": [
+        "Boeing",
+        "Lockheed",
+        "Midwest Tech",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "University of Alabama - Marketing",
+      "shortName": "Bama Marketing",
+      "type": "硕士",
+      "rank": 65,
+      "admissionRate": 50,
+      "tuition": 28000,
+      "location": "Tuscaloosa, AL",
+      "programType": "Marketing",
+      "description": "Marketing, 阿拉巴马",
+      "researchAreas": [
+        "Digital Marketing",
+        "Consumer Behavior",
+        "Brand Management",
+        "Social Media"
+      ],
+      "careerOutcomes": [
+        "Coca-Cola",
+        "Delta",
+        "Entertainment",
+        "Sports"
+      ]
+    },
+    {
+      "name": "University of Louisville - Marketing",
+      "shortName": "UL Marketing",
+      "type": "硕士",
+      "rank": 72,
+      "admissionRate": 55,
+      "tuition": 26000,
+      "location": "Louisville, KY",
+      "programType": "Marketing",
+      "description": "Marketing, 路易斯维尔",
+      "researchAreas": [
+        "Digital Marketing",
+        "Sports Marketing",
+        "Healthcare Marketing",
+        "Retail"
+      ],
+      "careerOutcomes": [
+        "Humana",
+        "UPS",
+        "Healthcare",
+        "Retail"
+      ]
+    },
+    {
+      "name": "University of Arkansas - IE",
+      "shortName": "UArk IE",
+      "type": "硕士",
+      "rank": 80,
+      "admissionRate": 60,
+      "tuition": 24000,
+      "location": "Fayetteville, AR",
+      "programType": "OR-IE",
+      "description": "Industrial Engineering, 阿肯色",
+      "researchAreas": [
+        "Supply Chain",
+        "Manufacturing",
+        "Operations Research",
+        "Quality"
+      ],
+      "careerOutcomes": [
+        "Walmart",
+        "Tyson",
+        "Manufacturing",
+        "Logistics"
+      ]
+    },
+    {
+      "name": "University of South Carolina - IE",
+      "shortName": "USC IE",
+      "type": "硕士",
+      "rank": 68,
+      "admissionRate": 48,
+      "tuition": 30000,
+      "location": "Columbia, SC",
+      "programType": "OR-IE",
+      "description": "Industrial Engineering, 南卡",
+      "researchAreas": [
+        "Quality Control",
+        "Manufacturing",
+        "Supply Chain",
+        "Healthcare Systems"
+      ],
+      "careerOutcomes": [
+        "BMW",
+        "Michelin",
+        "Healthcare",
+        "Manufacturing"
+      ]
+    },
+    {
+      "name": "University of Texas at Arlington - BME",
+      "shortName": "UT Arlington BME",
+      "type": "硕士",
+      "rank": 72,
+      "admissionRate": 45,
+      "tuition": 28000,
+      "location": "Arlington, TX",
+      "programType": "Biomedical",
+      "description": "Biomedical Engineering, 德州",
+      "researchAreas": [
+        "Biomechanics",
+        "Biomaterials",
+        "Medical Imaging",
+        "Rehabilitation"
+      ],
+      "careerOutcomes": [
+        "Medical Devices",
+        "Healthcare",
+        "Pharma",
+        "Research"
+      ]
+    },
+    {
+      "name": "University of Miami - BME",
+      "shortName": "Miami BME",
+      "type": "硕士",
+      "rank": 78,
+      "admissionRate": 50,
+      "tuition": 48000,
+      "location": "Miami, FL",
+      "programType": "Biomedical",
+      "description": "Biomedical Engineering, 迈阿密",
+      "researchAreas": [
+        "Biomaterials",
+        "Tissue Engineering",
+        "Medical Devices",
+        "Biomechanics"
+      ],
+      "careerOutcomes": [
+        "Baptist Health",
+        "Medical Devices",
+        "Pharma",
+        "Research"
+      ]
+    }
+  ]
+}
