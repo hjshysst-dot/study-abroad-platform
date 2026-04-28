@@ -15,6 +15,9 @@ const DATA_DIR = join(__dirname, 'data');
 app.use(cors());
 app.use(express.json({ limit: '10mb' }));
 
+// Serve static files from client dist
+app.use(express.static(join(__dirname, '../client/dist')));
+
 // ============================================
 // 研究生项目数据库（从JSON文件加载）
 // ============================================
@@ -1153,6 +1156,11 @@ app.get('/api/health', (req, res) => {
     universities: US_UNIVERSITIES_DB.length,
     students: loadStudents().students.length
   });
+});
+
+// SPA fallback - serve index.html for all non-API routes
+app.get('*', (req, res) => {
+  res.sendFile(join(__dirname, '../client/dist/index.html'));
 });
 
 app.listen(PORT, () => {
